@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz App</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  <div id="root" class="min-h-screen bg-gray-100 flex items-center justify-center p-4"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.2/babel.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+  <script type="text/babel">
+    function App() {
+      const [questions, setQuestions] = React.useState([]);
+      const [history, setHistory] = React.useState([]);
+      const [currentIndex, setCurrentIndex] = React.useState(-1);
+      const [selectedAnswer, setSelectedAnswer] = React.useState(null);
+      const [loading, setLoading] = React.useState(true);
+      const [error, setError] = React.useState(null);
+
+      // Mapping of SUBSET to full knowledge segment
+      const subsetMapping = {
+        "B4B01DMA": "B4B01DMA: Základy diskrétní matematiky",
+        "B0B36PRP": "B0B36PRP: Programování v jazyce C",
+        "B0B01LGR": "B0B01LGR: Logika a grafy",
+        "B0B36PJV": "B0B36PJV: Programování v jazyce Java",
+        "B4B35APO": "B4B35APO: Architektura počítačů a operačních systémů",
+        "B4B35OSY": "B4B35OSY: Operační systémy",
+        "B4B33ALG": "B4B33ALG: Algoritmy",
+        "B4B38PSI": "B4B38PSI: Počítačové sítě a internet",
+        "B0B36DBS": "B0B36DBS: Databázové systémy",
+        "B0B01LAG": "B0B01LAG: Lineární prostor, báze a dimenze, řešení soustav lineárních rovnic, lineární zobrazení. Základy maticového počtu",
+        "B0B01MA1, B0B01MA2": "B0B01MA1, B0B01MA2: Funkce jedné proměnné, určitý a neurčitý integrál, řady",
+        "B0B01MA2": "B0B01MA2: Mocninné řady, dvojný a trojný integrál",
+        "B0B01PST": "B0B01PST: Způsoby popisu rozdělení náhodných veličin a vektorů, odhady parametrů rozdělení, základní statistické testy, Markovské řetězce a jejich asymptotické vlastnosti",
+        "B4B36PDV": "B4B36PDV: Modely a architektury paralelních a distribuovaných systémů, prostředky pro jejich implementaci, základní algoritmy",
+        "B0B33OPT": "B0B33OPT: Použití lineární algebry v optimalizaci, iterační algoritmy na volné lokální extrémy, lineární programování, konvexní množiny a funkce, konvexní úlohy, dualita"
+      };
+
+      // List of programming-related SUBSETs that may contain code snippets
+      const programmingSubsets = ["B0B36PRP", "B0B36PJV"];
+
+      // Fetch and parse the CSV file on mount
+      React.useEffect(() => {
+        fetch('QUESTIONS.csv')
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('Failed to fetch QUESTIONS.csv');
+            }
+            return response.text();
+          })
+          .then(csvText => {
+            Papa.parse(csvText, {
+              header: true,
+              skipEmptyLines: true,
+              complete: (result) => {
+                const parsedQuestions = result.data.map(q => ({
+                  ...q,
+                  score: 0
+                }));
+                setQuestions(parsedQuestions);
+                setLoading(false);
+              },
+              error: (err) => {
+                setError('Error parsing CSV: ' + err.message);
+                setLoading(false);
+              }
+            });
+          })
+          .catch(err => {
+            setError('Error loading CSV: ' + err.message);
+            setLoading(false);
+          });
+      }, []);
+
+      // Select the first question once questions are loaded
+      React.useEffect(() => {
+        if (questions.length > 0 && history.length === 0) {
+          selectNewQuestion();
+        }
+      }, [questions, history]);
+
+      const selectNewQuestion = () => {
+        const weights = questions.map(q => q.score + 1);
+        const totalWeight = weights.reduce((sum, w) => sum + w, 0);
+        const r = Math.random() * totalWeight;
+        let cumulative = 0;
+        let selectedIndex = -1;
+
+        for (let i = 0; i < weights.length; i++) {
+          cumulative += weights[i];
+          if (cumulative > r) {
+            selectedIndex = i;
+            break;
+          }
+        }
+
+        const newQuestions = questions.map((q, idx) => ({
+          ...q,
+          score: idx === selectedIndex ? 0 : q.score + 1
+        }));
+        setQuestions(newQuestions);
+        const newHistory = [...history, selectedIndex];
+        setHistory(newHistory);
+        setCurrentIndex(newHistory.length - 1);
+        setSelectedAnswer(null);
+      };
+
+      const handleNext = () => {
+        setSelectedAnswer(null);
+        if (currentIndex < history.length - 1) {
+          setCurrentIndex(currentIndex + 1);
+        } else {
+          selectNewQuestion();
+        }
+      };
+
+      const handlePrevious = () => {
+        setSelectedAnswer(null);
+        if (currentIndex > 0) {
+          setCurrentIndex(currentIndex - 1);
+        }
+      };
+
+      const handleAnswerClick = (option) => {
+        setSelectedAnswer(option);
+      };
+
+      const getOptionClass = (option) => {
+        if (!selectedAnswer) return 'bg-gray-200 hover:bg-gray-300';
+        const isCorrect = option === questions[history[currentIndex]].TRUE;
+        const isSelected = option === selectedAnswer;
+        if (isCorrect) return 'bg-green-500 text-white';
+        if (isSelected) return 'bg-red-500 text-white';
+        return 'bg-gray-200';
+      };
+
+      // Function to render the question with proper code formatting
+      const renderQuestion = (questionText, subset) => {
+        // Check if the SUBSET is programming-related
+        if (!programmingSubsets.includes(subset)) {
+          return <p className="text-lg mb-6">{questionText}</p>;
+        }
+
+        // Regex to find code blocks between ```c or ```java and ```
+        const codeBlockRegex = /```(c|java)\s*([\s\S]*?)```/;
+        const match = questionText.match(codeBlockRegex);
+
+        if (!match) {
+          return <p className="text-lg mb-6">{questionText}</p>;
+        }
+
+        const [fullMatch, language, code] = match;
+        const beforeCode = questionText.slice(0, match.index).trim();
+        const afterCode = questionText.slice(match.index + fullMatch.length).trim();
+
+        // Split code by line breaks (handles both \n and actual newlines)
+        const codeLines = code.split(/\r?\n/).map((line, index) => (
+          <div key={index}>{line}</div>
+        ));
+
+        return (
+          <div className="text-lg mb-6">
+            {beforeCode && <p>{beforeCode}</p>}
+            <pre className="bg-gray-800 text-white p-4 rounded-lg my-2">
+              <code>{codeLines}</code>
+            </pre>
+            {afterCode && <p>{afterCode}</p>}
+          </div>
+        );
+      };
+
+      if (loading) {
+        return <div className="text-xl">Loading questions...</div>;
+      }
+
+      if (error) {
+        return <div className="text-xl text-red-500">{error}</div>;
+      }
+
+      if (currentIndex < 0) {
+        return <div className="text-xl">No questions available</div>;
+      }
+
+      const currentQuestion = questions[history[currentIndex]];
+      const subsetDisplay = subsetMapping[currentQuestion.SUBSET] || currentQuestion.SUBSET;
+
+      return (
+        <div className="max-w-2xl w-full bg-white p-6 rounded-lg shadow-lg">
+          <h2 className="text-xl font-bold mb-4">{subsetDisplay}</h2>
+          {renderQuestion(currentQuestion.QUESTION, currentQuestion.SUBSET)}
+          <div className="space-y-4">
+            {['A', 'B', 'C', 'D', 'E'].map(option => (
+              <button
+                key={option}
+                className={`w-full p-3 rounded-lg text-left ${getOptionClass(option)}`}
+                onClick={() => handleAnswerClick(option)}
+              >
+                {`${option}) ${currentQuestion[option]}`}
+              </button>
+            ))}
+          </div>
+          <div className="mt-6 flex justify-between">
+            <button
+              onClick={handlePrevious}
+              disabled={currentIndex <= 0}
+              className="px-4 py-2 bg-blue-500 text-white rounded-lg disabled:bg-gray-400"
+            >
+              Previous
+            </button>
+            <button
+              onClick={handleNext}
+              className="px-4 py-2 bg-blue-500 text-white rounded-lg"
+            >
+              Next
+            </button>
+          </div>
+        </div>
+      );
+    }
+
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(<App />);
+  </script>
+</body>
+</html>
