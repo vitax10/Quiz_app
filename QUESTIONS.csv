@@ -1,0 +1,1120 @@
+SUBSET,QUESTION,A,B,C,D,E,TRUE
+B4B01DMA,"Je dána binární relace R na množině ℤ definovaná jako R = {(a, b) ∈ ℤ² : a + b je sudé číslo}. Které tvrzení je pravdivé?","R je reflexivní, ale není symetrická.","R je symetrická, ale není tranzitivní.","R je reflexivní, symetrická a tranzitivní.","R je antisymetrická a tranzitivní.","R není reflexivní ani symetrická.","C"
+B4B01DMA,"Pomocí Euklidova algoritmu určete největší společný dělitel čísel 48 a 18.","6","8","12","18","24","A"
+B4B01DMA,"Určete, zda je relace R na množině ℕ definovaná jako R = {(a, b) : a × b je dělitelné 5} reflexivní.","Ano, je reflexivní.","Ne, není reflexivní.","Záleží na konkrétních číslech.","Nelze určit.","Žádná z možností není správná.","B"
+B4B01DMA,"Posloupnost je definována rekurzivně: a(n) = 2a(n-1) + 1, a(0) = 1. Jaká je hodnota a(3)?","7","9","15","31","63","C"
+B4B01DMA,"Které z následujících tvrzení o vlastnostech celých čísel je pravdivé?","Každé celé číslo je dělitelné 0.","Součet dvou sudých čísel je vždy liché.","Součin dvou lichých čísel je vždy liché.","Každé celé číslo je prvočíslo.","Součet dvou lichých čísel je vždy sudý.","C"
+B4B01DMA,"Pomocí matematické indukce ověřte, zda platí: 1 + 3 + 5 + ... + (2n-1) = n² pro všechna n ∈ ℕ. Který krok je klíčový v indukčním kroku?","Ověření pro n = 1.","Předpoklad, že platí pro n = k.","Ukazat, že platí pro n = k + 1.","Ověření pro n = 2.","Předpoklad, že platí pro n = k - 1.","C"
+B4B01DMA,"Je dána relace R na množině ℤ: R = {(a, b) : |a - b| ≤ 1}. Které tvrzení je pravdivé?","R je ekvivalence.","R není symetrická.","R je antisymetrická.","R je reflexivní a symetrická.","R není tranzitivní.","D"
+B4B01DMA,"Určete, kolik existuje celých čísel x, pro která platí 12 ≤ 3x + 6 ≤ 24.","2","3","4","5","6","C"
+B4B01DMA,"Rekurzivní posloupnost je dána: b(n) = b(n-1) + b(n-2), b(0) = 1, b(1) = 1. Jaká je hodnota b(4)?","3","5","8","13","21","B"
+B4B01DMA,"Které tvrzení o Euklidově algoritmu je pravdivé?","Vždy končí po jednom kroku.","Funguje pouze pro prvočísla.","Je založen na dělení se zbytkem.","Nelze ho použít pro záporná čísla.","Vždy vrací prvočíslo.","C"
+B4B01DMA,"Je dána relace R na množině ℕ: R = {(a, b) : a + b = 10}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R je antisymetrická.","R je ekvivalence.","B"
+B4B01DMA,"Určete, zda je výrok pravdivý pomocí matematické indukce: 2 + 4 + 6 + ... + 2n = n(n+1) pro všechna n ∈ ℕ.","Pravdivý, indukce potvrzuje.","Nepravdivý, selže základní krok.","Nepravdivý, selže indukční krok.","Nelze ověřit indukcí.","Pravdivý pouze pro n ≤ 5.","A"
+B4B01DMA,"Jaký je největší společný dělitel čísel 72 a 30 pomocí Euklidova algoritmu?","2","6","12","18","30","B"
+B4B01DMA,"Relace R na množině ℤ je definována: R = {(a, b) : a - b je dělitelné 3}. Které tvrzení je pravdivé?","R není reflexivní.","R není symetrická.","R je ekvivalence.","R není tranzitivní.","R je antisymetrická.","C"
+B4B01DMA,"Posloupnost je definována: c(n) = 3c(n-1) - 2, c(1) = 4. Jaká je hodnota c(3)?","7","10","28","34","40","C"
+B4B01DMA,"Které z následujících čísel je dělitelné 9?","12345","23456","34567","45678","56789","D"
+B4B01DMA,"Relace R na množině ℕ je definována: R = {(a, b) : a ≤ b}. Které tvrzení je pravdivé?","R je reflexivní a tranzitivní.","R není reflexivní.","R není symetrická.","R není tranzitivní.","R je ekvivalence.","A"
+B4B01DMA,"Určete, zda je součet 1 + 2 + 4 + ... + 2^n roven 2^(n+1) - 1 pro všechna n ∈ ℕ pomocí indukce.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 2.","A"
+B4B01DMA,"Pomocí Euklidova algoritmu určete NSD(56, 21).","7","14","21","28","56","A"
+B4B01DMA,"Je dána relace R na množině ℤ: R = {(a, b) : a = b²}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R není symetrická.","R je ekvivalence.","D"
+B4B01DMA,"Rekurzivní posloupnost: d(n) = 2d(n-1) + d(n-2), d(0) = 0, d(1) = 1. Jaká je hodnota d(3)?","1","2","3","5","8","D"
+B4B01DMA,"Které tvrzení o celých číslech je pravdivé?","Každé liché číslo je prvočíslo.","Součet sudého a lichého čísla je sudý.","Součin dvou sudých čísel je sudý.","Každé celé číslo je dělitelné 2.","Součet dvou sudých čísel je liché.","C"
+B4B01DMA,"Určete, zda je relace R na množině ℕ definovaná jako R = {(a, b) : a + b ≤ 5} tranzitivní.","Ano, je tranzitivní.","Ne, není tranzitivní.","Záleží na číslech.","Nelze určit.","Žádná možnost není správná.","B"
+B4B01DMA,"Pomocí indukce ověřte: 1 + 4 + 7 + ... + (3n-2) = n(3n-1)/2 pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≤ 3.","A"
+B4B01DMA,"Určete NSD(81, 27) pomocí Euklidova algoritmu.","9","18","27","36","81","A"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a + b = 0}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R je antisymetrická.","R je ekvivalence.","B"
+B4B01DMA,"Posloupnost: e(n) = e(n-1) + 2n, e(1) = 1. Jaká je hodnota e(4)?","7","13","19","25","31","C"
+B4B01DMA,"Které číslo je dělitelné 11?","12345","23456","34567","45678","56789","D"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a = b + 1}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R není tranzitivní.","R je ekvivalence.","D"
+B4B01DMA,"Ověřte indukcí: 1 + 2 + 3 + ... + n = n(n+1)/2 pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 3.","A"
+B4B01DMA,"NSD(45, 18) pomocí Euklidova algoritmu je:","3","9","18","27","45","B"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a - b ≥ 0}. Které tvrzení je pravdivé?","R je reflexivní a tranzitivní.","R není reflexivní.","R není symetrická.","R není tranzitivní.","R je ekvivalence.","A"
+B4B01DMA,"Posloupnost: f(n) = 2f(n-1) + 3, f(0) = 0. Jaká je hodnota f(3)?","9","15","21","27","33","C"
+B4B01DMA,"Které tvrzení o Euklidově algoritmu je pravdivé?","Vrací vždy liché číslo.","Funguje pouze pro kladná čísla.","Je založen na součtu čísel.","Vrací vždy prvočíslo.","Lze ho použít i pro záporná čísla.","E"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a + b = 7}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R je antisymetrická.","R je ekvivalence.","B"
+B4B01DMA,"Ověřte indukcí: 1 + 5 + 9 + ... + (4n-3) = n(4n-2) pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≤ 4.","A"
+B4B01DMA,"NSD(64, 24) pomocí Euklidova algoritmu je:","4","8","12","16","24","B"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a + b je dělitelné 4}. Které tvrzení je pravdivé?","R není reflexivní.","R není symetrická.","R je ekvivalence.","R není tranzitivní.","R je antisymetrická.","C"
+B4B01DMA,"Posloupnost: g(n) = g(n-1) + g(n-2), g(0) = 1, g(1) = 2. Jaká je hodnota g(4)?","5","7","9","11","13","C"
+B4B01DMA,"Které číslo je dělitelné 7?","12345","23456","34567","45678","56789","E"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a ≥ b}. Které tvrzení je pravdivé?","R je reflexivní a tranzitivní.","R není reflexivní.","R není symetrická.","R není tranzitivní.","R je ekvivalence.","A"
+B4B01DMA,"Ověřte indukcí: 2 + 6 + 10 + ... + (4n-2) = 2n(n+1) pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 2.","A"
+B4B01DMA,"NSD(36, 15) pomocí Euklidova algoritmu je:","3","6","9","12","15","A"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a = b}. Které tvrzení je pravdivé?","R není reflexivní.","R není symetrická.","R není tranzitivní.","R je antisymetrická.","R je ekvivalence.","E"
+B4B01DMA,"Posloupnost: h(n) = 3h(n-1) + 1, h(0) = 1. Jaká je hodnota h(3)?","13","31","40","121","364","B"
+B4B01DMA,"Které tvrzení o celých číslech je pravdivé?","Součet dvou lichých čísel je liché.","Součin dvou sudých čísel je liché.","Součet sudého a lichého čísla je liché.","Každé celé číslo je dělitelné 3.","Součin dvou lichých čísel je sudý.","C"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a - b = 1}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R není tranzitivní.","R je ekvivalence.","D"
+B4B01DMA,"Ověřte indukcí: 1 + 3 + 9 + ... + 3^n = (3^(n+1)-1)/2 pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 3.","A"
+B4B01DMA,"NSD(90, 36) pomocí Euklidova algoritmu je:","6","12","18","30","36","C"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a + b je liché}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R není symetrická.","R je ekvivalence.","D"
+B4B01DMA,"Posloupnost: i(n) = 2i(n-1) + n, i(1) = 2. Jaká je hodnota i(3)?","6","9","12","15","18","D"
+B4B01DMA,"Které číslo je dělitelné 6?","12345","23456","34567","45678","56789","D"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a + b ≥ 5}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R není tranzitivní.","R je ekvivalence.","D"
+B4B01DMA,"Ověřte indukcí: 1 + 6 + 11 + ... + (5n-4) = n(5n-3)/2 pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 4.","A"
+B4B01DMA,"NSD(48, 16) pomocí Euklidova algoritmu je:","4","8","12","16","24","D"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a - b je dělitelné 5}. Které tvrzení je pravdivé?","R není reflexivní.","R není symetrická.","R je ekvivalence.","R není tranzitivní.","R je antisymetrická.","C"
+B4B01DMA,"Posloupnost: j(n) = j(n-1) + j(n-2), j(0) = 0, j(1) = 1. Jaká je hodnota j(5)?","3","5","8","13","21","B"
+B4B01DMA,"Které tvrzení o Euklidově algoritmu je pravdivé?","Vrací vždy sudé číslo.","Funguje pouze pro liché čísla.","Je založen na násobení čísel.","Vrací vždy prvočíslo.","Lze ho použít pro libovolná celá čísla.","E"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a + b = 8}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R je antisymetrická.","R je ekvivalence.","B"
+B4B01DMA,"Ověřte indukcí: 2 + 4 + 8 + ... + 2^n = 2^(n+1) - 2 pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 2.","A"
+B4B01DMA,"NSD(75, 30) pomocí Euklidova algoritmu je:","5","10","15","25","30","C"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a + b je dělitelné 6}. Které tvrzení je pravdivé?","R není reflexivní.","R není symetrická.","R je ekvivalence.","R není tranzitivní.","R je antisymetrická.","C"
+B4B01DMA,"Posloupnost: k(n) = 2k(n-1) + 1, k(0) = 1. Jaká je hodnota k(4)?","7","15","31","63","127","B"
+B4B01DMA,"Které číslo je dělitelné 8?","12345","23456","34567","45678","56789","B"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a ≤ b + 1}. Které tvrzení je pravdivé?","R je reflexivní a tranzitivní.","R není reflexivní.","R není symetrická.","R není tranzitivní.","R je ekvivalence.","A"
+B4B01DMA,"Ověřte indukcí: 1 + 2 + 3 + ... + n = n(n+1)/2 pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 3.","A"
+B4B01DMA,"NSD(54, 18) pomocí Euklidova algoritmu je:","6","9","12","18","27","D"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a = -b}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R není symetrická.","R je ekvivalence.","B"
+B4B01DMA,"Posloupnost: l(n) = 3l(n-1) + 2, l(0) = 0. Jaká je hodnota l(3)?","8","14","20","26","32","C"
+B4B01DMA,"Které tvrzení o celých číslech je pravdivé?","Součet dvou sudých čísel je liché.","Součin dvou lichých čísel je liché.","Součet sudého a lichého čísla je sudý.","Každé celé číslo je dělitelné 5.","Součin dvou sudých čísel je liché.","B"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a - b = 2}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R není tranzitivní.","R je ekvivalence.","D"
+B4B01DMA,"Ověřte indukcí: 1 + 4 + 16 + ... + 4^n = (4^(n+1)-1)/3 pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 3.","A"
+B4B01DMA,"NSD(60, 24) pomocí Euklidova algoritmu je:","4","6","12","24","30","C"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a + b je dělitelné 7}. Které tvrzení je pravdivé?","R není reflexivní.","R není symetrická.","R je ekvivalence.","R není tranzitivní.","R je antisymetrická.","C"
+B4B01DMA,"Posloupnost: m(n) = 2m(n-1) + m(n-2), m(0) = 1, m(1) = 1. Jaká je hodnota m(4)?","5","7","9","11","13","Vstupní hodnota m(4) je 7.
+B4B01DMA,"Které číslo je dělitelné 5?","12345","23456","34567","45678","56789","E"
+B4B01DMA,"Relace R na množině ℕ: R = {(a, b) : a + b ≤ 6}. Které tvrzení je pravdivé?","R je reflexivní.","R je symetrická.","R je tranzitivní.","R není tranzitivní.","R je ekvivalence.","D"
+B4B01DMA,"Ověřte indukcí: 1 + 5 + 9 + ... + (4n-3) = n(4n-1) pro všechna n ∈ ℕ.","Pravdivý.","Nepravdivý, selže základ.","Nepravdivý, selže indukce.","Nelze ověřit.","Pravdivý pouze pro n ≥ 4.","A"
+B4B01DMA,"NSD(42, 14) pomocí Euklidova algoritmu je:","2","7","14","21","28","B"
+B4B01DMA,"Relace R na množině ℤ: R = {(a, b) : a - b je dělitelné 4}. Které tvrzení je pravdivé?","R není reflexivní.","R není symetrická.","R je ekvivalence.","R není tranzitivní.","R je antisymetrická.","C"
+B4B01DMA,"Posloupnost: n(n) = 2n(n-1) + 3, n(0) = 0. Jaká je hodnota n(3)?","9","15","21","27","33","B"
+B4B01DMA,"Které tvrzení o Euklidově algoritmu je pravdivé?","Vrací vždy liché číslo.","Funguje pouze pro kladná čísla.","Je založen na násobení čísel.","Vrací vždy prvočíslo.","Lze ho použít pro libovolná celá čísla.","E"
+B0B36PRP,"Jaký je výstup následujícího kódu? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", x + 3); return 0; } ```","A. 5","B. 8","C. 3","D. 53","E. Chyba kompilace","B"
+B0B36PRP,"Co dělá tato funkce? ```c int func(int x) { if (x <= 1) return 1; return x * func(x - 1); } ```","A. Vrací x","B. Vrací x squared","C. Vrací x!","D. Vrací 2**x","E. Nekonečná rekurze","C"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int* p; *p = 10; return 0; } ```","A. Nic, je správný","B. Ukazatel p není inicializován","C. Chybí printf","D. int* by měl být int","E. Chybí return 1","B"
+B0B36PRP,"Jak správně alokovat pole 5 celých čísel?","A. int arr[5];","B. int* arr = malloc(5);","C. int* arr = malloc(5 * sizeof(int));","D. int arr = new int[5];","E. int* arr = calloc(5);","C"
+B0B36PRP,"Jaká je časová složitost přidání prvku na konec spojového seznamu bez ukazatele na konec?","A. O(1)","B. O(n)","C. O(log n)","D. O(n log n)","E. O(n**2)","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int i; for (i = 0; i < 3; i++); printf(\"\"%d\"\", i); return 0; } ```","A. 0 1 2","B. 3","C. 0","D. 1 2 3","E. Chyba kompilace","B"
+B0B36PRP,"Jaký je výsledek? ```c int x = 10; x -= 2; ```","A. 12","B. 8","C. 10","D. 2","E. Chyba kompilace","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> void func(int n) { if (n <= 0) return; printf(\"\"%d \"\", n); func(n-1); } int main() { func(4); return 0; } ```","A. 1 2 3 4","B. 4 3 2 1","C. 0 1 2 3 4","D. 4","E. Nekonečná rekurze","B"
+B0B36PRP,"Co dělá tento kód? ```c int x = 5; int* p = &x; *p = 15; ```","A. Nastaví x na 15","B. Nastaví p na 15","C. Chyba kompilace","D. Runtime error","E. Nic, p není alokováno","A"
+B0B36PRP,"Jak vložit prvek na začátek spojového seznamu?","A. Projděte seznam a přidejte","B. Přidejte na začátek","C. Přidejte na konec","D. Použijte zásobník","E. Nelze přidat","B"
+B0B36PRP,"Co se stane při běhu tohoto kódu? ```c #include <stdio.h> int main() { int x = 10 / 0; printf(\"\"%d\"\", x); return 0; } ```","A. Vytiskne 0","B. Vytiskne 10","C. Chyba kompilace","D. Runtime error","E. Nekonečná smyčka","D"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int* func() { int x = 5; return &x; } ```","A. Nic, je správný","B. Vrací adresu lokální proměnné","C. Chybí malloc","D. x by měl být globální","E. Chybí int main","B"
+B0B36PRP,"Jak deklarovat ukazatel na funkci vracející int?","A. int f();","B. int* f();","C. int (*f)();","D. int f*();","E. func int f;","C"
+B0B36PRP,"K čemu slouží funkce free?","A. Alokuje paměť","B. Uvolňuje paměť","C. Kopíruje paměť","D. Inicializuje paměť","E. Nic z toho","B"
+B0B36PRP,"Kde se přidávají prvky v zásobníku pomocí spojového seznamu?","A. Na začátek","B. Na konec","C. Uprostřed","D. Záleží na implementaci","E. Nelze přidat","A"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 5; int* p = &x; printf(\"\"%d\"\", *p); return 0; } ```","A. 5","B. Adresa x","C. 0","D. Chyba kompilace","E. Runtime error","A"
+B0B36PRP,"Jaká je hodnota str po tomto kódu? ```c char str[] = \"hello\"; str[0] = 'H'; ```","A. hello","B. Hello","C. ello","D. Hhello","E. Chyba kompilace","B"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int a[3] = {1, 2, 3}; printf(\"\"%d\"\", a[3]); return 0; } ```","A. 3","B. Náhodná hodnota","C. 0","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak definovat strukturu s názvem Point?","A. struct Point { int x; int y; };","B. Point { int x; int y; };","C. struct { int x; int y; } Point;","D. int Point { x, y };","E. Chyba, nejde definovat","A"
+B0B36PRP,"Co vrací sizeof(int)?","A. Velikost v bitech","B. Velikost v bytech","C. 0","D. Počet prvků","E. Chyba kompilace","B"
+B0B36PRP,"Co dělá tento kód? ```c int x = 5; x = x << 1; ```","A. x se zdvojnásobí","B. x se zmenší o 1","C. x se posune doprava","D. Chyba kompilace","E. Nic se nestane","A"
+B0B36PRP,"Jak uvolnit paměť alokovanou pro pole?","A. delete arr;","B. free(arr);","C. arr = NULL;","D. free(*arr);","E. Nelze uvolnit","B"
+B0B36PRP,"Co je špatně na tomto kódu? ```c #include <stdlib.h> int main() { int* p = malloc(4); free(p); free(p); return 0; } ```","A. Nic, je správný","B. Dvojité uvolnění p","C. Chybí sizeof","D. p není inicializováno","E. Chybí return 1","B"
+B0B36PRP,"Jaký je výstup? ```c #include <stdio.h> int main() { int x = 3; printf(\"\"%d\"\", x++); return 0; } ```","A. 4","B. 3","C. 2","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Co je časová složitost vyhledání prvku v nesetříděném spojovém seznamu?","A. O(1)","B. O(n)","C. O(log n)","D. O(n log n)","E. O(n**2)","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 5; if (x = 3) printf(\"ano\"); return 0; } ```","A. ano","B. Nic","C. Chyba kompilace","D. Runtime error","E. 5","A"
+B0B36PRP,"Jak inicializovat ukazatel na NULL?","A. int* p = 0;","B. int* p = NULL;","C. int* p = nullptr;","D. int* p;","E. int* p = -1;","B"
+B0B36PRP,"Co dělá operátor &?","A. Bitové AND","B. Vrací adresu","C. Dereferencuje ukazatel","D. Porovnává hodnoty","E. Nic z toho","B"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { char* s; s[0] = 'a'; return 0; } ```","A. Nic, je správný","B. s není alokováno","C. Chybí #include","D. s by měl být int","E. Chybí return 1","B"
+B0B36PRP,"Jak předat pole funkci?","A. int func(int arr);","B. int func(int arr[]);","C. int func(int* arr);","D. int func(&arr);","E. Nelze předat","B"
+B0B36PRP,"Co vrací tento kód? ```c int func(int x) { return x > 0 ? x : -x; } ```","A. Absolutní hodnotu x","B. x squared","C. -x","D. 0","E. Chyba kompilace","A"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", ++x); return 0; } ```","A. 5","B. 6","C. 4","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jaký je účel klíčového slova static v deklaraci proměnné?","A. Zvyšuje rychlost","B. Zachovává hodnotu mezi voláními","C. Zabraňuje přístupu","D. Alokuje dynamicky","E. Nic z toho","B"
+B0B36PRP,"Co dělá tento kód? ```c int* p = malloc(sizeof(int)); *p = 10; free(p); ```","A. Alokuje a uvolní paměť","B. Chyba kompilace","C. Runtime error","D. Nastaví p na 10","E. Nic, p je NULL","A"
+B0B36PRP,"Jak odstranit prvek ze spojového seznamu?","A. Přeskočit ukazatel na další prvek","B. Nastavit prvek na NULL","C. Použít free na celý seznam","D. Nelze odstranit","E. Použít zásobník","A"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int x; scanf(\"\"%d\"\", x); return 0; } ```","A. Nic, je správný","B. Chybí & před x","C. Chybí printf","D. x není inicializováno","E. Chybí #include","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { char c = 'A'; printf(\"\"%d\"\", c); return 0; } ```","A. A","B. 65","C. 0","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak definovat union v C?","A. union U { int x; char c; };","B. union { int x; char c; } U;","C. U { int x; char c; };","D. int union U { x, c };","E. Nelze definovat","A"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; x *= 2; printf(\"\"%d\"\", x); return 0; } ```","A. 5","B. 10","C. 2","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jaká je časová složitost operace pop v zásobníku (array)?","A. O(1)","B. O(n)","C. O(log n)","D. O(n log n)","E. O(n**2)","A"
+B0B36PRP,"Co dělá tento kód? ```c int x = 5; int* p = &x; p++; ```","A. Zvýší x o 1","B. Posune ukazatel o sizeof(int)","C. Chyba kompilace","D. Runtime error","E. Nic, p je NULL","B"
+B0B36PRP,"Jak alokovat paměť pro strukturu?","A. struct S* p = malloc(sizeof(struct S));","B. struct S* p = new S;","C. struct S p = malloc(sizeof(S));","D. struct S* p = calloc(1);","E. Nelze alokovat","A"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int* p = malloc(4); *p = 5; return 0; } ```","A. Nic, je správný","B. Neuvolněná paměť","C. Chybí sizeof(int)","D. p není dereferencováno","E. Chybí return 1","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 0; while (x < 3) printf(\"\"%d \"\", x++); return 0; } ```","A. 0 1 2","B. 1 2 3","C. 0 1","D. Nekonečná smyčka","E. Chyba kompilace","A"
+B0B36PRP,"Jak deklarovat dvourozměrné pole?","A. int arr[2,3];","B. int arr[2][3];","C. int* arr[2][3];","D. int arr[2,3] = {1,2,3};","E. Nelze deklarovat","B"
+B0B36PRP,"Co vrací tento kód? ```c int func(int x) { if (x == 0) return 0; return func(x-1) + 1; } ```","A. x","B. x-1","C. 0","D. Nekonečná rekurze","E. Chyba kompilace","A"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; x = x >> 1; printf(\"\"%d\"\", x); return 0; } ```","A. 10","B. 2","C. 5","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak přistoupit k prvku struktury přes ukazatel?","A. p.x","B. p->x","C. *p.x","D. &p.x","E. Nelze přistoupit","B"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int arr[3]; arr[3] = 5; return 0; } ```","A. Nic, je správný","B. Přístup mimo pole","C. Chybí inicializace","D. arr by měl být ukazatel","E. Chybí return 1","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 1; do { printf(\"\"%d \"\", x); x++; } while (x < 3); return 0; } ```","A. 1 2","B. 1","C. 2","D. Nekonečná smyčka","E. Chyba kompilace","A"
+B0B36PRP,"Jak inicializovat pole nulami?","A. int arr[5] = {0};","B. int arr[5] = NULL;","C. int arr[5] = {};","D. int arr[5] = 0;","E. Nelze inicializovat","A"
+B0B36PRP,"Co dělá operátor * u ukazatele?","A. Vrací adresu","B. Dereferencuje ukazatel","C. Násobí hodnoty","D. Alokuje paměť","E. Nic z toho","B"
+B0B36PRP,"Co je časová složitost přidání prvku do fronty (spojový seznam)?","A. O(1)","B. O(n)","C. O(log n)","D. O(n log n)","E. O(n**2)","A"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { char str[] = \"abc\"; printf(\"\"%s\"\", str + 1); return 0; } ```","A. abc","B. bc","C. a","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak deklarovat globální proměnnou?","A. int x; (mimo funkce)","B. global int x;","C. int x = global;","D. static int x; (ve funkci)","E. Nelze deklarovat","A"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; int y = x % 2; printf(\"\"%d\"\", y); return 0; } ```","A. 2","B. 1","C. 0","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Co dělá tento kód? ```c struct Node { int data; struct Node* next; }; ```","A. Definuje spojový seznam","B. Alokuje paměť","C. Chyba kompilace","D. Vytvoří pole","E. Nic z toho","A"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int* p = malloc(4); p = malloc(8); return 0; } ```","A. Nic, je správný","B. Memory leak","C. Chybí free","D. p není dereferencováno","E. Chybí return 1","B"
+B0B36PRP,"Jaký je výstup? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", x & 3); return 0; } ```","A. 1","B. 3","C. 5","D. 0","E. Chyba kompilace","A"
+B0B36PRP,"Co je časová složitost operace push v zásobníku (spojový seznam)?","A. O(1)","B. O(n)","C. O(log n)","D. O(n log n)","E. O(n**2)","A"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 5; x |= 2; printf(\"\"%d\"\", x); return 0; } ```","A. 5","B. 2","C. 7","D. Chyba kompilace","E. Runtime error","C"
+B0B36PRP,"Jak přistoupit k poli v union?","A. u.arr[0]","B. u->arr[0]","C. *u.arr[0]","D. &u.arr[0]","E. Nelze přistoupit","A"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { char* s = \"text\"; s[0] = 'T'; return 0; } ```","A. Nic, je správný","B. Změna string literálu","C. Chybí malloc","D. s není pole","E. Chybí return 1","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 5; switch (x) { case 5: printf(\"ano\"); break; } return 0; } ```","A. ano","B. Nic","C. 5","D. Chyba kompilace","E. Runtime error","A"
+B0B36PRP,"Jak deklarovat konstantní ukazatel?","A. const int* p;","B. int* const p;","C. int const* p;","D. const* int p;","E. Nelze deklarovat","B"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; x ^= 3; printf(\"\"%d\"\", x); return 0; } ```","A. 5","B. 3","C. 6","D. Chyba kompilace","E. Runtime error","C"
+B0B36PRP,"Co dělá tento kód? ```c int arr[3] = {1, 2, 3}; int* p = arr; p++; ```","A. Zvýší arr[0]","B. Posune ukazatel na arr[1]","C. Chyba kompilace","D. Runtime error","E. Nic, p je NULL","B"
+B0B36PRP,"Jak ukončit string v C?","A. \\n","B. \\0","C. NULL","D. ;","E. Nelze ukončit","B"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int x = 5; int* p = x; return 0; } ```","A. Nic, je správný","B. p očekává adresu, ne hodnotu","C. Chybí &","D. x není ukazatel","E. Chybí return 1","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", ~x); return 0; } ```","A. 5","B. -6","C. 0","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak definovat rekurzivní funkci?","A. Funkce volá sama sebe","B. Funkce vrací int","C. Funkce má smyčku","D. Nelze definovat","E. Funkce je static","A"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; int y = 2; printf(\"\"%d\"\", x / y); return 0; } ```","A. 2","B. 2.5","C. 3","D. Chyba kompilace","E. Runtime error","A"
+B0B36PRP,"Co je časová složitost smazání prvku ze spojového seznamu?","A. O(1)","B. O(n)","C. O(log n)","D. O(n log n)","E. O(n**2)","A"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", x == 5 ? 1 : 0); return 0; } ```","A. 1","B. 0","C. 5","D. Chyba kompilace","E. Runtime error","A"
+B0B36PRP,"Jak předat ukazatel funkci?","A. int func(int p);","B. int func(int* p);","C. int func(&p);","D. int func(*p);","E. Nelze předat","B"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int* p; free(p); return 0; } ```","A. Nic, je správný","B. p není alokováno","C. Chybí malloc","D. free očekává int","E. Chybí return 1","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x[2] = {1, 2}; printf(\"\"%d\"\", *(x+1)); return 0; } ```","A. 1","B. 2","C. 0","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak deklarovat funkci bez parametrů?","A. int func();","B. int func(void);","C. int func(NULL);","D. int func(empty);","E. Nelze deklarovat","B"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", x > 3); return 0; } ```","A. 1","B. 0","C. 5","D. Chyba kompilace","E. Runtime error","A"
+B0B36PRP,"Co dělá tento kód? ```c int x = 5; int* p = &x; *p += 1; ```","A. Zvýší x o 1","B. Zvýší p o 1","C. Chyba kompilace","D. Runtime error","E. Nic, p je NULL","A"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int x = 5; return x; } ```","A. Nic, je správný","B. Chybí return 0","C. Chybí main","D. x není inicializováno","E. Chybí #include","A"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 5; x <<= 1; printf(\"\"%d\"\", x); return 0; } ```","A. 5","B. 10","C. 2","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak inicializovat strukturu?","A. struct S s = {1, 2};","B. struct S s = (1, 2);","C. struct S s = [1, 2];","D. struct S s = 1, 2;","E. Nelze inicializovat","A"
+B0B36PRP,"Co je časová složitost přístupu k prvku v poli?","A. O(1)","B. O(n)","C. O(log n)","D. O(n log n)","E. O(n**2)","A"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { char* s = \"test\"; printf(\"\"%c\"\", s[1]); return 0; } ```","A. t","B. e","C. s","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak deklarovat ukazatel na pole?","A. int* arr;","B. int (*arr)[5];","C. int arr*[];","D. int* arr[5];","E. Nelze deklarovat","B"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", x && 3); return 0; } ```","A. 1","B. 0","C. 5","D. Chyba kompilace","E. Runtime error","A"
+B0B36PRP,"Co dělá tento kód? ```c int* p = malloc(4); if (p) *p = 5; ```","A. Alokuje a nastaví 5","B. Chyba kompilace","C. Runtime error","D. Nic, p je NULL","E. Neuvolňuje paměť","A"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int x = 5; int* p = &x; free(p); return 0; } ```","A. Nic, je správný","B. free na nealokovanou paměť","C. Chybí malloc","D. p není inicializováno","E. Chybí return 1","B"
+B0B36PRP,"Co vytiskne tento kód? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", !x); return 0; } ```","A. 1","B. 0","C. 5","D. Chyba kompilace","E. Runtime error","B"
+B0B36PRP,"Jak přidat prvek na konec fronty (spojový seznam)?","A. Na začátek","B. Na konec","C. Uprostřed","D. Záleží na implementaci","E. Nelze přidat","B"
+B0B36PRP,"Co je výstupem? ```c #include <stdio.h> int main() { int x = 5; printf(\"\"%d\"\", x || 0); return 0; } ```","A. 1","B. 0","C. 5","D. Chyba kompilace","E. Runtime error","A"
+B0B36PRP,"Co dělá tento kód? ```c int x = 5; int y = x; ```","A. Kopíruje x do y","B. Přiřadí adresu","C. Chyba kompilace","D. Runtime error","E. Nic, y není deklarováno","A"
+B0B36PRP,"Co je špatně na tomto kódu? ```c int main() { int x[2]; x[2] = 5; return 0; } ```","A. Nic, je správný","B. Přístup mimo pole","C. Chybí inicializace","D. x není ukazatel","E. Chybí return 1","B"
+B0B01LGR,"Která z následujících formulí je tautologie?","p ∧ ¬p","p ∨ ¬p","p → ¬p","p ↔ ¬p","p ∧ p","B"
+B0B01LGR,"Jaká je negace výroku „Pokud je slunečno, pak svítí slunce.“?","Je slunečno a slunce nesvítí.","Není slunečno a slunce svítí.","Je slunečno nebo slunce svítí.","Není slunečno nebo slunce nesvítí.","Slunce svítí a není slunečno.","A"
+B0B01LGR,"Které tvrzení je ekvivalentní s „p → q“?","¬p ∨ q","p ∧ q","¬p ∧ q","p ∨ ¬q","p ∧ ¬p","A"
+B0B01LGR,"Co je výsledek p XOR q, když p = 1 a q = 0?","1","0","Nelze určit","Závisí na dalších proměnných","p ∧ q","A"
+B0B01LGR,"Která formule je kontradikce?","p ∨ ¬p","p ∧ ¬p","p → p","p ↔ ¬p","p ∨ p","B"
+B0B01LGR,"Jaká je hodnota (p ∧ q) ∨ ¬p, když p = 0, q = 1?","0","1","Nelze určit","Obě možnosti","q ∧ ¬q","B"
+B0B01LGR,"Který výrok je ekvivalentní s ¬(p ∧ q)?","¬p ∨ ¬q","p ∨ q","¬p ∧ ¬q","p ∧ ¬q","p ∧ p","A"
+B0B01LGR,"Co znamená kvantifikátor ∀?","Existuje alespoň jedno","Pro všechny","Neexistuje žádné","Pro některé","Žádné z výše uvedených","B"
+B0B01LGR,"Která formule je ekvivalentní s ¬∀x P(x)?","∃x ¬P(x)","∀x ¬P(x)","¬∃x P(x)","∃x P(x)","∀x P(x)","A"
+B0B01LGR,"Co znamená ∃x (P(x) ∧ Q(x))?","Všechny x mají P i Q.","Existuje x s P nebo Q.","Existuje x s P i Q.","Žádné x nemá P ani Q.","Pro všechny x je P(x).","C"
+B0B01LGR,"Který výrok je pravdivý v prázdné doméně?","∀x P(x)","∃x P(x)","¬∃x P(x)","A i C","∃x ¬P(x)","A"
+B0B01LGR,"Co je vrchol v grafu?","Spojení mezi body","Bod, kde se setkávají hrany","Cesta mezi vrcholy","Smyčka","Hrana mezi dvěma body","B"
+B0B01LGR,"Jaký jménem nazýváme počet hran incidentních s vrcholem?","Casta","Stupeň","Komponenta","Souseda","Cyklus","B"
+B0B01LGR,"Co je úplný graf?","Graf s cykly","Graf, kde každý vrchol má hranu ke všem ostatním","Graf bez smyček","Graf s jednou hranou","Graf bez vrcholů","B"
+B0B01LGR,"Kolik hran má úplný graf s 5 vrcholy?","5","10","15","20","25","B"
+B0B01LGR,"Co je strom?","Graf s cykly","Souvislý graf bez cyklů","Graf s jedním vrcholem","Graf s maximálním stupněm","Graf s izolovanými vrcholy","B"
+B0B01LGR,"Která formule je ekvivalentní s p ↔ q?","(p → q) ∧ (q → p)","p ∨ q","¬p ∧ ¬q","p ∧ ¬q","p ∧ p","A"
+B0B01LGR,"Jaká je hodnota ¬(p ∨ q), když p = 1, q = 0?","1","0","Nelze určit","Žádná z možností","p ∧ q","B"
+B0B01LGR,"Který výrok je tautologií?","p ∧ q","p ∨ ¬p","p → q","¬p ∧ p","p ∧ ¬q","B"
+B0B01LGR,"Co je negace „p ∨ q“?","¬p ∧ ¬q","p ∧ q","¬p ∨ ¬q","p ∨ ¬q","p ∧ p","A"
+B0B01LGR,"Která operace není asociativní?","∧","∨","XOR","→","p ∧ ¬p","C"
+B0B01LGR,"Jaký je význam ∀x (P(x) → Q(x))?","Pro všechny x, pokud P, pak Q.","Existuje x, kde P a Q.","Pro všechny x, P nebo Q.","Žádné x nemá P.","Existuje x, kde ¬P.","A"
+B0B01LGR,"Která formule není ekvivalentní s ostatními?","∀x P(x)","¬∃x ¬P(x)","∃x P(x)","∀x ¬¬P(x)","∀x (P(x) ∧ P(x))","C"
+B0B01LGR,"Co je hrana v grafu?","Bod","Spojení mezi dvěma vrcholy","Casta","Smyčka","Vrchol","B"
+B0B01LGR,"Kolik vrcholů má strom s 6 hranami?","5","6","7","8","9","C"
+B0B01LGR,"Který graf je bipartitní?","Úplný graf K4","Cyklus C4","Cyklus C5","Strom","Úplný graf K5","B"
+B0B01LGR,"Jaká je negace „∀x P(x)“?","∃x ¬P(x)","∀x ¬P(x)","¬∃x P(x)","∃x P(x)","∀x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Který výrok je vždy pravdivý?","p → p","p ∧ ¬p","p ∨ ¬q","p ↔ ¬p","p ∧ q","A"
+B0B01LGR,"Co je souvislý graf?","Graf bez hran","Graf s jednou komponentou","Graf s cykly","Graf bez vrcholů","Graf s dvěma hranami","B"
+B0B01LGR,"Která formule je satisfikovatelná, ale ne tautologie?","p ∧ q","p ∨ ¬p","p ∧ ¬p","¬p → p","p ∨ p","A"
+B0B01LGR,"Jaký je výsledek (p → q) ∧ (q → p), když p = 0, q = 1?","0","1","Nelze určit","Obě možnosti","p ∧ q","B"
+B0B01LGR,"Který výrok je ekvivalentní s ∃x ¬P(x)?","¬∀x P(x)","∀x ¬P(x)","¬∃x P(x)","∃x P(x)","∀x (P(x) ∨ ¬P(x))","A"
+B0B01LGR,"Co je cyklus v grafu?","Casta mezi vrcholy","Smyčka","Casta, která začíná a končí ve stejném vrcholu","Graf bez hran","Izolovaný vrchol","C"
+B0B01LGR,"Kolik hran má minimální souvislý graf s 4 vrcholy?","3","4","5","6","7","A"
+B0B01LGR,"Která operace je komutativní?","→","↔","∧","XOR","E i C","D"
+B0B01LGR,"Jaký je význam ¬∃x P(x)?","∀x ¬P(x)","∃x ¬P(x)","¬∀x P(x)","∀x P(x)","∃x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Který graf nemá Eulerovu cestu?","Úplný graf K5","Graf s jedním vrcholem","Graf se dvěma nesouvislými vrcholy","Strom","K4","C"
+B0B01LGR,"Co je tautologie?","Výrok vždy pravdivý","Výrok vždy nepravdivý","Výrok někdy pravdivý","Výrok bez proměnných","Výrok s jednou proměnnou","A"
+B0B01LGR,"Která formule je ekvivalentní s p ∧ (q ∨ r)?","(p ∧ q) ∨ (p ∧ r)","p ∨ (q ∧ r)","(p ∨ q) ∧ r","p ∧ q ∧ r","p ∧ (q ∧ ¬r)","A"
+B0B01LGR,"Jaký je stupeň vrcholu s 3 incidentními hranami?","1","2","3","4","5","C"
+B0B01LGR,"Který výrok je kontradikcí?","p → ¬p","p ∧ ¬p","p ∨ ¬p","p ↔ p","p ∨ q","B"
+B0B01LGR,"Co znamená ∃x ∀y P(x, y)?","Pro všechny x existuje y, kde P.","Existuje x, pro které P platí pro všechny y.","Pro všechny y existuje x, kde P.","Žádné x nemá P.","Pro některé x je P(x).","B"
+B0B01LGR,"Kolik komponent má graf s 5 vrcholy a 0 hranami?","1","3","5","7","4","C"
+B0B01LGR,"Který graf je strom?","Cyklus C3","K4 bez jedné hrany","Úplný graf K3","Graf s 4 vrcholy a 3 hranami","K5","D"
+B0B01LGR,"Jaká je negace „p → q“?","p ∧ ¬q","¬p ∨ q","p ∨ ¬q","¬p ∧ q","p ∧ p","A"
+B0B01LGR,"Která formule je platná?","∀x P(x) → ∃x P(x)","∃x P(x) → ∀x P(x)","∀x P(x) ↔ ∃x P(x)","¬∀x P(x) → ∃x P(x)","∃x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Co je maximální stupeň vrcholu v K5?","3","4","5","6","7","B"
+B0B01LGR,"Který výrok není tautologie?","p ∨ ¬p","p → p","p ∧ ¬p","p ↔ p","p ∨ p","C"
+B0B01LGR,"Jaký je výsledek ¬p ∧ (q ∨ r), když p = 1, q = 0, r = 1?","0","1","Nelze určit","Obě možnosti","q ∧ r","A"
+B0B01LGR,"Která formule je ekvivalentní s ∀x (P(x) ∧ Q(x))?","∀x P(x) ∧ ∀x Q(x)","∃x P(x) ∧ ∃x Q(x)","∀x P(x) ∨ ∀x Q(x)","∃x (P(x) ∧ Q(x))","∀x (P(x) ∨ Q(x))","A"
+B0B01LGR,"Co je minimální počet vrcholů v grafu s cyklem?","2","3","4","5","6","B"
+B0B01LGR,"Který výrok je satisfikovatelný?","p ∧ ¬p","p ∨ ¬p","p → ¬p","p ∧ q","p ∨ p","D"
+B0B01LGR,"Jaká je negace ∃x (P(x) ∨ Q(x))?","∀x (¬P(x) ∧ ¬Q(x))","∃x (¬P(x) ∧ ¬Q(x))","∀x (P(x) ∨ Q(x))","∃x (P(x) ∧ Q(x))","∀x (P(x) ∧ ¬Q(x))","A"
+B0B01LGR,"Kolik hran má K3?","2","3","4","6","5","B"
+B0B01LGR,"Který graf je nesouvislý?","K4","Strom s 5 vrcholy","Graf s 2 izolovanými vrcholy","Cyklus C6","Úplný graf K5","C"
+B0B01LGR,"Co je distributivní vlastnost?","p ∧ (q ∨ r) = (p ∧ q) ∨ (p ∧ r)","p ∨ p = p","p ∧ ¬ شاهد = 0","p → q = ¬p ∨ q","p ∧ q = q ∧ p","A"
+B0B01LGR,"Která formule je ekvivalentní s ¬(p → q)?","p ∧ ¬q","¬p ∨ q","p ∨ ¬q","¬p ∧ q","p ∧ p","A"
+B0B01LGR,"Jaký je výsledek (p ∨ q) ∧ ¬p, když p = 0, q = 1?","0","1","Nelze určit","Obě možnosti","p ∧ q","B"
+B0B01LGR,"Který výrok je pravdivý, pokud p = q?","p ↔ q","p → ¬q","¬p ∨ q","p ∧ ¬q","p ∧ ¬p","A"
+B0B01LGR,"Co je maximální počet hran v grafu s 4 vrcholy?","4","5","6","8","10","C"
+B0B01LGR,"Která formule je ekvivalentní s ∃x (P(x) → Q(x))?","∀x P(x) → ∃x Q(x)","∃x ¬P(x) ∨ ∃x Q(x)","∀x (P(x) ∨ Q(x))","∃x P(x) ∧ ∃x Q(x)","∀x (P(x) ∧ Q(x))","B"
+B0B01LGR,"Jaký je počet vrcholů v K5?","4","5","6","7","8","B"
+B0B01LGR,"Který graf má Hamiltonovskou cestu?","K3","Cyklus C4","Strom s 4 vrcholy","Všechny výše uvedené","Úplný graf K2","B"
+B0B01LGR,"Co je negace „∀x ∃y P(x, y)“?","∃x ∀y ¬P(x, y)","∀x ∃y ¬P(x, y)","∃x ∃y ¬P(x, y)","∀x ∀y P(x, y)","∃x ∃y P(x, y)","A"
+B0B01LGR,"Který výrok je tautologie?","p ∧ (p → q)","p ∨ (p ∧ q)","p → (q → p)","p ∧ ¬q","p ∧ ¬p","C"
+B0B01LGR,"Jaký je stupeň izolovaného vrcholu?","0","1","2","3","4","A"
+B0B01LGR,"Která formule není satisfikovatelná?","p ∨ ¬p","p ∧ ¬p","p → q","¬p ∨ q","p ∨ q","B"
+B0B01LGR,"Co je minimální počet hran v souvislém grafu s 5 vrcholy?","4","5","6","10","8","A"
+B0B01LGR,"Který výrok je ekvivalentní s p ∨ q?","¬p → q","p → ¬q","¬(¬p ∧ ¬q)","p ∧ ¬q","p ∧ p","C"
+B0B01LGR,"Jaký je výsledek (p ∧ q) → r, když p = 1, q = 0, r = 1?","0","1","Nelze určit","Obě možnosti","p ∧ r","B"
+B0B01LGR,"Který graf je úplný?","K3","K2","Cyklus C4","Strom","Graf s 3 vrcholy","A"
+B0B01LGR,"Co je maximální počet hran ve stromu s 6 vrcholy?","4","5","6","7","8","B"
+B0B01LGR,"Která formule je ekvivalentní s ¬∀x ¬P(x)?","∃x P(x)","∀x P(x)","¬∃x P(x)","∃x ¬P(x)","∀x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Jaký je počet hran v bipartitním grafu K2,3?","4","5","6","7","8","C"
+B0B01LGR,"Který výrok je pravdivý pro prázdnou doménu?","∃x P(x)","∀x ¬P(x)","∃x ¬P(x)","¬∀x P(x)","∀x (P(x) ∨ ¬P(x))","B"
+B0B01LGR,"Co je smyčka v grafu?","Hrana spojující vrchol sám se sebou","Casta mezi dvěma vrcholy","Cyklus délky 3","Izolovaný vrchol","Hrana mezi dvěma vrcholy","A"
+B0B01LGR,"Která formule je tautologie?","p → (q ∨ ¬q)","p ∧ (q ∧ ¬q)","p ∨ (q ∧ ¬p)","p → ¬p","p ∧ q","A"
+B0B01LGR,"Jaký je výsledek ¬(p ∧ q), když p = 0, q = 1?","0","1","Nelze určit","Obě možnosti","p ∨ q","B"
+B0B01LGR,"Který graf nemá cyklus?","K4","Strom","Cyklus C5","Úplný graf K5","K3","B"
+B0B01LGR,"Co je maximální stupeň vrcholu v grafu s 6 vrcholy?","4","5","6","10","7","B"
+B0B01LGR,"Který výrok je ekvivalentní s ¬(p ∨ q)?","¬p ∧ ¬q","p ∧ q","¬p ∨ ¬q","p ∨ q","p ∧ ¬p","A"
+B0B01LGR,"Jaký je počet hran v K4?","4","5","6","7","8","C"
+B0B01LGR,"Která formule je satisfikovatelná?","p ∧ ¬p","p ∨ q","p → ¬p","¬p ∧ p","p ∧ ¬q","B"
+B0B01LGR,"Co je minimální stupeň vrcholu v K3?","1","2","3","4","0","B"
+B0B01LGR,"Který výrok je pravdivý, pokud ∀x P(x) je nepravda?","∃x ¬P(x)","∀x ¬P(x)","¬∃x P(x)","∃x P(x)","∀x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Jaký je výsledek p → (q ∧ r), když p = 0, q = 1, r = 0?","0","1","Nelze určit","Obě možnosti","q ∧ r","B"
+B0B01LGR,"Který graf je bipartitní?","K3","Cyklus C6","K4","Strom","Úplný graf K5","B"
+B0B01LGR,"Co je negace „p ∧ q“?","¬p ∨ ¬q","p ∨ q","¬p ∧ ¬q","p ∧ ¬q","p ∧ p","A"
+B0B01LGR,"Kolik vrcholů má minimální cyklus?","2","3","4","5","6","B"
+B0B01LGR,"Která formule je ekvivalentní s p → (q → r)?","(p ∧ q) → r","p ∨ (q → r)","p ∧ (q ∨ r)","(p → q) ∧ r","p ∧ (q ∧ r)","A"
+B0B01LGR,"Jaký je maximální počet komponent v grafu s 5 vrcholy?","3","4","5","6","7","C"
+B0B01LGR,"Který výrok je tautologie?","p ∧ ¬p","p ∨ ¬p","p → ¬q","p ∧ q","p ∧ ¬q","B"
+B0B01LGR,"Co je počet hran v minimálním stromu s 7 vrcholy?","5","6","7","8","9","B"
+B0B01LGR,"Která formule je ekvivalentní s ∃x (P(x) ∧ ¬Q(x))?","∃x P(x) ∧ ¬∃x Q(x)","∃x (P(x) ∧ ∀y ¬Q(y))","∃x P(x) ∧ ∃x ¬Q(x)","¬∀x (¬P(x) ∨ Q(x))","∃x (P(x) ∨ Q(x))","D"
+B0B01LGR,"Jaký je výsledek (p ∨ q) ∧ ¬p, když p = 0, q = 1?","0","1","Nelze určit","Obě možnosti","p ∧ q","B"
+B0B01LGR,"Který graf je úplný?","K3","K2","Cyklus C4","Strom","Graf s 3 vrcholy","A"
+B0B01LGR,"Co je maximální počet hran ve stromu s 6 vrcholy?","4","5","6","7","8","B"
+B0B01LGR,"Která formule je ekvivalentní s ¬∀x ¬P(x)?","∃x P(x)","∀x P(x)","¬∃x P(x)","∃x ¬P(x)","∀x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Jaký je počet hran v bipartitním grafu K2,3?","4","5","6","7","8","C"
+B0B01LGR,"Který výrok je pravdivý pro prázdnou doménu?","∃x P(x)","∀x ¬P(x)","∃x ¬P(x)","¬∀x P(x)","∀x (P(x) ∨ ¬P(x))","B"
+B0B01LGR,"Co je smyčka v grafu?","Hrana spojující vrchol sám se sebou","Casta mezi dvěma vrcholy","Cyklus délky 3","Izolovaný vrchol","Hrana mezi dvěma vrcholy","A"
+B0B01LGR,"Která formule je tautologie?","p → (q ∨ ¬q)","p ∧ (q ∧ ¬q)","p ∨ (q ∧ ¬p)","p → ¬p","p ∧ q","A"
+B0B01LGR,"Jaký je výsledek ¬(p ∧ q), když p = 0, q = 1?","0","1","Nelze určit","Obě možnosti","p ∨ q","B"
+B0B01LGR,"Který graf nemá cyklus?","K4","Strom","Cyklus C5","Úplný graf K5","K3","B"
+B0B01LGR,"Co je maximální stupeň vrcholu v grafu s 6 vrcholy?","4","5","6","10","7","B"
+B0B01LGR,"Který výrok je ekvivalentní s ¬(p ∨ q)?","¬p ∧ ¬q","p ∧ q","¬p ∨ ¬q","p ∨ q","p ∧ ¬p","A"
+B0B01LGR,"Jaký je počet hran v K4?","4","5","6","7","8","C"
+B0B01LGR,"Která formule je satisfikovatelná?","p ∧ ¬p","p ∨ q","p → ¬p","¬p ∧ p","p ∧ ¬q","B"
+B0B01LGR,"Co je minimální stupeň vrcholu v K3?","1","2","3","4","0","B"
+B0B01LGR,"Který výrok je pravdivý, pokud ∀x P(x) je nepravda?","∃x ¬P(x)","∀x ¬P(x)","¬∃x P(x)","∃x P(x)","∀x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Jaký je výsledek p → (q ∧ r), když p = 0, q = 1, r = 0?","0","1","Nelze určit","Obě možnosti","q ∧ r","B"
+B0B01LGR,"Který graf je bipartitní?","K3","Cyklus C6","K4","Strom","Úplný graf K5","B"
+B0B01LGR,"Co je negace „p ∧ q“?","¬p ∨ ¬q","p ∨ q","¬p ∧ ¬q","p ∧ ¬q","p ∧ p","A"
+B0B01LGR,"Kolik vrcholů má minimální cyklus?","2","3","4","5","6","B"
+B0B01LGR,"Která formule je ekvivalentní s p → (q → r)?","(p ∧ q) → r","p ∨ (q → r)","p ∧ (q ∨ r)","(p → q) ∧ r","p ∧ (q ∧ r)","A"
+B0B01LGR,"Jaký je maximální počet komponent v grafu s 5 vrcholy?","3","4","5","6","7","C"
+B0B01LGR,"Který výrok je tautologie?","p ∧ ¬p","p ∨ ¬p","p → ¬q","p ∧ q","p ∧ ¬q","B"
+B0B01LGR,"Co je počet hran v minimálním stromu s 7 vrcholy?","5","6","7","8","9","B"
+B0B01LGR,"Která formule je ekvivalentní s ∃x (P(x) ∧ ¬Q(x))?","∃x P(x) ∧ ¬∃x Q(x)","∃x (P(x) ∧ ∀y ¬Q(y))","∃x P(x) ∧ ∃x ¬Q(x)","¬∀x (¬P(x) ∨ Q(x))","∃x (P(x) ∨ Q(x))","D"
+B0B01LGR,"Jaký je výsledek (p ∨ q) ∧ ¬p, když p = 0, q = 1?","0","1","Nelze určit","Obě možnosti","p ∧ q","B"
+B0B01LGR,"Který graf je úplný?","K3","K2","Cyklus C4","Strom","Graf s 3 vrcholy","A"
+B0B01LGR,"Co je maximální počet hran ve stromu s 6 vrcholy?","4","5","6","7","8","B"
+B0B01LGR,"Která formule je ekvivalentní s ¬∀x ¬P(x)?","∃x P(x)","∀x P(x)","¬∃x P(x)","∃x ¬P(x)","∀x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Jaký je počet hran v bipartitním grafu K2,3?","4","5","6","7","8","C"
+B0B01LGR,"Který výrok je pravdivý pro prázdnou doménu?","∃x P(x)","∀x ¬P(x)","∃x ¬P(x)","¬∀x P(x)","∀x (P(x) ∨ ¬P(x))","B"
+B0B01LGR,"Co je smyčka v grafu?","Hrana spojující vrchol sám se sebou","Casta mezi dvěma vrcholy","Cyklus délky 3","Izolovaný vrchol","Hrana mezi dvěma vrcholy","A"
+B0B01LGR,"Která formule je tautologie?","p → (q ∨ ¬q)","p ∧ (q ∧ ¬q)","p ∨ (q ∧ ¬p)","p → ¬p","p ∧ q","A"
+B0B01LGR,"Jaký je výsledek ¬(p ∧ q), když p = 0, q = 1?","0","1","Nelze určit","Obě možnosti","p ∨ q","B"
+B0B01LGR,"Který graf nemá cyklus?","K4","Strom","Cyklus C5","Úplný graf K5","K3","B"
+B0B01LGR,"Co je maximální stupeň vrcholu v grafu s 6 vrcholy?","4","5","6","10","7","B"
+B0B01LGR,"Který výrok je ekvivalentní s ¬(p ∨ q)?","¬p ∧ ¬q","p ∧ q","¬p ∨ ¬q","p ∨ q","p ∧ ¬p","A"
+B0B01LGR,"Jaký je počet hran v K4?","4","5","6","7","8","C"
+B0B01LGR,"Která formule je satisfikovatelná?","p ∧ ¬p","p ∨ q","p → ¬p","¬p ∧ p","p ∧ ¬q","B"
+B0B01LGR,"Co je minimální stupeň vrcholu v K3?","1","2","3","4","0","B"
+B0B01LGR,"Který výrok je pravdivý, pokud ∀x P(x) je nepravda?","∃x ¬P(x)","∀x ¬P(x)","¬∃x P(x)","∃x P(x)","∀x (P(x) ∧ ¬P(x))","A"
+B0B01LGR,"Jaký je výsledek p → (q ∧ r), když p = 0, q = 1, r = 0?","0","1","Nelze určit","Obě možnosti","q ∧ r","B"
+B0B01LGR,"Který graf je bipartitní?","K3","Cyklus C6","K4","Strom","Úplný graf K5","B"
+B0B01LGR,"Co je negace „p ∧ q“?","¬p ∨ ¬q","p ∨ q","¬p ∧ ¬q","p ∧ ¬q","p ∧ p","A"
+B0B01LGR,"Kolik vrcholů má minimální cyklus?","2","3","4","5","6","B"
+B0B01LGR,"Která formule je ekvivalentní s p → (q → r)?","(p ∧ q) → r","p ∨ (q → r)","p ∧ (q ∨ r)","(p → q) ∧ r","p ∧ (q ∧ r)","A"
+B0B01LGR,"Jaký je maximální počet komponent v grafu s 5 vrcholy?","3","4","5","6","7","C"
+B0B01LGR,"Který výrok je tautologie?","p ∧ ¬p","p ∨ ¬p","p → ¬q","p ∧ q","p ∧ ¬q","B"
+B0B01LGR,"Co je počet hran v minimálním stromu s 7 vrcholy?","5","6","7","8","9","B"
+B0B01LGR,Která formule je ekvivalentní s ∃x (P(x) ∧ ¬Q(x))?,∃x P(x) ∧ ¬∃x Q(x),∃x (P(x) ∧ ∀y ¬Q(y)),∃x P(x) ∧ ∃x ¬Q(x),¬∀x (¬P(x) ∨ Q(x)),,D
+B0B01LGR,Jaký je výsledek (p ∨ q) ∧ ¬p když p = 0 q = 1?,0,1,Nelze určit,Obě možnosti,,B
+B0B01LGR,Který graf má vždy Eulerovu cestu?,K4,Strom,Graf s lichým stupněm vrcholů,Graf s dvěma vrcholy,,A
+B0B01LGR,Co je maximální počet hran v bipartitním grafu s 2 a 3 vrcholy?,4,5,6,7,,C
+B0B36PJV,"Co je to třída v jazyce Java?","Sbírka metod","Datový typ","Šablona pro vytváření objektů","Funkce","Proměnná",C
+B0B36PJV,"Jaký je význam klíčového slova 'static'?","Označuje konstantu","Patří instanci","Patří třídě","Umožňuje dědičnost","Zajišťuje synchronizaci",C
+B0B36PJV,"Co je to konstruktor?","Metoda pro inicializaci","Funkce pro smazání","Typ proměnné","Statická metoda","Žádná z výše uvedených",A
+B0B36PJV,"Co porovnává '==' u objektů?","Hodnoty","Reference","Typy","Velikosti","Není definováno",B
+B0B36PJV,"Co je polymorfismus?","Více forem objektu","Více tříd","Skrývání dat","Statické metody","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'final' u třídy?","Nelze ji měnit","Nelze ji dědit","Nelze ji instancovat","Má pouze statické metody","Žádná z výše uvedených",B
+B0B36PJV,"Co je rozhraní (interface)?","Třída bez metod","Abstraktní třída","Smlouva pro implementaci","Statická třída","Proměnná",C
+B0B36PJV,"Na co odkazuje 'super'?","Aktuální instanci","Nadtřídu","Statickou metodu","Balíček","Žádná z výše uvedených",B
+B0B36PJV,"Co je výjimka?","Chyba syntaxe","Narůstající událost","Typ proměnné","Metoda","Žádná z výše uvedených",B
+B0B36PJV,"Co dělá 'throw'?","Deklaruje výjimku","Vyvolá výjimku","Ošetří výjimku","Ignoruje výjimku","Žádná z výše uvedených",B
+B0B36PJV,"Co je garbage collection?","Ruční uvolnění paměti","Automatické uvolnění paměti","Třídění objektů","Správa tříd","Žádná z výše uvedených",B
+B0B36PJV,"Na co odkazuje 'this'?","Nadtřídu","Aktuální instanci","Statickou proměnnou","Metodu","Žádná z výše uvedených",B
+B0B36PJV,"Co je abstraktní třída?","Třída bez metod","Třída, kterou nelze instancovat","Statická třída","Třída s rozhraním","Žádná z výše uvedených",B
+B0B36PJV,"Co je rozdíl mezi ArrayList a LinkedList?","ArrayList je pole, LinkedList je seznam","LinkedList je pole, ArrayList je seznam","Obě jsou pole","Obě jsou seznamy","Žádný rozdíl",A
+B0B36PJV,"Co je serializace?","Převod na bajty","Třídění dat","Ukládání proměnných","Mazání objektů","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'volatile'?","Nestálá proměnná","Konstantní proměnná","Synchronizovaná proměnná","Privátní proměnná","Žádná z výše uvedených",A
+B0B36PJV,"Co je anotace?","Komentář","Metadata","Typ dat","Metoda","Žádná z výše uvedených",B
+B0B36PJV,"Kdo má přístup k 'protected'?","Jen třída","Odkudkoliv","Balíček a podtřídy","Jen instance","Žádná z výše uvedených",C
+B0B36PJV,"Co je lambda výraz?","Anonymní funkce","Statická metoda","Třída","Proměnná","Žádná z výše uvedených",A
+B0B36PJV,"Co dělá 'synchronized'?","Zajišťuje jedno vlákno","Označuje konstantu","Dědí třídu","Mazá paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co je enumerace (enum)?","Seznam konstant","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi StringBuilder a StringBuffer?","StringBuilder je rychlejší","StringBuffer je rychlejší","StringBuilder je synchronizovaný","StringBuffer je nesynchronizovaný","Žádný rozdíl",A
+B0B36PJV,"Co jsou generika?","Typy pro třídy","Statické proměnné","Metody","Funkce","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'transient'?","Není serializováno","Je konstantní","Je synchronizováno","Je statické","Žádná z výše uvedených",A
+B0B36PJV,"Co je reflexe?","Zkoumání struktury","Třídění dat","Mazání objektů","Vytváření tříd","Žádná z výše uvedených",A
+B0B36PJV,"Co jsou 'checked' výjimky?","Musí být ošetřeny","Nemusí být ošetřeny","Jsou statické","Jsou runtime","Žádná z výše uvedených",A
+B0B36PJV,"Co je stream?","Tok dat","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co dělá 'assert'?","Testuje předpoklady","Označuje konstantu","Dědí třídu","Maže paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co je kolekce framework?","Sada tříd pro data","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi HashMap a TreeMap?","HashMap řadí, TreeMap ne","TreeMap řadí, HashMap ne","Obě řadí","Obě neřadí","Žádný rozdíl",B
+B0B36PJV,"Co je funkcionální rozhraní?","Jedna abstraktní metoda","Více metod","Statická metoda","Žádná metoda","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'default' v rozhraní?","Výchozí implementace","Konstanta","Přístup","Dědičnost","Žádná z výše uvedených",A
+B0B36PJV,"Co je modul?","Jednotka kódu","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi Comparable a Comparator?","Comparable je přirozené, Comparator je vlastní","Comparator je přirozené, Comparable je vlastní","Obě jsou přirozené","Obě jsou vlastní","Žádný rozdíl",A
+B0B36PJV,"Co je '@Override'?","Přepisuje metodu","Označuje konstantu","Dědí třídu","Maže paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'strictfp'?","Přesnost float","Konstanta","Přístup","Dědičnost","Žádná z výše uvedených",A
+B0B36PJV,"Co je JVM?","Virtuální stroj","Vizualizace","Paměť","Monitor","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi JDK a JRE?","JDK pro vývoj, JRE pro běh","JRE pro vývoj, JDK pro běh","Obě pro vývoj","Obě pro běh","Žádný rozdíl",A
+B0B36PJV,"Co je classpath?","Cesta k třídám","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'package'?","Balíček třídy","Konstanta","Přístup","Dědičnost","Žádná z výše uvedených",A
+B0B36PJV,"Co je JAR?","Archiv tříd","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi final, finally a finalize?","final je konstanta, finally je blok, finalize je metoda","finally je konstanta, final je blok, finalize je metoda","Vše stejné","Žádný rozdíl","Žádná z výše uvedených",A
+B0B36PJV,"Co je assertion?","Test předpokladů","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'native'?","Nativní kód","Konstanta","Přístup","Dědičnost","Žádná z výše uvedených",A
+B0B36PJV,"Co je JNI?","Nativní rozhraní","Síťové rozhraní","Integrace","Monitor","Žádná z výše uvedených",A
+B0B36PJV,"Co je design pattern?","Šablona řešení","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'abstract'?","Abstraktní třída/metoda","Konstanta","Přístup","Dědičnost","Žádná z výše uvedených",A
+B0B36PJV,"Co je singleton?","Jedna instance","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi composition a aggregation?","Composition je silnější","Aggregation je silnější","Obě stejné","Žádný rozdíl","Žádná z výše uvedených",A
+B0B36PJV,"Co je dependency injection?","Vkládání závislostí","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co dělá 'instanceof'?","Testuje typ","Označuje konstantu","Dědí třídu","Maže paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co je immutable objekt?","Není měnitelný","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi shallow a deep copy?","Shallow kopíruje reference, deep hodnoty","Deep kopíruje reference, shallow hodnoty","Obě kopírují reference","Obě kopírují hodnoty","Žádný rozdíl",A
+B0B36PJV,"Co je marker interface?","Rozhraní bez metod","Rozhraní s metodou","Statická třída","Proměnná","Žádná z výše uvedených",A
+B0B36PJV,"Co je deadlock?","Vzájemné čekání vláken","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi wait() a sleep()?","wait() uvolňuje zámek","sleep() uvolňuje zámek","Obě uvolňují zámek","Obě neuvolňují zámek","Žádný rozdíl",A
+B0B36PJV,"Co je thread pool?","Skupina vláken","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je race condition?","Závislost na pořadí","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi Runnable a Callable?","Runnable vrací výsledek","Callable vrací výsledek","Obě vrací výsledek","Obě nevrací výsledek","Žádný rozdíl",B
+B0B36PJV,"Co je fork/join framework?","Paralelní zpracování","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je semaphore?","Řízení přístupu","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi Lock a synchronized?","Lock je flexibilnější","Synchronized je flexibilnější","Obě stejné","Žádný rozdíl","Žádná z výše uvedených",A
+B0B36PJV,"Co je condition variable?","Signalizace mezi vlákny","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co dělá 'yield'?","Uvolňuje procesor","Označuje konstantu","Dědí třídu","Maže paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co je thread local storage?","Paměť pro vlákno","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi daemon a user vlákny?","Daemon běží na pozadí","User běží na pozadí","Obě na pozadí","Obě ne na pozadí","Žádný rozdíl",A
+B0B36PJV,"Co je interrupt?","Přerušení vlákna","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co dělá 'join'?","Čeká na dokončení","Označuje konstantu","Dědí třídu","Maže paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co je executor service?","Správa vláken","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi submit a execute?","Submit vrací Future","Execute vrací Future","Obě vrací Future","Obě nevrací Future","Žádný rozdíl",A
+B0B36PJV,"Co je scheduled executor service?","Plánování úloh","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je completable future?","Asynchronní programování","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi thenApply a thenAccept?","thenApply vrací hodnotu","thenAccept vrací hodnotu","Obě vrací hodnotu","Obě nevrací hodnotu","Žádný rozdíl",A
+B0B36PJV,"Co je parallel stream?","Paralelní zpracování","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je reduction v streamu?","Kombinování prvků","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi map a flatMap?","map transformuje, flatMap zplošťuje","flatMap transformuje, map zplošťuje","Obě transformují","Obě zplošťují","Žádný rozdíl",A
+B0B36PJV,"Co je collector v streamu?","Sběr výsledků","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co dělá 'groupingBy'?","Skupiny podle klíče","Označuje konstantu","Dědí třídu","Maže paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co je partitioningBy?","Dělí na dvě skupiny","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi reduce a collect?","reduce kombinuje, collect sbírá","collect kombinuje, reduce sbírá","Obě kombinují","Obě sbírají","Žádný rozdíl",A
+B0B36PJV,"Co je optional?","Volitelná hodnota","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co dělá 'ifPresent'?","Akce, pokud hodnota je","Označuje konstantu","Dědí třídu","Maže paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co je orElse?","Vrací jinou hodnotu","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi orElse a orElseGet?","orElseGet je funkce","orElse je funkce","Obě jsou funkce","Obě nejsou funkce","Žádný rozdíl",A
+B0B36PJV,"Co je method reference?","Zkratka pro metodu","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená '::'?","Odkaz na metodu","Konstanta","Přístup","Dědičnost","Žádná z výše uvedených",A
+B0B36PJV,"Co je constructor reference?","Odkaz na konstruktor","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi static a instance metodou?","Static patří třídě","Instance patří třídě","Obě patří třídě","Obě patří instanci","Žádný rozdíl",A
+B0B36PJV,"Co je functional interface?","Jedna abstraktní metoda","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je '@FunctionalInterface'?","Označuje funkcionální rozhraní","Konstanta","Přístup","Dědičnost","Žádná z výše uvedených",A
+B0B36PJV,"Co je default metoda?","Výchozí implementace","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi abstract class a interface?","Abstract class má stav","Interface má stav","Obě mají stav","Obě nemají stav","Žádný rozdíl",A
+B0B36PJV,"Co znamená 'extends'?","Dědí třídu","Označuje konstantu","Dědí třídu","Maže paměť","Žádná z výše uvedených",A
+B0B36PJV,"Co je 'implements'?","Implementuje rozhraní","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi overloading a overriding?","Overloading je přetížení, overriding je přepsání","Overriding je přetížení, overloading je přepsání","Obě jsou přetížení","Obě jsou přepsání","Žádný rozdíl",A
+B0B36PJV,"Co je class loader?","Načítání tříd","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je object?","Instance třídy","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je rozdíl mezi primitive a reference typy?","Primitive jsou základní, reference jsou odkazy","Reference jsou základní, primitive jsou odkazy","Obě jsou základní","Obě jsou odkazy","Žádný rozdíl",A
+B0B36PJV,"Co je boxing?","Převod na objekt","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co znamená 'new'?","Nová instance","Konstanta","Přístup","Dědičnost","Žádná z výše uvedených",A
+B0B36PJV,"Co je garbage collector?","Automatická správa paměti","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B0B36PJV,"Co je memory leak?","Neuvolněná paměť","Proměnná","Metoda","Třída","Žádná z výše uvedených",A
+B4B35APO,Co je hlavní funkcí CPU v počítači?,Ukládání dat,Zpracování instrukcí,Správa paměti,Komunikace s periferními zařízeními,Grafické výpočty,B
+B4B35APO,Jaký je rozdíl mezi RISC a CISC architekturou?,RISC má více instrukcí,CISC má složitější instrukce,RISC je starší,CISC je pomalejší,RISC nemá registry,B
+B4B35APO,Co je pipelining v CPU?,Paralelní zpracování instrukcí,Snížení spotřeby energie,Organizace paměti,Zvýšení kapacity registrů,Zrychlení I/O operací,A
+B4B35APO,Kolik fází má typický RISC pipeline?,2,3,4,5,6,D
+B4B35APO,Co je superskalární procesor?,Procesor s více jádry,Procesor vykonávající více instrukcí za takt,Procesor s velkou cache,Procesor pro grafiku,Procesor s nízkou spotřebou,B
+B4B35APO,Co je účelem cache paměti?,Dlouhodobé ukládání dat,Zrychlení přístupu k datům,Ukládání instrukcí,Virtuální paměť,Paměť pro grafiku,B
+B4B35APO,Co je lokalita reference?,Sekvenční přístup k datům,Opakovaný přístup k nedávným datům,Metoda alokace paměti,Komprese dat,Organizace stránek,B
+B4B35APO,Co je virtuální paměť?,Fyzická paměť v počítači,Technika pro rozšíření paměti,Typ cache,Paměť pro grafiku,Dočasná paměť,B
+B4B35APO,Co je datová sběrnice?,Přenos dat mezi CPU a pamětí,Přenos adres,Přenos řídicích signálů,Přenos dat k I/O,Všechny výše uvedené,A
+B4B35APO,Co je taktovací frekvence?,Počet instrukcí za sekundu,Počet taktů za sekundu,Doba jedné instrukce,Počet bitů za takt,Rychlost sběrnice,B
+B4B35APO,Jaký je účel adresní sběrnice?,Přenos dat,Přenos adres paměti,Řízení paměti,Synchronizace CPU,Přenos instrukcí,B
+B4B35APO,Co je DMA?,CPU přímo přistupuje k paměti,I/O přistupuje k paměti bez CPU,Komunikace CPU s periferiemi,Zrychlení paměti,Snížení latence I/O,B
+B4B35APO,Co je logické hradlo?,Provádí logickou operaci,Ukládá bit,Provádí aritmetiku,Převádí signály,Synchronizuje signály,A
+B4B35APO,Co je funkce hradla AND?,Výstup 1 při jednom vstupu 1,Výstup 1 při obou vstupech 1,Výstup 1 při různých vstupech,Negace vstupu,Výstup 1 při obou 0,B
+B4B35APO,Co je hazard v pipeliningu?,Dvě instrukce sdílí registr,Instrukce závisí na předchozí,Pipeline je plný,Chyba v paměti,Úsporný režim,B
+B4B35APO,Která technika zvyšuje výkon CPU?,Pipelining,Jeden dlouhý takt,Více paměti,Snížení frekvence,Jednoduché instrukce,A
+B4B35APO,Co je CPI?,Počet instrukcí za takt,Počet taktů na instrukci,Počet taktů za sekundu,Rychlost paměti,Počet registrů,B
+B4B35APO,Jak funguje přerušení?,CPU kontroluje I/O,I/O signalizuje CPU,CPU spustí obslužnou rutinu,Obě B a C,Žádné z výše uvedených,D
+B4B35APO,Co je registr?,Sada flip-flopů,Typ cache,Část CPU pro aritmetiku,Paměť pro instrukce,Správa paměti,A
+B4B35APO,Co je účelem MMU?,Správa cache,Překlad adres pro virtuální paměť,Správa registrů,Zrychlení I/O,Přenos dat,B
+B4B35APO,Co je hlavní výhodou RISC?,Složitější instrukce,Jednodušší a rychlejší instrukce,Větší paměť,Pomalejší provádění,Více sběrnic,B
+B4B35APO,Který prvek je nejrychlejší v hierarchii paměti?,Hlavní paměť,Cache,Registry,Sekundární úložiště,Virtuální paměť,C
+B4B35APO,Co je funkce sběrnice?,Přenos dat a signálů,Převod analogových signálů,Správa CPU,Ukládání dat,Zvýšení frekvence,A
+B4B35APO,Co měří MIPS?,Počet taktů za sekundu,Rychlost v milionech instrukcí za sekundu,Počet instrukcí za takt,Rychlost paměti,Výkon I/O,B
+B4B35APO,Co je flip-flop?,Logické hradlo,Paměťový prvek pro 1 bit,Dekodér instrukcí,Hodinový signál,Převod dat,B
+B4B35APO,Jaký je rozdíl mezi latch a flip-flop?,Latch je asynchronní,Latch je synchronní,Latch ukládá více bitů,Flip-flop je rychlejší,Žádný rozdíl,A
+B4B35APO,Co je prostorová lokalita?,Opakovaný přístup k datům,Přístup k blízkým datům,Přístup k registrům,Správa paměti,Komprese dat,B
+B4B35APO,Která jednotka dekóduje instrukce v CPU?,Řídicí jednotka,ALU,Registry,Cache,Paměť,A
+B4B35APO,Co je režim burst v přenosu dat?,Přenos jednoho bajtu,Přenos více bajtů bez přerušení,Přenos s přerušením,Přenos při volné sběrnici,Přenos šifrovaný,B
+B4B35APO,Jaký je vzorec pro efektivní dobu přístupu?,t_eff = h * t_cache + (1-h) * t_main,t_eff = t_cache + t_main,t_eff = t_cache * t_main,t_eff = (t_cache + t_main) / 2,t_eff = t_main / h,A
+B4B35APO,Co je bus arbitráž?,Určení přístupu k sběrnici,Zrychlení přenosu dat,Snížení interference,Synchronizace sběrnice,Komunikace s CPU,A
+B4B35APO,Která paměť je volatilní?,ROM,RAM,Cache,HDD,SSD,B
+B4B35APO,Co je hlavní nevýhodou CISC?,Jednodušší instrukce,Složitější a pomalejší instrukce,Nízká spotřeba,Větší registry,Menší paměť,B
+B4B35APO,Co je multi-core procesor?,Procesor s jedním jádrem,Procesor s více jádry,Procesor bez cache,Procesor pro I/O,Procesor s nízkou frekvencí,B
+B4B35APO,Který mechanismus řeší konflikty na sběrnici?,Pipelining,Arbitráž,Přerušení,DMA,Cache,A
+B4B35APO,Co je časová lokalita?,Přístup k blízkým datům,Opakovaný přístup k datům,Sekvenční přístup,Správa stránek,Komprese dat,B
+B4B35APO,Kolik bitů adresuje 32bitová adresní sběrnice?,16,32,64,128,256,B
+B4B35APO,Co je výhodou cache paměti?,Vyšší kapacita,Nízká latence,Větší trvanlivost,Nízká cena,Jednoduchá správa,B
+B4B35APO,Co je hlavní úlohou ALU?,Logické operace,Přenos dat,Správa paměti,Ukládání instrukcí,Synchronizace CPU,A
+B4B35APO,Co je propustnost CPU?,Počet instrukcí za čas,Doba jedné instrukce,Počet taktů na instrukci,Rychlost sběrnice,Počet chyb,A
+B4B35APO,Která technika umožňuje přístup k paměti bez CPU?,Přerušení,Pipelining,DMA,Cache,Arbitráž,C
+B4B35APO,Co je role řídicí sběrnice?,Přenos dat,Přenos adres,Přenos řídicích signálů,Přenos instrukcí,Přenos I/O,C
+B4B35APO,Jaký je význam hodinového signálu?,Synchronizace operací,Zvýšení kapacity,Přenos dat,Správa paměti,Ukládání bitů,A
+B4B35APO,Co je nevýhodou virtuální paměti?,Vyšší rychlost,Vyšší složitost,Nízká kapacita,Nízká cena,Jednoduchá správa,B
+B4B35APO,Který prvek CPU provádí aritmetické operace?,Řídicí jednotka,ALU,Registry,Cache,Paměť,B
+B4B35APO,Co je příčinou pipeline stall?,Není dost dat,Hazard při zpracování,Nízká frekvence,Plná cache,Nízká kapacita,B
+B4B35APO,Která paměť má nejnižší latenci?,RAM,Cache,Registry,HDD,SSD,C
+B4B35APO,Co je úkolem stránkovací tabulky?,Mapování adres,Správa cache,Přenos dat,Zrychlení I/O,Ukládání instrukcí,A
+B4B35APO,Kolik adres může adresovat 16bitová sběrnice?,256,1024,65536,1048576,16777216,C
+B4B35APO,Co je výhodou superskalární architektury?,Nižší frekvence,Více instrukcí za takt,Nízká spotřeba,Jednodušší pipeline,Menší registry,B
+B4B35APO,Který typ I/O je nejefektivnější pro velké přenosy?,Programované I/O,Přerušení,DMA,Cache,Pipelining,C
+B4B35APO,Co je nevýhodou pipeliningu?,Vyšší rychlost,Možnost hazardů,Nízká spotřeba,Jednodušší design,Větší kapacita,B
+B4B35APO,Jaký je rozdíl mezi RAM a ROM?,RAM je volatilní ROM ne,RAM je pomalejší,RAM je trvalá,ROM je volatilní,RAM je dražší,A
+B4B35APO,Co je účelem prefetchingu?,Zrychlení I/O,Přednahrání dat do cache,Správa registrů,Přenos adres,Zvýšení frekvence,B
+B4B35APO,Který parametr ovlivňuje výkon CPU?,Počet jader,Jeden dlouhý takt,Nízká cache,Nízká frekvence,Jednoduché I/O,A
+B4B35APO,Co je associativní mapování v cache?,Přímé mapování,Plně associativní mapování,Sekvenční mapování,Random mapování,Hybridní mapování,B
+B4B35APO,Který prvek ukládá stav procesoru?,Cache,Registry,Paměť,ALU,MMU,B
+B4B35APO,Co je význam hit rate v cache?,Počet přístupů za sekundu,Poměr úspěšných přístupů,Nízká latence,Vysoká kapacita,Rychlost sběrnice,B
+B4B35APO,Která technika zlepšuje paralelní zpracování?,Pipelining,Superskalární architektura,DMA,Přerušení,Cache,B
+B4B35APO,Co je nevýhodou DMA?,Vyšší rychlost,Vyšší složitost,Nízká kapacita,Jednoduchá správa,Nízká latence,B
+B4B35APO,Který typ paměti je nejpomalejší?,Registry,Cache,RAM,HDD,SSD,D
+B4B35APO,Co je účelem bufferu v I/O?,Zrychlení CPU,Dočasné uložení dat,Správa paměti,Přenos adres,Zvýšení frekvence,B
+B4B35APO,Jaký je význam latence?,Doba zpracování instrukce,Doba čekání na data,Počet taktů za sekundu,Rychlost sběrnice,Počet jader,B
+B4B35APO,Který prvek CPU řídí provádění instrukcí?,ALU,Řídicí jednotka,Registry,Cache,MMU,B
+B4B35APO,Co je výhodou multi-core CPU?,Nižší frekvence,Více paralelních úloh,Nízká spotřeba,Jednodušší design,Menší cache,B
+B4B35APO,Který typ hazardu způsobuje čtení po zápisu?,Strukturální,Kontrolní,Datový,Přerušení,Paměťový,C
+B4B35APO,Co je účelem řádků cache?,Zrychlení přístupu,Správa dat,Přenos adres,Ukládání instrukcí,Zvýšení kapacity,A
+B4B35APO,Kolik taktů obvykle trvá instrukce bez pipeliningu?,1,2,3,4,5,D
+B4B35APO,Co je nevýhodou velké cache?,Vyšší cena,Nízká latence,Vyšší rychlost,Nízká kapacita,Jednoduchá správa,A
+B4B35APO,Který mechanismus zvyšuje efektivitu sběrnice?,Pipelining,Arbitráž,DMA,Přerušení,Cache,B
+B4B35APO,Co je hlavní funkcí operační paměti?,Trvalé ukládání dat,Dočasné ukládání dat,Správa I/O,Převod signálů,Zvýšení frekvence,B
+B4B35APO,Který typ procesoru má méně instrukcí?,CISC,RISC,Superskalární,Multi-core,Single-core,B
+B4B35APO,Co je význam frekvence sběrnice?,Rychlost přenosu dat,Nízká latence,Vyšší kapacita,Správa paměti,Ukládání instrukcí,A
+B4B35APO,Který prvek zvyšuje rychlost I/O?,Cache,Přerušení,DMA,Pipelining,Registry,C
+B4B35APO,Co je nevýhodou superskalárního procesoru?,Nižší rychlost,Vyšší složitost,Nízká spotřeba,Jednodušší design,Menší cache,B
+B4B35APO,Která paměť je nejblíže CPU?,RAM,Cache,Registry,HDD,SSD,C
+B4B35APO,Co je účelem kontrolního bitu?,Synchronizace,Přenos dat,Řízení operací,Správa paměti,Ukládání instrukcí,C
+B4B35APO,Kolik bitů je potřeba pro adresování 1 MB paměti?,16,20,24,32,64,B
+B4B35APO,Co je výhodou přímého mapování cache?,Nižší složitost,Vyšší rychlost,Nízká cena,Vyšší kapacita,Jednoduchá správa,A
+B4B35APO,Který typ I/O vyžaduje nejvíce zásahů CPU?,Programované I/O,Přerušení,DMA,Cache,Pipelining,A
+B4B35APO,Co je nevýhodou RISC architektury?,Složitější instrukce,Větší počet instrukcí,Nízká spotřeba,Vyšší rychlost,Menší registry,B
+B4B35APO,Který prvek ukládá dočasná data během výpočtů?,Cache,Registry,RAM,HDD,SSD,B
+B4B35APO,Co je účelem predikce větvení?,Zrychlení pipeliningu,Správa paměti,Přenos dat,Zvýšení frekvence,Ukládání instrukcí,A
+B4B35APO,Kolik úrovní má typická paměťová hierarchie?,2,3,4,5,6,C
+B4B35APO,Co je výhodou paralelní sběrnice?,Nižší rychlost,Vyšší propustnost,Nízká cena,Jednodušší design,Menší kapacita,B
+B4B35APO,Který typ paměti je nejdražší za bajt?,Registry,Cache,RAM,HDD,SSD,A
+B4B35APO,Co je nevýhodou přerušení?,Vyšší rychlost,Přerušení běžícího programu,Nízká spotřeba,Jednodušší správa,Větší kapacita,B
+B4B35APO,Který prvek CPU komunikuje s pamětí?,ALU,Řídicí jednotka,MMU,Cache,Registry,C
+B4B35APO,Co je účelem synchronizace sběrnice?,Zrychlení přenosu,Správa přístupu,Zvýšení kapacity,Přenos dat,Ukládání instrukcí,B
+B4B35APO,Kolik bajtů adresuje 8bitová sběrnice?,128,256,512,1024,2048,B
+B4B35APO,Co je výhodou virtuální paměti?,Nižší rychlost,Větší dostupná paměť,Nízká cena,Jednodušší design,Menší latence,B
+B4B35APO,Který typ procesoru je optimalizován pro paralelní úlohy?,CISC,RISC,Multi-core,Superskalární,Single-core,C
+B4B35APO,Co je nevýhodou associativní cache?,Nižší rychlost,Vyšší složitost,Nízká cena,Jednodušší správa,Menší kapacita,B
+B4B35APO,Který prvek zvyšuje rychlost přístupu k datům?,Cache,Přerušení,DMA,Pipelining,Registry,A
+B4B35APO,Co je účelem hodin v CPU?,Synchronizace operací,Přenos dat,Správa paměti,Ukládání instrukcí,Zvýšení kapacity,A
+B4B35APO,Kolik bitů má standardní registr v 64bitovém procesoru?,16,32,64,128,256,C
+B4B35APO,Co je výhodou DMA přenosu?,Nižší rychlost,Menší zátěž CPU,Nízká cena,Jednodušší design,Větší latence,B
+B4B35APO,Který typ sběrnice přenáší adresy?,Datová,Adresní,Řídicí,Paralelní,Sériová,B
+B4B35OSY,"Co je hlavní funkcí operačního systému?","Správa hardwaru a softwaru","Zajištění uživatelského rozhraní","Kompilace programů","Správa sítě","Vytváření databází",A
+B4B35OSY,"Který z následujících není typ jádra OS?","Monolitické","Mikrojádrové","Hybridní","Distribuované","Sekvenční",E
+B4B35OSY,"Co je systémové volání?","Příkaz pro spuštění programu","Požadavek na službu jádra OS","Přerušení od periferií","Funkce v uživatelském prostoru","Instrukce assembleru",B
+B4B35OSY,"Jaký je rozdíl mezi procesem a vláknem?","Proces má vlastní adresní prostor, vlákno ho sdílí","Vlákno má vlastní adresní prostor, proces ne","Proces je lehčí než vlákno","Vlákno je nezávislé na procesech","Proces a vlákno jsou totéž",A
+B4B35OSY,"Co umožňuje virtuální paměť?","Simulaci větší paměti pomocí disku","Fyzické zvětšení RAM","Sdílení paměti mezi uživateli","Zrychlení přístupu k datům","Eliminaci fragmentace",A
+B4B35OSY,"Který algoritmus plánování je vhodný pro real-time systémy?","Round Robin","Shortest Job First","First Come First Served","Priority Scheduling","Rate Monotonic Scheduling",E
+B4B35OSY,"Co je deadlock?","Stav, kdy proces čeká na zdroj, který není dostupný","Přerušení programu","Ukončení vlákna","Přetížení procesoru","Chyba v paměti",A
+B4B35OSY,"Jaký je účel souborového systému?","Ukládání a organizace dat","Správa procesů","Plánování úloh","Správa paměti","Zabezpečení sítě",A
+B4B35OSY,"Co způsobuje fragmentaci paměti?","Neefektivní alokace paměti","Příliš velká RAM","Chyby v procesoru","Nedostatek virtuální paměti","Přetížení disku",A
+B4B35OSY,"Který z následujících je příkladem virtualizační technologie?","Dual boot","Hypervisor","Emulátor procesoru","Kompilátor","Operační systém",B
+B4B35OSY,"Co je stránkování?","Dělení paměti na segmenty","Dělení paměti na proměnné bloky","Dělení paměti na pevné stránky","Dělení paměti na cache","Dělení paměti na vlákna",C
+B4B35OSY,"Jaký je hlavní rozdíl mezi monolitickým a mikrojádrovým OS?","Monolitický OS má vše v jádře, mikrojádrový má minimální jádro","Mikrojádrový OS je pomalejší","Monolitický OS je bezpečnější","Mikrojádrový OS je monolitický","Monolitický OS nepoužívá jádro",A
+B4B35OSY,"Co je kontextový přepínač?","Přepnutí mezi programy","Přepnutí mezi uživatelem a jádrem","Přepnutí mezi procesy","Přepnutí mezi OS","Přepnutí mezi sítěmi",C
+B4B35OSY,"Který způsob není řešením deadlocku?","Prevence","Detekce","Ignorování","Avoidance","Restart systému",C
+B4B35OSY,"Co je účelem cache paměti?","Zrychlení přístupu k datům","Ukládání souborů","Správa procesů","Zabezpečení dat","Alokace paměti",A
+B4B35OSY,"Co spouští přerušení (interrupt)?","Požadavek na změnu procesu","Signál z hardwaru nebo softwaru","Ukončení programu","Spuštění vlákna","Chyba v síti",B
+B4B35OSY,"Co je multiprogramming?","Spuštění více programů najednou","Spuštění jednoho programu","Spuštění více OS","Spuštění více sítí","Spuštění více disků",A
+B4B35OSY,"Který souborový systém je typický pro Linux?","NTFS","FAT32","ext4","HFS+","APFS",C
+B4B35OSY,"Co je virtuální stroj?","Simulace hardwaru pomocí softwaru","Fyzický server","Operační systém","Síťový protokol","Aplikace",A
+B4B35OSY,"Co zahrnuje správa paměti v OS?","Alokaci, ochranu a optimalizaci paměti","Pouze alokaci paměti","Pouze ochranu paměti","Pouze optimalizaci paměti","Správu disků",E
+B4B35OSY,"Co je thrashing?","Nadměrné stránkování kvůli nedostatku paměti","Přetížení procesoru","Chyba v síti","Fragmentace disku","Přerušení programu",A
+B4B35OSY,"Které je systémové volání v Unixu?","fork()","print()","readline()","allocate()","close()",A
+B4B35OSY,"Co je kritická sekce?","Kód přistupující ke sdíleným zdrojům","Kód v jádře","Kód v uživatelském prostoru","Kód pro vlákna","Kód pro sítě",A
+B4B35OSY,"Jaký je rozdíl mezi preemptivním a nepreemptivním plánováním?","Preemptivní umožňuje přerušení, nepreemptivní ne","Nepreemptivní je rychlejší","Preemptivní je pomalejší","Nepreemptivní je bezpečnější","Preemptivní je jednodušší",A
+B4B35OSY,"Co je semafor?","Synchronizační mechanismus","Typ paměti","Typ procesoru","Typ disku","Typ sítě",A
+B4B35OSY,"Který z následujících není souborový systém?","FAT","NTFS","ext4","TCP/IP","HFS+",D
+B4B35OSY,"Co je virtuální adresní prostor?","Adresní prostor přidělený procesu","Fyzická paměť","Paměť jádra","Paměť disku","Paměť sítě",A
+B4B35OSY,"Jaký je účel ochrany paměti?","Zabránění neoprávněnému přístupu","Zrychlení přístupu","Snížení fragmentace","Zvětšení paměti","Správa disků",A
+B4B35OSY,"Co je hypervisor?","Software pro virtualizaci","Operační systém","Aplikace","Síťový protokol","Hardware",A
+B4B35OSY,"Který je příklad virtualizace na úrovni OS?","Docker","VMware","Hyper-V","VirtualBox","KVM",A
+B4B35OSY,"Co je swap prostor?","Diskový prostor pro virtuální paměť","Cache paměť","Prostor pro soubory","Prostor pro procesy","Prostor pro jádro",A
+B4B35OSY,"Jaký je rozdíl mezi vláknem a procesem?","Vlákno sdílí adresní prostor, proces ne","Proces je lehčí","Vlákno je těžší","Proces sdílí paměť","Nejsou rozdíly",A
+B4B35OSY,"Co je stránková tabulka?","Mapování virtuálních na fyzické adresy","Mapování procesů","Mapování vláken","Mapování souborů","Mapování sítí",A
+B4B35OSY,"Který algoritmus se používá pro alokaci paměti?","First Fit","Best Fit","Worst Fit","Buddy System","Všechny uvedené",E
+B4B35OSY,"Co je mutex?","Zámek pro vzájemné vyloučení","Typ paměti","Typ procesoru","Typ disku","Typ sítě",A
+B4B35OSY,"Co dělá plánovač procesů?","Rozhoduje, který proces běží","Spravuje paměť","Spravuje soubory","Spravuje síť","Spravuje disky",A
+B4B35OSY,"Co je fork() v Unixu?","Vytvoření nového procesu","Ukončení procesu","Přerušení procesu","Pozastavení procesu","Restart procesu",A
+B4B35OSY,"Který není stav procesu?","Running","Ready","Blocked","Terminated","Suspended",E
+B4B35OSY,"Co je race condition?","Závislost na pořadí operací","Přerušení procesu","Ukončení procesu","Spuštění procesu","Pozastavení procesu",A
+B4B35OSY,"Co organizuje souborový systém?","Soubory a adresáře","Procesy","Paměť","Síť","Uživatele",A
+B4B35OSY,"Co je inode v Unixu?","Metadata souboru","Data souboru","Adresáře","Procesy","Vlákna",A
+B4B35OSY,"Který je souborový systém?","FAT","NTFS","ext4","HFS+","Všechny uvedené",E
+B4B35OSY,"Co je virtuální souborový systém?","Abstrakce nad souborovými systémy","Fyzický systém","Síťový systém","Systém pro VM","Systém pro databáze",A
+B4B35OSY,"Jaký je rozdíl mezi FAT a NTFS?","FAT je jednodušší, NTFS pokročilejší","NTFS je jednodušší","FAT je rychlejší","NTFS je pomalejší","FAT je bezpečnější",A
+B4B35OSY,"Co je journaling?","Záznam změn pro obnovu","Záznam přístupů","Záznam chyb","Záznam uživatelů","Záznam sítě",A
+B4B35OSY,"Který není souborový systém?","FAT","NTFS","ext4","HFS+","IPSec",E
+B4B35OSY,"Co je virtuální paměť?","Simulace paměti diskem","Fyzická paměť","Sdílená paměť","Paměť jádra","Cache paměť",A
+B4B35OSY,"Jaký je účel virtuální paměti?","Zvětšení dostupné paměti","Zrychlení přístupu","Zabezpečení paměti","Snížení fragmentace","Správa disků",A
+B4B35OSY,"Co je stránkování v paměti?","Dělení na pevné bloky","Dělení na proměnné bloky","Dělení na segmenty","Dělení na stránky","Dělení na cache",D
+B4B35OSY,"Který je algoritmus nahrazování stránek?","FIFO","LRU","Optimal","Clock","Všechny uvedené",E
+B4B35OSY,"Co je fragmentace?","Nevyužitá paměť mezi bloky","Sloučená paměť","Ztracená paměť","Alokovaná paměť","Uvolněná paměť",A
+B4B35OSY,"Jaký je rozdíl mezi interní a externí fragmentací?","Interní je v blocích, externí mezi nimi","Externí je v blocích","Interní je na disku","Externí je v jádře","Interní je rychlejší",A
+B4B35OSY,"Co je kompakování paměti?","Sloučení volných bloků","Rozdělení bloků","Přidělení bloků","Uvolnění bloků","Optimalizace bloků",A
+B4B35OSY,"Který je příklad virtualizace?","Dual boot","Hypervisor","Emulátor","Simulátor","Kompilátor",B
+B4B35OSY,"Co je hypervisor?","Software pro virtualizaci","OS","Aplikace","Síťový protokol","Hardware",A
+B4B35OSY,"Jaký je rozdíl mezi hypervisorem typu 1 a 2?","Typ 1 běží na hardware, typ 2 na OS","Typ 2 běží na hardware","Typ 1 je pomalejší","Typ 2 je bezpečnější","Typ 1 je jednodušší",A
+B4B35OSY,"Co je kontejnerizace?","Izolace aplikací na úrovni OS","Izolace na hardware","Izolace na síti","Izolace na disku","Izolace na paměti",A
+B4B35OSY,"Který je příklad kontejnerizační platformy?","Docker","VMware","VirtualBox","Hyper-V","KVM",A
+B4B35OSY,"Co je bezpečnostní model?","Pravidla pro ochranu systému","Pravidla pro paměť","Pravidla pro procesy","Pravidla pro soubory","Pravidla pro síť",A
+B4B35OSY,"Který není typ autentizace?","Heslo","Biometrika","Token","Certifikát","IP adresa",E
+B4B35OSY,"Co je autorizace?","Ověření identity","Přidělení oprávnění","Šifrování dat","Dešifrování dat","Komprese dat",B
+B4B35OSY,"Jaký je účel firewallu?","Filtrování síťového provozu","Šifrování provozu","Komprese provozu","Optimalizace provozu","Monitorování provozu",A
+B4B35OSY,"Co je malware?","Škodlivý software","Užitečný software","Systémový software","Aplikační software","Síťový software",A
+B4B35OSY,"Který je příklad malware?","Virus","Trojan","Worm","Spyware","Všechny uvedené",E
+B4B35OSY,"Co je šifrování?","Zakódování dat","Dekódování dat","Komprese dat","Dekomprese dat","Optimalizace dat",A
+B4B35OSY,"Jaký je rozdíl mezi symetrickým a asymetrickým šifrováním?","Symetrické má jeden klíč, asymetrické dva","Asymetrické má jeden klíč","Symetrické je pomalejší","Asymetrické je jednodušší","Symetrické je bezpečnější",A
+B4B35OSY,"Co je digitální podpis?","Ověření identity","Šifrování dat","Komprese dat","Optimalizace dat","Monitorování dat",A
+B4B35OSY,"Který je příklad OS?","Windows","Linux","macOS","Unix","Všechny uvedené",E
+B4B35OSY,"Co je bootování?","Spuštění OS","Ukončení OS","Přerušení OS","Pozastavení OS","Restart OS",A
+B4B35OSY,"Jaký je účel jádra OS?","Správa hardwaru","Správa aplikací","Optimalizace rozhraní","Zabezpečení dat","Vytváření účtů",A
+B4B35OSY,"Co je shell v Unixu?","Interpret příkazů","Jádro OS","Souborový systém","Síťový protokol","Databáze",A
+B4B35OSY,"Který není typ OS?","Monolitický","Mikrojádrový","Hybridní","Distribuovaný","Sekvenční",E
+B4B35OSY,"Co je systémové volání?","Požadavek na službu OS","Příkaz pro hardware","Funkce v programu","Přerušení sítě","Instrukce procesoru",D
+B4B35OSY,"Jaký je rozdíl mezi procesem a vláknem?","Proces má vlastní paměť, vlákno sdílí","Vlákno má vlastní paměť","Proces je pomalejší","Vlákno je těžší","Nejsou rozdíly",A
+B4B35OSY,"Co je virtuální paměť?","Simulace paměti diskem","Fyzická paměť","Sdílená paměť","Paměť jádra","Cache paměť",B
+B4B35OSY,"Který algoritmus je pro real-time?","Round Robin","Shortest Job First","Priority Scheduling","First Come First Served","Rate Monotonic Scheduling",E
+B4B35OSY,"Co je deadlock?","Stav nedostupného zdroje","Přerušení","Ukončení","Přetížení","Chyba",A
+B4B35OSY,"Jaký je účel souborového systému?","Správa dat","Správa procesů","Správa paměti","Správa sítě","Správa uživatelů",A
+B4B35OSY,"Co je fragmentace paměti?","Nevyužitá paměť","Sloučená paměť","Ztracená paměť","Alokovaná paměť","Uvolněná paměť",A
+B4B35OSY,"Který je příklad virtualizace?","Dual boot","Hypervisor","Emulátor","Simulátor","Kompilátor",B
+B4B35OSY,"Co je stránkování?","Dělení na pevné bloky","Dělení na proměnné bloky","Dělení na segmenty","Dělení na stránky","Dělení na cache",D
+B4B35OSY,"Jaký je rozdíl mezi monolitickým a mikrojádrovým OS?","Monolitický má vše v jádře","Mikrojádrový je rychlejší","Monolitický je pomalejší","Mikrojádrový je jednodušší","Monolitický je bezpečnější",A
+B4B35OSY,"Co je kontextový přepínač?","Přepnutí mezi programy","Přepnutí mezi jádrem a uživatelem","Přepnutí mezi procesy","Přepnutí mezi OS","Přepnutí mezi sítěmi",C
+B4B35OSY,"Který není řešení deadlocku?","Prevence","Detekce","Ignorování","Avoidance","Restart",C
+B4B35OSY,"Co je cache paměť?","Rychlá paměť pro data","Paměť pro soubory","Paměť pro procesy","Paměť pro vlákna","Paměť pro jádro",A
+B4B35OSY,"Co je přerušení?","Signál z hardwaru/softwaru","Spuštění programu","Ukončení programu","Pozastavení programu","Restart programu",B
+B4B35OSY,"Co je multiprogramming?","Více programů najednou","Jeden program","Více OS","Více sítí","Více disků",A
+B4B35OSY,"Který souborový systém je pro Linux?","NTFS","FAT32","ext4","HFS+","APFS",C
+B4B35OSY,"Co je virtuální stroj?","Simulace hardwaru","Fyzický počítač","OS","Aplikace","Síť",A
+B4B35OSY,"Co zahrnuje správa paměti?","Alokaci a ochranu","Pouze alokaci","Pouze ochranu","Pouze optimalizaci","Všechny uvedené",E
+B4B35OSY,"Co je thrashing?","Nadměrné stránkování","Přetížení CPU","Chyba sítě","Fragmentace disku","Přerušení",A
+B4B35OSY,"Které je systémové volání?","fork()","print()","read()","write()","close()",D
+B4B35OSY,"Co je kritická sekce?","Kód se sdílenými zdroji","Kód v jádře","Kód v programu","Kód pro vlákna","Kód pro síť",A
+B4B35OSY,"Jaký je rozdíl mezi preemptivním a nepreemptivním plánováním?","Preemptivní přerušuje procesy","Nepreemptivní je rychlejší","Preemptivní je pomalejší","Nepreemptivní je bezpečnější","Preemptivní je jednodušší",A
+B4B35OSY,"Co je semafor?","Synchronizační nástroj","Typ paměti","Typ procesoru","Typ disku","Typ sítě",A
+B4B35OSY,"Který není souborový systém?","FAT","NTFS","ext4","TCP/IP","HFS+",D
+B4B35OSY,"Co je virtuální adresní prostor?","Paměť přidělená procesu","Fyzická paměť","Paměť jádra","Paměť disku","Paměť sítě",A
+B4B35OSY,"Jaký je účel ochrany paměti?","Zabránění neoprávněnému přístupu","Zrychlení přístupu","Snížení fragmentace","Zvětšení paměti","Správa disků",A
+B4B35OSY,"Co je hypervisor?","Software pro virtualizaci","OS","Aplikace","Síťový protokol","Hardware",A
+B4B33ALG,Jaká je nejlepší časová složitost binárního vyhledávání v seřazeném poli?,O(1),O(log n),O(n),O(n log n),O(n²),B
+B4B33ALG,Který z následujících algoritmů není in-place?,Bubble sort,Insertion sort,Merge sort,Quick sort,Selection sort,C
+B4B33ALG,Co je pravda o binárním vyhledávacím stromu (BST)?,Všechny operace mají O(log n),BST je vždy vyvážený,V levém podstromu jsou menší hodnoty než v kořeni,BST nemůže obsahovat duplicity,Vyhledávání je pomalejší než v AVL stromu,C
+B4B33ALG,Jaká je průměrná časová složitost vložení do hashovací tabulky s řetězením?,O(1),O(log n),O(n),O(n log n),O(n²),A
+B4B33ALG,Který algoritmus nalézá minimální kostru grafu?,BFS,DFS,Dijkstraův algoritmus,Kruskaův algoritmus,Bellman-Fordův algoritmus,D
+B4B33ALG,Co je dynamické programování?,Technika pro optimalizaci rekurzivních algoritmů,Metoda pro řazení dat,Algoritmus pro vyhledávání v grafech,Způsob ukládání dat,Technika pro paralelní zpracování,A
+B4B33ALG,Jaká je časová složitost nalezení nejkratší cesty v neváženém grafu?,O(V),O(E),O(V + E),O(V log V),O(V²),C
+B4B33ALG,Která datová struktura je nejvhodnější pro implementaci fronty?,Pole,Spojový seznam,Binární vyhledávací strom,Halda,Hashovací tabulka,B
+B4B33ALG,Co je halda?,Strom kde každý uzel je menší než jeho potomci,Strom kde každý uzel je větší než jeho potomci,Lineární struktura,Grafová struktura,Struktura pro rychlé vyhledávání,A
+B4B33ALG,Jaká je časová složitost vložení prvku do AVL stromu?,O(1),O(log n),O(n),O(n log n),O(n²),B
+B4B33ALG,Který algoritmus má nejhorší časovou složitost O(n²)?,Merge sort,Quick sort,Insertion sort,Heap sort,Bubble sort,E
+B4B33ALG,Co je pravda o prohledávání do šířky (BFS)?,Používá zásobník,Navštěvuje uzly od nejvzdálenějších,Je vhodný pro nejkratší cestu v neváženém grafu,Má složitost O(V²),Nelze použít na nesouvislé grafy,C
+B4B33ALG,Jaká je prostorová složitost rekurzivního výpočtu Fibonacciho čísel bez optimalizace?,O(1),O(log n),O(n),O(n²),O(2ⁿ),C
+B4B33ALG,Která operace na hashovací tabulce může mít v nejhorším případě složitost O(n)?,Vložení,Smazání,Vyhledání,Všechny výše uvedené,Žádná z výše uvedených,D
+B4B33ALG,Co je hlavní výhodou BST oproti lineárnímu seznamu?,Rychlejší vkládání,Menší paměťová náročnost,Rychlejší vyhledávání,Jednodušší implementace,Možnost duplicit,C
+B4B33ALG,Který algoritmus je stabilní?,Quick sort,Merge sort,Heap sort,Selection sort,Bubble sort,B
+B4B33ALG,Jaká je časová složitost Quick sort v průměrném případě?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),B
+B4B33ALG,Co je vlastností dobré hashovací funkce?,Vytváří kolize,Je pomalá,Minimalizuje kolize,Je nestabilní,Vrací stejné hodnoty pro různé vstupy,C
+B4B33ALG,Který algoritmus používá frontu?,DFS,BFS,Dijkstraův algoritmus,Kruskaův algoritmus,Primův algoritmus,B
+B4B33ALG,Jaká je časová složitost smazání prvku z haldy?,O(1),O(log n),O(n),O(n log n),O(n²),B
+B4B33ALG,Která struktura je vhodná pro rychlé vyhledávání klíčů?,Pole,Spojový seznam,Hashovací tabulka,Binární strom,Halda,C
+B4B33ALG,Co je pravda o AVL stromech?,Nejsou vyvážené,Mají výškový rozdíl mezi podstromy max. 1,Všechny operace jsou O(n),Nemohou být prázdné,Není třeba rotace,B
+B4B33ALG,Jaká je nejhorší časová složitost Merge sort?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),B
+B4B33ALG,Který algoritmus řeší problém batohu?,Greedy algoritmus,Divide and Conquer,Dynamické programování,Backtracking,Brute Force,C
+B4B33ALG,Co je asymptotická složitost?,Popis rychlosti algoritmu při malém n,Popis rychlosti algoritmu při velkém n,Přesný čas běhu algoritmu,Množství paměti algoritmu,Počet operací v nejhorším případě,B
+B4B33ALG,Která metoda řeší kolize v hashovacích tabulkách?,Lineární prohledávání,Kvadratické prohledávání,Dvojité hashování,Řetězení,Všechny výše uvedené,E
+B4B33ALG,Jaká je časová složitost prohledávání do hloubky (DFS)?,O(V),O(E),O(V + E),O(V log V),O(V²),C
+B4B33ALG,Který algoritmus není vhodný pro grafy se zápornými váhami?,BFS,DFS,Dijkstraův algoritmus,Bellman-Fordův algoritmus,Kruskaův algoritmus,C
+B4B33ALG,Co je podmínkou pro použití binárního vyhledávání?,Data musí být seřazená,Data musí být neseřazená,Data musí být v BST,Data musí být v haldě,Data musí být unikátní,A
+B4B33ALG,Jaká je časová složitost Bubble sort v nejlepším případě?,O(1),O(n),O(n log n),O(n²),O(2ⁿ),B
+B4B33ALG,Která struktura je nejlepší pro implementaci zásobníku?,Pole,Spojový seznam,Binární strom,Halda,Hashovací tabulka,A
+B4B33ALG,Co je pravda o dynamickém programování?,Nepoužívá rekurzi,Využívá překrývající se podproblémy,Není efektivní pro velká data,Nevyžaduje paměť,Není iterativní,B
+B4B33ALG,Jaká je časová složitost Dijkstrova algoritmu s binární haldou?,O(V),O(V + E),O(V log V),O((V + E) log V),O(V²),D
+B4B33ALG,Který algoritmus je příkladem Divide and Conquer?,Bubble sort,Merge sort,Insertion sort,Selection sort,Heap sort,B
+B4B33ALG,Co je nejhorší scénář pro Quick sort?,Pole je seřazené,Pole je náhodné,Pole je prázdné,Pole má duplicity,Pole je malé,A
+B4B33ALG,Jaká je časová složitost vyhledání v BST v nejhorším případě?,O(1),O(log n),O(n),O(n log n),O(n²),C
+B4B33ALG,Která vlastnost platí pro červenohnědé stromy?,Kořen je červený,Všechny listy jsou černé,Cesta k listu má stejný počet černých uzlů,Nejsou vyvážené,Nemají rotace,C
+B4B33ALG,Co je cílem Kruskova algoritmu?,Najít nejkratší cestu,Najít minimální kostru,Najít maximální tok,Najít cykly,Najít komponenty souvislosti,B
+B4B33ALG,Jaká je průměrná časová složitost Selection sort?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),C
+B4B33ALG,Který algoritmus je iterativní?,DFS,BFS,Bubble sort,Dijkstraův algoritmus,Kruskaův algoritmus,C
+B4B33ALG,Co je výhodou spojového seznamu oproti poli?,Rychlejší vyhledávání,Stabilní paměť,Rychlejší vkládání a mazání,Menší paměťová náročnost,Není třeba alokace,C
+B4B33ALG,Jaká je časová složitost vybudování haldy z pole?,O(1),O(log n),O(n),O(n log n),O(n²),C
+B4B33ALG,Který algoritmus není optimální pro velké grafy?,BFS,DFS,Dijkstraův algoritmus,Bellman-Fordův algoritmus,Kruskaův algoritmus,D
+B4B33ALG,Co je podstatou Theta notace?,Horní mez,Spodní mez,Přesná asymptotická mez,Průměrná složitost,Nejhorší složitost,C
+B4B33ALG,Jaká je časová složitost vložení do binárního vyhledávacího stromu?,O(1),O(log n),O(n),O(n log n),O(n²),C
+B4B33ALG,Která technika je použita v Merge sort?,Greedy,Divide and Conquer,Dynamické programování,Backtracking,Brute Force,B
+B4B33ALG,Co je pravda o hashovacích tabulkách?,Nemohou mít kolize,Mají konstantní čas vyhledání v průměru,Nemohou být prázdné,Není třeba hashovací funkce,Vyhledávání je vždy O(n),B
+B4B33ALG,Jaká je časová složitost Bellman-Fordova algoritmu?,O(V),O(V + E),O(VE),O(V log V),O(V²),C
+B4B33ALG,Který algoritmus je vhodný pro detekci cyklů?,BFS,DFS,Dijkstraův algoritmus,Kruskaův algoritmus,Primův algoritmus,B
+B4B33ALG,Co je nejlepší časová složitost Insertion sort?,O(1),O(n),O(n log n),O(n²),O(2ⁿ),B
+B4B33ALG,Jaká je hlavní nevýhoda lineárního vyhledávání?,Je pomalé na malých datech,Není stabilní,Má složitost O(n),Vyžaduje seřazená data,Není iterativní,C
+B4B33ALG,Která struktura je nejlepší pro dynamické změny velikosti?,Pole,Spojový seznam,Binární strom,Halda,Hashovací tabulka,B
+B4B33ALG,Co je cílem Primova algoritmu?,Najít nejkratší cestu,Najít minimální kostru,Najít maximální tok,Najít cykly,Najít komponenty,B
+B4B33ALG,Jaká je časová složitost Heap sort?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),B
+B4B33ALG,Který algoritmus je nejlepší pro seřazení téměř seřazeného pole?,Quick sort,Merge sort,Insertion sort,Selection sort,Bubble sort,C
+B4B33ALG,Co je pravda o prohledávání do hloubky (DFS)?,Používá frontu,Je iterativní,Využívá zásobník,Není rekurzivní,Není vhodné pro grafy,C
+B4B33ALG,Jaká je časová složitost vyhledání v hashovací tabulce v průměru?,O(1),O(log n),O(n),O(n log n),O(n²),A
+B4B33ALG,Která vlastnost není typická pro haldu?,Je vždy vyvážená,Má minimální prvek v kořeni,Všechny listy jsou na stejné úrovni,Vyhledávání je O(log n),Vložení je O(log n),C
+B4B33ALG,Co je výhodou dynamického programování?,Rychlé vyhledávání,Redukce časové složitosti,Není třeba rekurze,Není třeba paměti,Jednoduchá implementace,B
+B4B33ALG,Jaká je časová složitost Kruskova algoritmu s disjoint-set?,O(E),O(V log V),O(E log V),O(V + E),O(V²),C
+B4B33ALG,Který algoritmus je nejlepší pro velká neseřazená data?,Quick sort,Merge sort,Insertion sort,Selection sort,Bubble sort,A
+B4B33ALG,Co je podstatou Big O notace?,Přesný čas běhu,Spodní mez,Horní mez,Přesná složitost,Průměrná složitost,C
+B4B33ALG,Jaká je časová složitost smazání z AVL stromu?,O(1),O(log n),O(n),O(n log n),O(n²),B
+B4B33ALG,Která technika je použita v Dijkstrově algoritmu?,Greedy,Divide and Conquer,Dynamické programování,Backtracking,Brute Force,A
+B4B33ALG,Co je nevýhodou hashovacích tabulek?,Rychlé vyhledávání,Kolize,Není třeba paměti,Není stabilní,Není iterativní,B
+B4B33ALG,Jaká je časová složitost vytvoření binárního stromu z n prvků?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),A
+B4B33ALG,Který algoritmus je nejlepší pro nalezení nejkratší cesty v grafu se zápornými váhami?,BFS,DFS,Dijkstraův algoritmus,Bellman-Fordův algoritmus,Kruskaův algoritmus,D
+B4B33ALG,Co je pravda o binárním vyhledávání?,Je rekurzivní pouze,Není efektivní na malých datech,Vyžaduje seřazená data,Není iterativní,Nemůže být optimalizováno,C
+B4B33ALG,Jaká je časová složitost Bubble sort v nejhorším případě?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),C
+B4B33ALG,Která struktura je nejlepší pro rychlé mazání prvků?,Pole,Spojový seznam,Binární strom,Halda,Hashovací tabulka,B
+B4B33ALG,Co je cílem Bellman-Fordova algoritmu?,Najít minimální kostru,Najít nejkratší cestu,Najít maximální tok,Najít cykly,Najít komponenty,B
+B4B33ALG,Jaká je časová složitost Merge sort v nejlepším případě?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),B
+B4B33ALG,Který algoritmus je nejlepší pro malá data?,Quick sort,Merge sort,Insertion sort,Selection sort,Bubble sort,C
+B4B33ALG,Co je pravda o Quick sort?,Je stabilní,Není rekurzivní,Vybírá pivot,Není in-place,Není efektivní,C
+B4B33ALG,Jaká je časová složitost vyhledání v AVL stromu?,O(1),O(log n),O(n),O(n log n),O(n²),B
+B4B33ALG,Která vlastnost platí pro minimální kostru?,Obsahuje cykly,Nemá cykly,Je vždy souvislá,Není minimální,Není strom,B
+B4B33ALG,Co je nevýhodou binárního vyhledávacího stromu?,Rychlé vyhledávání,Může být nevyvážený,Není třeba rotace,Není stabilní,Není iterativní,B
+B4B33ALG,Jaká je časová složitost Selection sort v nejlepším případě?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),C
+B4B33ALG,Který algoritmus je nejlepší pro detekci negativního cyklu?,BFS,DFS,Dijkstraův algoritmus,Bellman-Fordův algoritmus,Kruskaův algoritmus,D
+B4B33ALG,Co je podstatou Omega notace?,Horní mez,Spodní mez,Přesná složitost,Průměrná složitost,Nejhorší složitost,B
+B4B33ALG,Jaká je časová složitost vložení do haldy?,O(1),O(log n),O(n),O(n log n),O(n²),B
+B4B33ALG,Která technika je použita v Knapsack problému?,Greedy,Divide and Conquer,Dynamické programování,Backtracking,Brute Force,C
+B4B33ALG,Co je výhodou Merge sort?,Je in-place,Není rekurzivní,Je stabilní,Není efektivní,Není iterativní,C
+B4B33ALG,Jaká je časová složitost BFS v nesouvislém grafu?,O(V),O(E),O(V + E),O(V log V),O(V²),C
+B4B33ALG,Který algoritmus je nejlepší pro řazení velkých dat?,Quick sort,Merge sort,Insertion sort,Selection sort,Bubble sort,A
+B4B33ALG,Co je pravda o Dijkstrově algoritmu?,Pracuje se zápornými váhami,Je rekurzivní,Používá frontu s prioritou,Není efektivní,Není iterativní,C
+B4B33ALG,Jaká je časová složitost smazání z hashovací tabulky v průměru?,O(1),O(log n),O(n),O(n log n),O(n²),A
+B4B33ALG,Která vlastnost není typická pro AVL strom?,Je vyvážený,Má výškový rozdíl max. 1,Všechny operace jsou O(log n),Může být nevyvážený,Vyžaduje rotace,D
+B4B33ALG,Co je nevýhodou Quick sort?,Je stabilní,Může mít složitost O(n²),Není rekurzivní,Není in-place,Není efektivní,B
+B4B33ALG,Jaká je časová složitost Primova algoritmu s binární haldou?,O(V),O(V + E),O(V log V),O((V + E) log V),O(V²),D
+B4B33ALG,Který algoritmus je nejlepší pro nalezení všech komponent souvislosti?,BFS,DFS,Dijkstraův algoritmus,Bellman-Fordův algoritmus,Kruskaův algoritmus,B
+B4B33ALG,Co je podstatou Divide and Conquer?,Rozdělení na podproblémy,Spojení všech prvků,Optimalizace paměti,Iterativní přístup,Randomizace,A
+B4B33ALG,Jaká je časová složitost Insertion sort v nejhorším případě?,O(n),O(n log n),O(n²),O(log n),O(2ⁿ),C
+B4B33ALG,Která struktura je nejlepší pro rychlé vyhledávání a vkládání?,Pole,Spojový seznam,Binární vyhledávací strom,AVL strom,Hashovací tabulka,D
+B4B33ALG,Co je cílem dynamického programování?,Najít nejkratší cestu,Najít minimální kostru,Optimalizovat rekurzivní řešení,Najít cykly,Najít komponenty,C
+B4B33ALG,Jaká je časová složitost vyhledání v haldě?,O(1),O(log n),O(n),O(n log n),O(n²),C
+B4B33ALG,Který algoritmus je nejlepší pro stabilní řazení?,Quick sort,Merge sort,Insertion sort,Selection sort,Bubble sort,B
+B4B38PSI,Co je základním stavebním kamenem počítačových sítí?,Router,Switch,Uzel (node),Kabel,Protokol,C
+B4B38PSI,Který z následujících není typ počítačové sítě podle velikosti?,LAN,WAN,MAN,PAN,TAN,E
+B4B38PSI,Co znamená zkratka VPN?,Virtual Private Network,Very Public Network,Virtual Public Network,Verified Private Network,Virtual Protected Network,A
+B4B38PSI,Který protokol se používá pro přenos e-mailů?,HTTP,FTP,SMTP,POP3,IMAP,C
+B4B38PSI,Co je IP adresa?,Unikátní identifikátor počítače v síti,Adresa webové stránky,Heslo pro přístup k síti,Typ síťového protokolu,Fyzická adresa síťové karty,A
+B4B38PSI,Který z následujících je příkladem bezdrátové sítě?,Ethernet,Wi-Fi,Token Ring,FDDI,ATM,B
+B4B38PSI,Co je síťový firewall?,Hardware pro připojení k internetu,Software pro ochranu sítě,Protokol pro šifrování dat,Typ síťového kabelu,Zařízení pro zesílení signálu,B
+B4B38PSI,Který port se standardně používá pro HTTP?,21,25,80,443,8080,C
+B4B38PSI,Co je MAC adresa?,Adresa pro přístup k internetu,Unikátní identifikátor síťové karty,Typ síťového protokolu,Heslo pro Wi-Fi síť,Adresa webového serveru,B
+B4B38PSI,Který z následujících je příkladem síťového operačního systému?,Windows 10,Linux,macOS,Windows Server,Android,D
+B4B38PSI,Co je peering v kontextu počítačových sítí?,Sdílení souborů mezi uživateli,Přímé propojení dvou sítí,Používání veřejných IP adres,Šifrování dat při přenosu,Správa síťových zařízení,B
+B4B38PSI,Který protokol se používá pro dynamické přidělování IP adres?,DNS,DHCP,FTP,SNMP,NTP,B
+B4B38PSI,Kolik vrstev má ISO/OSI model?,5,6,7,8,9,C
+B4B38PSI,Která vrstva OSI modelu je zodpovědná za směrování dat?,Fyzická,Spojová,Síťová,Transportní,Aplikační,C
+B4B38PSI,Na které vrstvě OSI modelu pracuje protokol TCP?,Fyzická,Spojová,Síťová,Transportní,Aplikační,D
+B4B38PSI,Která vrstva OSI modelu zajišťuje šifrování dat?,Fyzická,Spojová,Síťová,Prezentační,Aplikační,D
+B4B38PSI,Co je úkolem fyzické vrstvy v OSI modelu?,Směrování dat,Řízení přístupu k médiu,Přenos bitů po fyzickém médiu,Zajištění spolehlivého přenosu,Správa síťových aplikací,C
+B4B38PSI,Která vrstva OSI modelu je zodpovědná za detekci a opravu chyb?,Fyzická,Spojová,Síťová,Transportní,Relační,B
+B4B38PSI,Na které vrstvě OSI modelu pracuje protokol IP?,Fyzická,Spojová,Síťová,Transportní,Aplikační,C
+B4B38PSI,Která vrstva OSI modelu zajišťuje formátování dat pro aplikace?,Fyzická,Spojová,Síťová,Prezentační,Aplikační,D
+B4B38PSI,Co je úkolem transportní vrstvy v OSI modelu?,Přenos bitů po fyzickém médiu,Směrování dat mezi sítěmi,Zajištění spolehlivého přenosu dat,Řízení přístupu k médiu,Správa síťových aplikací,C
+B4B38PSI,Která vrstva OSI modelu je nejblíže uživateli?,Fyzická,Spojová,Síťová,Transportní,Aplikační,E
+B4B38PSI,Který protokol pracuje na aplikační vrstvě OSI modelu?,TCP,IP,HTTP,Ethernet,ARP,C
+B4B38PSI,Co je úkolem relační vrstvy v OSI modelu?,Správa dialogů mezi aplikacemi,Směrování dat,Řízení přístupu k médiu,Zajištění spolehlivého přenosu,Přenos bitů po fyzickém médiu,A
+B4B38PSI,Který z následujících je příkladem fyzického média?,Koaxiální kabel,Protokol TCP,IP adresa,MAC adresa,Router,A
+B4B38PSI,Co je bitová rychlost?,Počet bitů přenesených za sekundu,Počet chyb v přenosu,Délka kabelu,Šířka pásma,Latence sítě,A
+B4B38PSI,Který typ kabelu se používá pro Ethernet sítě?,Koaxiální,Optický,Kroucený pár,Bezdrátový,Satelitní,C
+B4B38PSI,Co je šum v kontextu fyzické vrstvy?,Nežádoucí signál rušící přenos,Typ kódování,Metoda přístupu k médiu,Protokol pro směrování,Typ topologie,A
+B4B38PSI,Která vlastnost fyzické vrstvy ovlivňuje maximální vzdálenost přenosu?,Šířka pásma,Latence,Útlum,Bitová rychlost,Kódování,C
+B4B38PSI,Co je multiplexing na fyzické vrstvě?,Sdílení média více signály,Šifrování dat,Komprese dat,Detekce chyb,Oprava chyb,A
+B4B38PSI,Který typ modulace se používá v bezdrátových sítích?,AM,FM,PM,QAM,Všechny výše uvedené,E
+B4B38PSI,Co je optický kabel?,Kabel používající světlo pro přenos dat,Kabel s vysokou odolností proti šumu,Kabel pro krátké vzdálenosti,Kabel pro bezdrátový přenos,Kabel s nízkou cenou,A
+B4B38PSI,Který parametr udává zpoždění při přenosu dat?,Šířka pásma,Latence,Útlum,Bitová rychlost,Modulace,B
+B4B38PSI,Co je koaxiální kabel?,Kabel s jedním vodičem,Kabel s dvěma vodiči,Kabel s optickým vláknem,Kabel pro bezdrátový přenos,Kabel s krouceným párem,B
+B4B38PSI,Který typ fyzického média má největší šířku pásma?,Koaxiální kabel,Kroucený pár,Optický kabel,Bezdrátové připojení,Satelitní připojení,C
+B4B38PSI,Co je úkolem zesilovače na fyzické vrstvě?,Zesílení signálu,Šifrování dat,Komprese dat,Detekce chyb,Oprava chyb,A
+B4B38PSI,Která topologie je charakterizována přímým propojením všech uzlů?,Hvězda,Kruh,Sběrnice,Strom,Plně propojená síť,E
+B4B38PSI,V jaké topologii je centrální uzel ke kterému jsou připojeny ostatní uzly?,Hvězda,Kruh,Sběrnice,Strom,Mřížka,A
+B4B38PSI,Která topologie je náchylná k selhání celé sítě při výpadku jednoho kabelu?,Hvězda,Kruh,Sběrnice,Strom,Plně propojená síť,C
+B4B38PSI,V jaké topologii data procházejí postupně všemi uzly?,Hvězda,Kruh,Sběrnice,Strom,Mřížka,B
+B4B38PSI,Která topologie je kombinací hvězdy a sběrnice?,Hvězda,Kruh,Strom,Mřížka,Plně propojená síť,C
+B4B38PSI,Co je výhodou topologie hvězda?,Nízká cena,Snadná správa,Vysoká odolnost proti selhání,Malý počet kabelů,Vysoká rychlost přenosu,B
+B4B38PSI,Která topologie je typická pro bezdrátové sítě?,Hvězda,Kruh,Sběrnice,Strom,Ad-hoc,E
+B4B38PSI,V jaké topologii je každý uzel připojen ke dvěma sousedním uzlům?,Hvězda,Kruh,Sběrnice,Strom,Mřížka,B
+B4B38PSI,Která topologie vyžaduje nejvíce kabelů?,Hvězda,Kruh,Sběrnice,Strom,Plně propojená síť,E
+B4B38PSI,Co je nevýhodou topologie sběrnice?,Vysoká cena,Složitá správa,Náchylnost k selhání při výpadku kabelu,Nízká rychlost přenosu,Velký počet kolizí,C
+B4B38PSI,Která topologie je hierarchická?,Hvězda,Kruh,Sběrnice,Strom,Mřížka,D
+B4B38PSI,V jaké topologii je centrální uzel ale uzly jsou propojeny i mezi sebou?,Hvězda,Kruh,Sběrnice,Strom,Hybridní,E
+B4B38PSI,Která metoda řízení přístupu k médiu je použita v Ethernetu?,Token passing,CSMA/CD,CSMA/CA,Polling,FDMA,B
+B4B38PSI,Co znamená zkratka CSMA/CD?,Carrier Sense Multiple Access with Collision Detection,Carrier Sense Multiple Access with Collision Avoidance,Carrier Sense Media Access with Collision Detection,Carrier Sense Media Access with Collision Avoidance,Carrier Sense Multiple Access with Collision Direction,A
+B4B38PSI,Která metoda řízení přístupu k médiu je použita v Wi-Fi sítích?,Token passing,CSMA/CD,CSMA/CA,Polling,TDMA,C
+B4B38PSI,Co je kolize v kontextu řízení přístupu k médiu?,Současný přenos dvou stanic,Ztráta dat při přenosu,Chyba v kódování,Přetížení sítě,Výpadek napájení,A
+B4B38PSI,Která metoda řízení přístupu k médiu používá token?,CSMA/CD,CSMA/CA,Token passing,Polling,FDMA,C
+B4B38PSI,Co je úkolem metody CSMA/CA?,Detekce kolizí,Zamezení kolizím,Oprava chyb,Komprese dat,Šifrování dat,B
+B4B38PSI,Která metoda řízení přístupu k médiu je deterministická?,CSMA/CD,CSMA/CA,Token passing,ALOHA,Slotted ALOHA,C
+B4B38PSI,Co je backoff algoritmus v CSMA/CD?,Algoritmus pro detekci kolizí,Algoritmus pro zamezení kolizím,Algoritmus pro opětovný pokus o přenos po kolizi,Algoritmus pro šifrování dat,Algoritmus pro kompresi dat,C
+B4B38PSI,Která metoda řízení přístupu k médiu je použita v sítích Token Ring?,CSMA/CD,CSMA/CA,Token passing,Polling,TDMA,C
+B4B38PSI,Co je úkolem metody polling?,Detekce kolizí,Zamezení kolizím,Centrální řízení přístupu stanic,Distribuce tokenů,Frekvenční multiplexování,C
+B4B38PSI,Která metoda řízení přístupu k médiu je použita v mobilních sítích?,CSMA/CD,CSMA/CA,TDMA,FDMA,CDMA,E
+B4B38PSI,Co je úkolem metody ALOHA?,Detekce kolizí,Zamezení kolizím,Náhodný přístup k médiu,Centrální řízení přístupu,Frekvenční multiplexování,C
+B4B38PSI,Který typ kódování se používá pro přenos dat v Ethernetu?,Manchester,NRZ,RZ,AMI,B8ZS,A
+B4B38PSI,Co je úkolem kódování na fyzické vrstvě?,Šifrování dat,Komprese dat,Převod dat do signálů pro přenos,Detekce chyb,Oprava chyb,C
+B4B38PSI,Který typ kódování je samostatně synchronizující?,NRZ,RZ,Manchester,AMI,HDB3,C
+B4B38PSI,Co je výhodou kódování Manchester?,Vysoká efektivita,Nízká spotřeba,Snadná detekce chyb,Synchronizace hodin,Všechny výše uvedené,D
+B4B38PSI,Který typ kódování používá tři úrovně napětí?,NRZ,RZ,Manchester,AMI,B8ZS,D
+B4B38PSI,Co je nevýhodou kódování NRZ?,Náchylnost k šumu,Potřeba synchronizace,Vysoká složitost,Nízká rychlost přenosu,Vysoká spotřeba energie,B
+B4B38PSI,Který typ kódování se používá v optických sítích?,NRZ,RZ,Manchester,4B/5B,8B/10B,E
+B4B38PSI,Co je úkolem kódování 4B/5B?,Detekce chyb,Oprava chyb,Zvýšení efektivity přenosu,Zajištění dostatečného počtu přechodů,Šifrování dat,D
+B4B38PSI,Který typ kódování je použit v sítích Gigabit Ethernet?,NRZ,RZ,Manchester,8B/10B,64B/66B,D
+B4B38PSI,Co je úkolem kódování AMI?,Detekce chyb,Oprava chyb,Zamezení stejnosměrné složky,Zvýšení rychlosti přenosu,Snížení spotřeby,C
+B4B38PSI,Který typ kódování je použit v sítích ISDN?,NRZ,RZ,Manchester,AMI,HDB3,D
+B4B38PSI,Co je úkolem kódování B8ZS?,Detekce chyb,Oprava chyb,Zamezení dlouhých sekvencí nul,Zvýšení rychlosti přenosu,Snížení latence,C
+B4B38PSI,Který mechanismus zajišťuje spolehlivost v protokolu TCP?,Potvrzování příjmu dat,Detekce chyb,Oprava chyb,Řízení toku,Všechny výše uvedené,E
+B4B38PSI,Co je úkolem kontrolního součtu?,Šifrování dat,Komprese dat,Detekce chyb,Oprava chyb,Zvýšení rychlosti přenosu,C
+B4B38PSI,Který protokol na transportní vrstvě zajišťuje spolehlivý přenos?,UDP,TCP,IP,ICMP,ARP,B
+B4B38PSI,Co je retransmise v kontextu spolehlivosti přenosu?,Opětovné odeslání ztracených dat,Šifrování dat,Komprese dat,Detekce chyb,Oprava chyb,A
+B4B38PSI,Která metoda se používá pro detekci chyb v datech?,Paritní bit,CRC,Checksum,Hammingův kód,Všechny výše uvedené,E
+B4B38PSI,Co je úkolem ARQ (Automatic Repeat Request)?,Detekce chyb,Oprava chyb,Žádost o opětovné odeslání dat,Šifrování dat,Komprese dat,C
+B4B38PSI,Který typ ARQ se používá v protokolu TCP?,Stop-and-wait,Go-back-N,Selective repeat,Všechny výše uvedené,Žádný z výše uvedených,C
+B4B38PSI,Co je úkolem FEC (Forward Error Correction)?,Detekce chyb,Oprava chyb bez retransmise,Žádost o opětovné odeslání dat,Šifrování dat,Komprese dat,B
+B4B38PSI,Který kód se používá pro opravu chyb?,Paritní bit,CRC,Checksum,Hammingův kód,Všechny výše uvedené,D
+B4B38PSI,Co je úkolem protokolu HDLC?,Řízení přístupu k médiu,Směrování dat,Zajištění spolehlivého přenosu na spojové vrstvě,Šifrování dat,Komprese dat,C
+B4B38PSI,Který mechanismus v TCP zajišťuje že data nejsou ztracena?,Číslování sekvencí,Potvrzování příjmu,Řízení toku,Řízení kongesce,Všechny výše uvedené,E
+B4B38PSI,Co je úkolem protokolu UDP?,Zajištění spolehlivého přenosu,Nezajištěný přenos datagramů,Směrování dat,Řízení přístupu k médiu,Šifrování dat,B
+B4B38PSI,Který protokol je základním protokolem TCP/IP suite?,TCP,IP,UDP,ICMP,ARP,B
+B4B38PSI,Co je úkolem protokolu IP?,Zajištění spolehlivého přenosu,Směrování datagramů,Řízení toku,Detekce chyb,Oprava chyb,B
+B4B38PSI,Který protokol se používá pro překlad IP adres na MAC adresy?,DNS,DHCP,ARP,RARP,SNMP,C
+B4B38PSI,Co je úkolem protokolu TCP?,Nezajištěný přenos datagramů,Zajištění spolehlivého přenosu dat,Směrování dat,Řízení přístupu k médiu,Šifrování dat,B
+B4B38PSI,Který protokol se používá pro diagnostiku sítě?,TCP,UDP,IP,ICMP,SNMP,D
+B4B38PSI,Co je úkolem protokolu DNS?,Překlad doménových jmen na IP adresy,Dynamické přidělování IP adres,Překlad IP adres na MAC adresy,Zajištění spolehlivého přenosu,Směrování dat,A
+B4B38PSI,Který protokol se používá pro přenos souborů?,HTTP,FTP,SMTP,POP3,IMAP,B
+B4B38PSI,Co je úkolem protokolu DHCP?,Překlad doménových jmen na IP adresy,Dynamické přidělování IP adres,Překlad IP adres na MAC adresy,Zajištění spolehlivého přenosu,Směrování dat,B
+B4B38PSI,Který protokol se používá pro bezpečný přenos webových stránek?,HTTP,HTTPS,FTP,SSH,TELNET,B
+B4B38PSI,Co je úkolem protokolu SNMP?,Správa síťových zařízení,Přenos e-mailů,Přenos souborů,Zajištění spolehlivého přenosu,Směrování dat,A
+B4B38PSI,Který protokol se používá pro synchronizaci času v síti?,NTP,FTP,SMTP,POP3,IMAP,A
+B4B38PSI,Co je úkolem protokolu OSPF?,Směrování v autonomních systémech,Směrování mezi autonomními systémy,Zajištění spolehlivého přenosu,Řízení přístupu k médiu,Šifrování dat,A
+B4B38PSI,Který protokol se používá pro vzdálený přístup k počítači?,HTTP,FTP,SSH,SMTP,POP3,C
+B4B38PSI,Co je úkolem protokolu BGP?,Směrování v autonomních systémech,Směrování mezi autonomními systémy,Zajištění spolehlivého přenosu,Řízení přístupu k médiu,Šifrování dat,B
+B4B38PSI,Který protokol se používá pro přenos hlasu přes IP sítě?,VoIP,SIP,RTP,RTCP,Všechny výše uvedené,E
+B4B38PSI,Co je úkolem protokolu IGMP?,Správa skupin pro multicast,Směrování dat,Zajištění spolehlivého přenosu,Řízení přístupu k médiu,Šifrování dat,A
+B0B36DBS,"Co je entita v ER diagramu?","Objekt nebo koncept, který má samostatnou existenci.","Vztah mezi dvěma objekty.","Atribut popisující vlastnost entity.","Klíč, který jednoznačně identifikuje entitu.","Schéma databáze.","A"
+B0B36DBS,"Co je charakteristické pro slabou entitu v ER diagramu?","Má vlastní primární klíč.","Její existence závisí na jiné entitě.","Nemůže mít žádné relace.","Všechny její atributy jsou vícehodnotové.","Je vždy v relaci M:N.","B"
+B0B36DBS,"Jak se nazývá vztah mezi dvěma entitami, kde jedna instance první entity je spojena s více instancemi druhé entity?","Relace 1:1","Relace M:N","Relace 1:N","Rekurzivní relace","Ternární relace","C"
+B0B36DBS,"Co je primární klíč v entitě?","Atribut, který může být nulový.","Atribut, který je cizím klíčem.","Sada atributů, které nejsou jedinečné.","Atribut nebo sada atributů jednoznačně identifikující instanci entity.","Atribut popisující entitu.","D"
+B0B36DBS,"Jaký symbol se používá pro zobrazení relace v ER diagramu?","Obdélník","Kruh","Trojúhelník","Čára","Kosočtverec","E"
+B0B36DBS,"Co určuje kardinalita vztahu v ER diagramu?","Kolik instancí jedné entity může být spojeno s instancemi druhé entity.","Počet atributů v relaci.","Typ vztahu mezi entitami.","Způsob propojení entit.","Název relace.","A"
+B0B36DBS,"Jak se v ER diagramu označuje atribut?","Obdélníkem","Oválem","Kosočtvercem","Čárou","Trojúhelníkem","B"
+B0B36DBS,"Co je generalizace v konceptuálním modelování?","Proces slučování entit do jedné tabulky.","Proces vytvoření hierarchie entit od obecnějších k specifickým.","Spojení dvou entit do relace.","Rozdělení entity na více instancí.","Definice atributů entity.","C"
+B0B36DBS,"Jaký je rozdíl mezi 1:1 a 1:N relací?","V 1:1 může být více instancí na obou stranách.","V 1:N může být instance jedné entity spojena pouze s jednou instancí druhé.","V 1:1 je každá instance spojena s jednou instancí druhé entity.","V 1:N je relace vždy rekurzivní.","V 1:1 je povinná účast na obou stranách.","D"
+B0B36DBS,"Co je vícehodnotový atribut v ER diagramu?","Atribut, který je primárním klíčem.","Atribut, který nemůže být nulový.","Atribut, který je cizím klíčem.","Atribut, který má jednu hodnotu pro instanci.","Atribut, který může mít více hodnot pro jednu instanci.","E"
+B0B36DBS,"Jak se v ER diagramu označuje povinná účast v relaci?","Jednoduchou čarou","Dvojitou čarou","Tečkovanou čarou","Kroužkem","Šipkou","A"
+B0B36DBS,"Co je agregace v konceptuálním modelování?","Proces vytvoření nové entity.","Proces seskupení relace a entit do vyššího celku.","Proces odstranění atributů.","Proces převodu relace na entitu.","Proces definice klíče.","B"
+B0B36DBS,"Jaký je účel specializace v ER modelu?","Rozdělení entity na podentity podle specifických vlastností.","Sloučení více entit do jedné.","Vytvoření rekurzivní relace.","Přidání atributů do relace.","Odstranění duplicitních entit.","C"
+B0B36DBS,"Co je slabý klíč v ER diagramu?","Klíč, který je vždy primární.","Klíč, který je jedinečný v rámci databáze.","Klíč, který jednoznačně identifikuje silnou entitu.","Klíč, který identifikuje slabou entitu v závislosti na jiné entitě.","Klíč, který nemůže být nulový.","D"
+B0B36DBS,"Jak se v ER diagramu značí cizí klíč?","Není explicitně značen v ER diagramu.","Obdélníkem s tečkou.","Kosočtvercem s čarou.","Čarou s trojúhelníkem.","Oválem s hvězdičkou.","E"
+B0B36DBS,"Co je účelem konceptuálního modelu?","Definovat fyzickou strukturu databáze.","Určit, jak budou data uložena na disku.","Poskytnout abstraktní pohled na data a jejich vztahy.","Vytvořit SQL dotazy.","Optimalizovat výkon databáze.","A"
+B0B36DBS,"Jaký je rozdíl mezi unary a binary relací?","Unary relace je mezi dvěma entitami, binary je rekurzivní.","Binary relace zahrnuje jednu entitu, unary dvě.","Binary relace je mezi dvěma entitami, unary je rekurzivní.","Unary relace je vždy 1:N, binary je M:N.","Neexistuje mezi nimi rozdíl.","B"
+B0B36DBS,"Co je ternární relace?","Relace mezi jednou entitou a dvěma atributy.","Relace mezi dvěma entitami a jedním atributem.","Relace zahrnující tři entity.","Relace, která je rekurzivní.","Relace s povinnou účastí.","C"
+B0B36DBS,"Jaký je význam dědičnosti v ER diagramu?","Přidání nových atributů do entity.","Spojení dvou relací.","Přenos vlastností z nadřazené entity na podřízené entity.","Vytvoření cizího klíče.","Rozdělení relace na více částí.","D"
+B0B36DBS,"Co je rekurzivní relace?","Relace mezi dvěma různými entitami.","Relace, kde entita není spojena sama se sebou.","Relace, kde je entita spojena sama se sebou.","Relace s povinnou účastí.","Relace mezi třemi entitami.","E"
+B0B36DBS,"Jak se převede entita s primárním klíčem do relačního schématu?","Vytvoří se tabulka s primárním klíčem jako klíčovým atributem.","Vytvoří se tabulka bez primárního klíče.","Vytvoří se tabulka s cizím klíčem.","Entita se nepřevádí do tabulky.","Vytvoří se více tabulek pro jednu entitu.","A"
+B0B36DBS,"Co je funkční závislost v databázích?","Když hodnota atributu nezávisí na jiném atributu.","Když pro každou hodnotu atributu X existuje jednoznačná hodnota atributu Y.","Když dva atributy mají stejné hodnoty.","Když atribut může mít více hodnot.","Když atribut je cizím klíčem.","B"
+B0B36DBS,"Co je první normální forma (1NF)?","Relace bez redundantních dat.","Relace, kde všechny atributy jsou atomické.","Relace bez částečných závislostí.","Relace, kde neklíčové atributy závisí na primárním klíči.","Relace bez tranzitivních závislostí.","C"
+B0B36DBS,"Jaký je účel cizího klíče v relačním schématu?","Jednoznačně identifikovat řádek v tabulce.","Zajistit integritu dat mezi dvěma tabulkami.","Zabránit duplicitním záznamům.","Rozdělit tabulku na více částí.","Optimalizovat výkon dotazů.","D"
+B0B36DBS,"Co je třetí normální forma (3NF)?","Relace, kde všechny atributy jsou atomické.","Relace bez redundantních dat.","Relace, kde neklíčové atributy závisí pouze na primárním klíči.","Relace bez částečných závislostí.","Relace, kde neklíčové atributy nejsou tranzitivně závislé na primárním klíči.","E"
+B0B36DBS,"Co je částečná závislost v normalizaci?","Závislost atributu na celém primárním klíči.","Závislost atributu na části složeného primárního klíče.","Závislost mezi dvěma neklíčovými atributy.","Závislost primárního klíče na cizím klíči.","Závislost atributu na indexu.","A"
+B0B36DBS,"Jak se převádí relace M:N do relačního schématu?","Vytvoří se jedna tabulka s primárním klíčem.","Vytvoří se nová tabulka s cizími klíči z obou entit.","Relace M:N se nepřevádí.","Přidá se cizí klíč do jedné z tabulek.","Vytvoří se tabulka bez klíčů.","B"
+B0B36DBS,"Co je tranzitivní závislost?","Závislost atributu na celém primárním klíči.","Závislost atributu na části primárního klíče.","Závislost neklíčového atributu na jiném neklíčovém atributu.","Závislost primárního klíče na cizím klíči.","Závislost atributu na indexu.","C"
+B0B36DBS,"Co je Boyce-Coddova normální forma (BCNF)?","Relace bez částečných závislostí.","Relace, kde každý atribut je atomický.","Relace bez tranzitivních závislostí.","Relace, kde každý determinant je kandidátním klíčem.","Relace bez cizích klíčů.","D"
+B0B36DBS,"Jaký je rozdíl mezi 2NF a 3NF?","2NF odstraňuje tranzitivní závislosti, 3NF částečné.","2NF vyžaduje atomické atributy, 3NF ne.","3NF odstraňuje tranzitivní závislosti, 2NF částečné.","2NF zahrnuje cizí klíče, 3NF ne.","3NF je méně přísná než 2NF.","E"
+B0B36DBS,"Co je kandidátní klíč?","Klíč, který jednoznačně identifikuje řádek v tabulce.","Klíč, který je cizím klíčem.","Klíč, který může být nulový.","Klíč, který není primární.","Klíč, který je složený.","A"
+B0B36DBS,"Jaký je účel normalizace?","Zvýšit redundanci dat.","Snížit redundanci a zajistit konzistenci dat.","Zrychlit dotazy.","Vytvořit více tabulek bez klíčů.","Zjednodušit fyzické uložení dat.","B"
+B0B36DBS,"Co je denormalizace?","Proces odstranění všech závislostí.","Proces záměrného přidání redundancy pro výkon.","Proces převodu relací na entity.","Proces sloučení tabulek do jedné.","Proces odstranění cizích klíčů.","C"
+B0B36DBS,"Jak se v relačním schématu značí primární klíč?","Pomocí cizího klíče.","Pomocí indexu.","Pomocí tečkované čáry.","Je podtržen v definici tabulky.","Není nijak označen.","D"
+B0B36DBS,"Co je integrita referencí?","Zajištění, že primární klíč je jedinečný.","Zajištění, že cizí klíč odkazuje na existující hodnotu.","Zajištění, že atributy jsou atomické.","Zajištění, že tabulka nemá duplicity.","Zajištění, že indexy jsou unikátní.","E"
+B0B36DBS,"Jaký je výsledek převodu 1:1 relace do relačního schématu?","Vytvoří se dvě tabulky s cizími klíči.","Cizí klíč se přidá do jedné z tabulek.","Vytvoří se nová tabulka pro relaci.","Relace se nepřevádí.","Tabulky se sloučí do jedné.","A"
+B0B36DBS,"Co je složený klíč?","Klíč, který je cizí.","Klíč tvořený více atributy.","Klíč, který je automaticky generovaný.","Klíč, který nemůže být nulový.","Klíč, který je jediným atributem tabulky.","B"
+B0B36DBS,"Jaký je rozdíl mezi primárním a cizím klíčem?","Primární klíč odkazuje na jinou tabulku, cizí ne.","Cizí klíč jednoznačně identifikuje řádek, primární ne.","Primární klíč identifikuje řádek, cizí klíč odkazuje na primární klíč jiné tabulky.","Primární klíč může být nulový, cizí ne.","Cizí klíč je vždy složený.","C"
+B0B36DBS,"Co je účelem dekompozice v normalizaci?","Rozdělit tabulku na menší části bez ztráty informací.","Sloučit více tabulek do jedné.","Přidat redundanci do tabulky.","Odstranit primární klíče.","Vytvořit nové cizí klíče.","D"
+B0B36DBS,"Co je atomický atribut?","Atribut, který může mít více hodnot.","Atribut, který je cizím klíčem.","Atribut, který je složený.","Atribut, který je primárním klíčem.","Atribut, který je nedělitelný na menší části.","E"
+B0B36DBS,"Jaký příkaz SQL se používá pro výběr dat z tabulky?","SELECT","INSERT","UPDATE","DELETE","CREATE","A"
+B0B36DBS,"Co dělá příkaz JOIN v SQL?","Vloží nový řádek do tabulky.","Spojí řádky z více tabulek na základě podmínky.","Smaže řádky z tabulky.","Vytvoří novou tabulku.","Změní strukturu tabulky.","B"
+B0B36DBS,"Jaký je rozdíl mezi WHERE a HAVING v SQL?","WHERE filtruje skupiny, HAVING řádky.","HAVING se používá s agregacemi, WHERE ne.","WHERE se používá s GROUP BY, HAVING ne.","HAVING filtruje jednotlivé řádky, WHERE skupiny.","Neexistuje mezi nimi rozdíl.","C"
+B0B36DBS,"Co vrací příkaz LEFT JOIN?","Všechny řádky z pravé tabulky a odpovídající z levé.","Všechny řádky z obou tabulek.","Všechny řádky z levé tabulky a odpovídající z pravé.","Pouze řádky, které mají shodu v obou tabulkách.","Žádné řádky, pokud není shoda.","D"
+B0B36DBS,"Jaký příkaz se používá pro vložení dat do tabulky?","SELECT","UPDATE","DELETE","CREATE","INSERT","E"
+B0B36DBS,"Co je poddotaz v SQL?","Dotaz, který vytvoří novou tabulku.","Dotaz vnořený do jiného dotazu.","Dotaz pro smazání dat.","Dotaz pro změnu struktury tabulky.","Dotaz bez podmínky.","A"
+B0B36DBS,"Jaký je účel příkazu GROUP BY?","Filtrování řádků podle podmínky.","Seskupení řádků podle hodnot atributu a použití agregací.","Spojení dvou tabulek.","Seřazení výsledků dotazu.","Vytvoření indexu.","B"
+B0B36DBS,"Co dělá příkaz ORDER BY v SQL?","Seskupuje řádky podle atributu.","Spojuje tabulky.","Seřadí výsledky dotazu podle zadaného sloupce.","Filtruje řádky podle podmínky.","Vkládá nové řádky.","C"
+B0B36DBS,"Jaký je rozdíl mezi INNER JOIN a OUTER JOIN?","INNER JOIN vrací všechny řádky, OUTER JOIN jen shodné.","OUTER JOIN vrací jen shodné řádky, INNER JOIN všechny.","INNER JOIN vrací jen shodné řádky, OUTER JOIN i neodpovídající.","INNER JOIN je rychlejší, OUTER JOIN ne.","Neexistuje mezi nimi rozdíl.","D"
+B0B36DBS,"Co je index v databázích?","Struktura pro jednoznačnou identifikaci řádků.","Tabulka s cizími klíči.","Struktura pro urychlení vyhledávání dat.","Seskupení řádků podle atributu.","Fyzické uložení dat na disku.","E"
+B0B36DBS,"Jaký příkaz smaže řádky z tabulky?","DELETE","INSERT","UPDATE","SELECT","DROP","A"
+B0B36DBS,"Co je agregační funkce v SQL?","Funkce pro spojování tabulek.","Funkce, která vrací jednu hodnotu na základě více řádků.","Funkce pro filtrování řádků.","Funkce pro seřazení dat.","Funkce pro změnu struktury tabulky.","B"
+B0B36DBS,"Jaký je výsledek příkazu SELECT DISTINCT?","Vrací všechny řádky včetně duplicit.","Vrací pouze unikátní řádky.","Vrací seskupené řádky.","Vrací řádky seřazené podle sloupce.","Vrací řádky s nulovými hodnotami.","C"
+B0B36DBS,"Co dělá příkaz UPDATE v SQL?","Vytvoří novou tabulku.","Smaže řádky z tabulky.","Změní hodnoty v existujících řádcích.","Spojí dvě tabulky.","Vybere data z tabulky.","D"
+B0B36DBS,"Jaký je účel klauzule LIMIT v SQL?","Omezí počet vrácených řádků.","Seřadí výsledky dotazu.","Seskupí řádky podle atributu.","Spojí dvě tabulky.","Filtruje řádky podle podmínky.","E"
+B0B36DBS,"Co je alias v SQL?","Dočasný název pro tabulku nebo sloupec.","Trvalá změna názvu tabulky.","Nový primární klíč.","Cizí klíč v dotazu.","Index pro urychlení dotazu.","A"
+B0B36DBS,"Jaký je rozdíl mezi UNION a UNION ALL?","UNION ALL odstraňuje duplicity, UNION ne.","UNION kombinuje výsledky bez duplicit, UNION ALL s duplicitami.","UNION je rychlejší než UNION ALL.","UNION ALL se používá jen s GROUP BY.","Neexistuje mezi nimi rozdíl.","B"
+B0B36DBS,"Co vrací příkaz FULL OUTER JOIN?","Pouze shodné řádky z obou tabulek.","Všechny řádky z levé tabulky.","Všechny řádky z pravé tabulky.","Všechny řádky z obou tabulek včetně neodpovídajících.","Žádné řádky, pokud není shoda.","C"
+B0B36DBS,"Jaký příkaz vytvoří novou tabulku?","SELECT","INSERT","UPDATE","CREATE TABLE","DELETE","D"
+B0B36DBS,"Co je účelem klauzule IN v SQL?","Spojení dvou tabulek.","Seřazení výsledků.","Filtrování řádků podle seznamu hodnot.","Seskupení řádků.","Vytvoření indexu.","E"
+B0B36DBS,"Co znamená vlastnost Atomicita v transakcích?","Transakce je provedena celá nebo vůbec.","Data jsou konzistentní po transakci.","Transakce je nezávislá na jiných.","Změny jsou trvalé po commitu.","Transakce může být přerušena.","A"
+B0B36DBS,"Co zajišťuje vlastnost Izolace v transakcích?","Transakce jsou provedeny celé.","Transakce neovlivňují jiné běžící transakce.","Data jsou trvale uložena.","Konzistence dat je zajištěna.","Transakce jsou rychlejší.","B"
+B0B36DBS,"Jaký je význam vlastnosti Trvanlivosti v ACID?","Transakce je provedena atomicky.","Transakce jsou izolovány.","Změny jsou trvale uloženy po potvrzení transakce.","Konzistence dat je zajištěna.","Transakce jsou rychlejší.","C"
+B0B36DBS,"Co je úroveň izolace Serializable?","Úroveň, kde mohou nastat špinavá čtení.","Úroveň, kde jsou transakce zcela izolovány a sériové.","Úroveň bez izolace.","Úroveň, která umožňuje neopakovatelná čtení.","Úroveň, kde nejsou zámky.","D"
+B0B36DBS,"Co je špinavé čtení (Dirty Read)?","Čtení nepotvrzených změn z jiné transakce.","Čtení dat po commitu.","Čtení dat bez zámku.","Čtení dat z více tabulek.","Čtení dat po rollbacku.","E"
+B0B36DBS,"Co je zámek (Lock) v transakcích?","Mechanismus pro zajištění konzistence dat při souběžném přístupu.","Mechanismus pro rychlejší dotazy.","Mechanismus pro vytvoření indexu.","Mechanismus pro smazání dat.","Mechanismus pro sloučení tabulek.","A"
+B0B36DBS,"Co je neopakovatelné čtení (Non-repeatable Read)?","Když transakce čte stejná data dvakrát a dostane stejný výsledek.","Když transakce čte data změněná jinou transakcí mezi čteními.","Když transakce čte nepotvrzená data.","Když transakce nemůže číst data.","Když transakce čte data z indexu.","B"
+B0B36DBS,"Co je fantomové čtení (Phantom Read)?","Čtení nepotvrzených dat.","Čtení dat, která byla smazána.","Čtení nově přidaných řádků jinou transakcí během čtení.","Čtení dat bez zámku.","Čtení dat po commitu.","C"
+B0B36DBS,"Jaký je účel příkazu COMMIT?","Zrušení změn v transakci.","Dočasné uložení změn.","Trvalé potvrzení změn v transakci.","Zajištění izolace transakce.","Zrychlení transakce.","D"
+B0B36DBS,"Co dělá příkaz ROLLBACK?","Potvrzuje změny v transakci.","Vrací databázi do stavu před transakcí.","Vytváří novou transakci.","Zajišťuje konzistenci dat.","Urychluje provádění transakce.","E"
+B0B36DBS,"Co je deadlock v transakcích?","Situace, kdy dvě transakce čekají na uvolnění zdrojů držených tou druhou.","Situace, kdy transakce je přerušena.","Situace, kdy transakce čte nepotvrzená data.","Situace, kdy transakce je izolvána.","Situace, kdy transakce je dokončena.","A"
+B0B36DBS,"Jaký je rozdíl mezi Read Committed a Repeatable Read?","Read Committed umožňuje špinavá čtení, Repeatable Read ne.","Repeatable Read zabraňuje neopakovatelným čtením, Read Committed ne.","Repeatable Read je méně přísné než Read Committed.","Read Committed zabraňuje fantomovým čtením.","Neexistuje mezi nimi rozdíl.","B"
+B0B36DBS,"Co je dvoufázové zamykání (2PL)?","Protokol zajišťující serializovatelnost transakcí.","Protokol pro rychlejší dotazy.","Protokol pro odstranění zámků.","Protokol pro sloučení transakcí.","Protokol pro vytvoření indexu.","C"
+B0B36DBS,"Jaký je účel časových razítek v transakcích?","Urychlení provádění transakcí.","Zajištění pořadí provádění transakcí bez zámků.","Zajištění atomicity transakcí.","Potvrzení změn v transakci.","Filtrování transakcí.","D"
+B0B36DBS,"Co je úroveň izolace Read Uncommitted?","Úroveň, kde jsou transakce zcela izolovány.","Úroveň, kde mohou nastat špinavá čtení.","Úroveň, kde jsou zamezena neopakovatelná čtení.","Úroveň, kde nejsou použity zámky.","Úroveň, kde jsou zamezena fantomová čtení.","E"
+B0B36DBS,"Jaký je rozdíl mezi optimismem a pesimismem v řízení souběhu?","Optimismus předpokládá konflikty, pesimismus ne.","Pesimismus používá zámky, optimismus kontroluje konflikty na konci.","Optimismus je rychlejší, pesimismus ne.","Pesimismus je bez zámků, optimismus ne.","Neexistuje mezi nimi rozdíl.","A"
+B0B36DBS,"Co je primární účel transakcí?","Zrychlení dotazů.","Zajištění konzistence a integrity dat.","Sloučení tabulek.","Vytvoření indexů.","Odstranění redundantních dat.","B"
+B0B36DBS,"Co je řízení souběhu v transakcích?","Proces zajišťující, že více transakcí může běžet současně bez konfliktů.","Proces pro rychlejší provádění dotazů.","Proces pro vytvoření nových tabulek.","Proces pro sloučení transakcí.","Proces pro odstranění zámků.","C"
+B0B36DBS,"Jaký je výsledek přerušení transakce?","Změny jsou trvale uloženy.","Transakce je dokončena.","Transakce je vrácena do původního stavu.","Transakce je izolvána.","Transakce je zrychlena.","D"
+B0B36DBS,"Co je log transakcí?","Záznam všech změn provedených transakcí pro obnovu.","Seznam tabulek v databázi.","Seznam indexů v databázi.","Záznam o rychlosti transakcí.","Záznam o chybách v transakcích.","E"
+B0B36DBS,"Jak se v objektově-relačním mapování mapuje třída na databázovou tabulku?","Každá třída se mapuje na jednu tabulku.","Každá instance třídy se mapuje na tabulku.","Atributy třídy se mapují na řádky.","Metody třídy se mapují na procedury.","Dědičnost se mapuje na cizí klíče.","A"
+B0B36DBS,"Co je lazy loading v ORM?","Načítání dat při vytvoření objektu.","Načítání dat až při jejich prvním použití.","Načítání všech dat najednou.","Načítání dat bez vazeb.","Načítání dat z indexu.","B"
+B0B36DBS,"Jak se mapuje relace 1:N v ORM?","Pomocí jedné tabulky bez klíčů.","Pomocí cizího klíče v tabulce na straně N.","Pomocí nové tabulky pro relaci.","Pomocí primárního klíče na obou stranách.","Pomocí sloučení tabulek.","C"
+B0B36DBS,"Co je eager loading v ORM?","Načítání dat až při jejich použití.","Načítání dat bez vazeb.","Načítání všech souvisejících dat předem.","Načítání dat z více tabulek zvlášť.","Načítání dat podle indexu.","D"
+B0B36DBS,"Jak se v ORM mapuje dědičnost?","Vždy se vytvoří jedna tabulka pro všechny třídy.","Pomocí cizího klíče v nadřazené třídě.","Pomocí sloučení všech tříd do jedné entity.","Pomocí různých strategií, např. jedna tabulka na třídu.","Pomocí odstranění dědičnosti.","E"
+B0B36DBS,"Co je hlavní výhodou ORM?","Rychlejší provádění dotazů.","Zjednodušení práce s databází v objektovém kódu.","Odstranění nutnosti SQL.","Vytvoření nových tabulek.","Zrychlení transakcí.","A"
+B0B36DBS,"Jak se v ORM mapuje relace M:N?","Pomocí cizího klíče v jedné tabulce.","Pomocí mezilehlé tabulky s cizími klíči.","Pomocí sloučení tabulek.","Pomocí odstranění relace.","Pomocí primárního klíče.","B"
+B0B36DBS,"Co je Hibernate v kontextu ORM?","Nástroj pro správu transakcí.","Framework pro objektově-relační mapování.","Nástroj pro vytvoření indexů.","Nástroj pro normalizaci databáze.","Nástroj pro NoSQL databáze.","C"
+B0B36DBS,"Jaký je rozdíl mezi ORM a ručním SQL?","ORM je pomalejší a méně flexibilní.","ORM automatizuje mapování objektů na tabulky, SQL ne.","SQL je jednodušší na implementaci.","ORM nepoužívá databáze.","Neexistuje mezi nimi rozdíl.","D"
+B0B36DBS,"Co je význam anotací v ORM?","Slouží k optimalizaci dotazů.","Slouží k definici mapování mezi objekty a databází.","Slouží k vytvoření indexů.","Slouží k odstranění relací.","Slouží k urychlení transakcí.","E"
+B0B36DBS,"Jaký je hlavní rozdíl mezi SQL a NoSQL databázemi?","NoSQL nepodporují schéma a jsou horizontálně škálovatelné.","SQL nepodporují transakce.","NoSQL používají pouze klíč-hodnota úložiště.","SQL jsou pomalejší.","NoSQL nepodporují dotazy.","A"
+B0B36DBS,"Co je CAP teorém v NoSQL?","Teorie o rychlosti dotazů.","Teorie o kompromisu mezi konzistencí, dostupností a odolností.","Teorie o normalizaci dat.","Teorie o vytvoření indexů.","Teorie o transakcích.","B"
+B0B36DBS,"Co je dokumentová databáze v NoSQL?","Databáze ukládající data jako páry klíč-hodnota.","Databáze ukládající data jako hierarchické dokumenty.","Databáze bez schématu.","Databáze s pevným schématem.","Databáze pro grafové struktury.","C"
+B0B36DBS,"Co je eventual consistency v NoSQL?","Zajištění okamžité konzistence dat.","Zajištění konzistence dat v průběhu času.","Zajištění rychlých dotazů.","Zajištění trvanlivosti dat.","Zajištění izolace dat.","D"
+B0B36DBS,"Jaký je příklad NoSQL databáze typu klíč-hodnota?","MongoDB","Cassandra","Redis","Neo4j","MySQL","E"
+B0B36DBS,"Co je grafová databáze v NoSQL?","Databáze pro ukládání párových hodnot.","Databáze pro ukládání dokumentů.","Databáze pro ukládání relací mezi uzly a hranami.","Databáze pro sloupcové struktury.","Databáze pro transakce.","A"
+B0B36DBS,"Jaký je účel sharding v NoSQL?","Rozdělení dat na menší části pro distribuci.","Sloučení dat do jedné tabulky.","Zajištění okamžité konzistence.","Vytvoření indexů.","Odstranění redundantních dat.","B"
+B0B36DBS,"Co je replikace v NoSQL databázích?","Proces vytvoření nových tabulek.","Proces kopírování dat na více uzlů pro dostupnost.","Proces normalizace dat.","Proces odstranění duplicit.","Proces optimalizace dotazů.","C"
+B0B36DBS,"Jaký je rozdíl mezi silnou a případnou konzistencí?","Silná konzistence zaručuje okamžitou shodu dat, případná nikoli.","Případná konzistence je rychlejší.","Silná konzistence nepodporuje distribuci.","Případná konzistence je vždy okamžitá.","Neexistuje mezi nimi rozdíl.","D"
+B0B36DBS,"Co je sloupcová databáze v NoSQL?","Databáze ukládající data v dokumentech.","Databáze ukládající data v párech klíč-hodnota.","Databáze ukládající data v grafech.","Databáze optimalizovaná pro sloupcové uložení dat.","Databáze s pevným schématem.","E"
+B0B01LAG,"Která z následujících množin tvoří lineární prostor nad ℝ s obvyklými operacemi?","Množina všech polynomů stupně nejvýše 3","Množina všech polynomů stupně přesně 3","Množina funkcí f: ℝ → ℝ, kde f(0) = 1","Množina matic 2x2 s det = 0","Množina vektorů v ℝ³ s celými složkami","A"
+B0B01LAG,"Který soubor vektorů je lineárně nezávislý v ℝ³?","{(1,0,0), (2,0,0), (3,0,0)}","{(1,1,0), (0,1,1), (1,2,1)}","{(1,2,3), (4,5,6), (7,8,9)}","{(1,0,0), (2,0,0), (0,1,0)}","{(0,0,0), (1,2,3)}","B"
+B0B01LAG,"Jaká je dimenze podprostoru vektorů v ℝ⁴ splňujících x₁ + x₂ + x₃ + x₄ = 0?","1","2","3","4","0","C"
+B0B01LAG,"Které tvrzení je pravdivé pro lineární zobrazení T: V → W?","Pokud T je injektivní, dim V ≥ dim W","Pokud T je surjektivní, dim V ≤ dim W","Pokud T je izomorfismus, dim V ≠ dim W","Všechny výše uvedené jsou pravdivé","Žádné z výše uvedených není pravdivé","D"
+B0B01LAG,"Které tvrzení je pravdivé o maticích a jejich operacích?","Každá matice má inverzi","Det diagonální matice je součet prvků","Hodnost matice = počet řádků","Násobení matic není komutativní","Všechna tvrzení jsou pravdivá","D"
+B0B01LAG,"Určete součin matic A = [1 2; 3 4] a B = [0 1; 1 0]","[2 1; 4 3]","[1 2; 3 4]","[0 2; 3 0]","[2 0; 4 3]","[1 0; 0 1]","A"
+B0B01LAG,"Jaký je determinant matice [1 0 0; 0 1 0; 0 0 1]?","0","1","2","3","4","B"
+B0B01LAG,"Jaká je hodnost matice [1 2 3; 4 5 6; 7 8 9]?","0","1","2","3","Nelze určit","C"
+B0B01LAG,"Která matice je inverzní k [2 1; 1 3]?","[3 -1; -1 2]","[2 -1; -1 3]","[3 1; 1 2]","[1 0; 0 1]","[0 1; 1 0]","D"
+B0B01LAG,"Je vektor (1,1,1) lineární kombinací (1,0,0), (0,1,0), (0,0,1)?","Ne","Pouze pokud jsou nezávislé","Pouze pokud jsou závislé","Nelze určit","Ano","E"
+B0B01LAG,"Co je lineární prostor?","Množina vektorů s operacemi splňujícími axiomy","Množina matic s násobením","Množina čísel s sčítáním","Množina bodů v rovině","Množina funkcí bez operací","A"
+B0B01LAG,"Které vektory tvoří bázi ℝ²?","{(1,0), (0,1)}","{(1,1), (1,1)}","{(2,0), (4,0)}","{(0,0), (1,0)}","{(1,0), (1,0)}","B"
+B0B01LAG,"Jaká je dimenze prostoru matic 2x2 nad ℝ?","2","3","4","5","6","C"
+B0B01LAG,"Je zobrazení T(x,y) = (x+y, x-y) lineární?","Ne","Jen pokud x = y","Jen pokud x ≠ y","Ano","Nelze určit","D"
+B0B01LAG,"Kolik řešení má soustava Ax = 0, A je 3x4, hodnost 2?","Žádné","Jedno","Nekonečně mnoho","Záleží na b","Nelze určit","E"
+B0B01LAG,"Určete A + B, kde A = [1 2; 3 4], B = [5 6; 7 8]","[6 8; 10 12]","[4 4; 4 4]","[5 8; 10 12]","[6 8; 11 12]","[1 2; 3 4]","A"
+B0B01LAG,"Jaký je determinant matice [2 0; 0 3]?","0","6","2","3","5","B"
+B0B01LAG,"Jaká je hodnost matice [0 0; 0 0]?","0","1","2","3","4","C"
+B0B01LAG,"Co platí pro bázi vektorového prostoru?","Je lineárně závislá","Má méně vektorů než dimenze","Generuje prostor a je nezávislá","Má nekonečně vektorů","Není jednoznačná","C"
+B0B01LAG,"Které tvrzení je nepravdivé o lineárních zobrazeních?","T(0) = 0","T(u + v) = T(u) + T(v)","T(ku) = kT(u)","T je vždy injektivní","T zachovává lineární kombinace","D"
+B0B01LAG,"Určete obraz (1,0) pod T(x,y) = (2x, y)","(2,0)","(1,0)","(0,1)","(2,1)","(1,1)","A"
+B0B01LAG,"Který soubor je lineárně nezávislý v ℝ³?","{(1,0,0), (0,1,0), (0,0,0)}","{(1,0,0), (0,1,0), (0,0,1)}","{(1,1,1), (1,1,1), (1,1,1)}","{(2,0,0), (4,0,0), (6,0,0)}","{(0,1,0), (0,2,0), (0,3,0)}","B"
+B0B01LAG,"Jaká je dimenze jádra T(x,y) = (x,0)?","0","1","2","3","4","C"
+B0B01LAG,"Je matice [1 2; 3 4] regulární?","Ne","Jen pokud det = 0","Jen pokud det ≠ 0","Ano","Nelze určit","D"
+B0B01LAG,"Kolik řešení má Ax = b, A je 2x2, det A = 0, b ≠ 0?","Žádné nebo nekonečně","Právě jedno","Nekonečně mnoho","Záleží na b","Nelze určit","E"
+B0B01LAG,"Určete 2A, kde A = [1 2; 3 4]","[2 4; 6 8]","[1 4; 6 8]","[2 2; 6 6]","[4 4; 6 6]","[1 2; 3 4]","A"
+B0B01LAG,"Jaký je det [1 1; 1 1]?","0","1","2","3","4","B"
+B0B01LAG,"Jaká je hodnost [1 0 0; 0 0 0; 0 0 0]?","0","1","2","3","4","C"
+B0B01LAG,"Které zobrazení je lineární?","T(x,y) = (x²,y)","T(x,y) = (x+y,0)","T(x,y) = (1,x)","T(x,y) = (2x,3y)","T(x,y) = (x,y+1)","D"
+B0B01LAG,"Je (2,2) v span{(1,0), (0,1)}?","Ne","Pouze pokud je báze","Pouze pokud není báze","Nelze určit","Ano","E"
+B0B01LAG,"Co je podmínkou lineární nezávislosti?","Vektory generují prostor","Jeden vektor je kombinací ostatních","Žádný vektor není kombinací ostatních","Všechny vektory jsou nulové","Prostor má dimenzi 0","C"
+B0B01LAG,"Určete T(1,1) pro T(x,y) = [1 0; 0 1][x; y]","(1,1)","(0,0)","(1,0)","(0,1)","(2,2)","A"
+B0B01LAG,"Jaký je det [0 1; 1 0]?","0","-1","1","2","3","B"
+B0B01LAG,"Dimenze prostoru polynomů stupně ≤ 2 je:","1","2","3","4","5","C"
+B0B01LAG,"Které tvrzení platí pro inverzní matici?","Existuje vždy","Je vždy čtvercová","Má det = 0","Existuje, pokud původní matice je regulární","Je vždy diagonální","D"
+B0B01LAG,"Kolik řešení má Ax = 0, A je 2x3, hodnost 1?","Žádné","Jedno","Nekonečně mnoho","Záleží na A","Nelze určit","E"
+B0B01LAG,"Určete A - B, A = [3 2; 1 4], B = [1 1; 1 1]","[2 1; 0 3]","[4 3; 2 5]","[1 1; 1 1]","[3 2; 1 4]","[0 0; 0 0]","A"
+B0B01LAG,"Det matice [3 0 0; 0 2 0; 0 0 1] je:","0","6","3","2","1","B"
+B0B01LAG,"Hodnost [1 1; 2 2] je:","0","1","2","3","4","C"
+B0B01LAG,"Je T(x,y) = (x, x) injektivní?","Ne","Jen pokud x = 0","Jen pokud y = 0","Ano","Nelze určit","D"
+B0B01LAG,"Je (1,2,3) lineární kombinací {(1,0,0), (0,1,0)}?","Ano","Ne","Pouze pokud je báze","Pouze pokud není báze","Nelze určit","B"
+B0B01LAG,"Co je pravda o dimenzi prostoru?","Je počet vektorů v prostoru","Je počet nezávislých vektorů v bázi","Je vždy nekonečná","Je menší než počet vektorů","Je rovna hodnosti matice","B"
+B0B01LAG,"Určete obraz (0,1) pod T(x,y) = (x-y, y)","(0,1)","(-1,1)","(1,0)","(1,1)","(0,0)","A"
+B0B01LAG,"Det [2 2; 2 2] je:","0","4","2","8","6","B"
+B0B01LAG,"Dimenze jádra T(x,y,z) = (x,y,0) je:","0","1","2","3","4","C"
+B0B01LAG,"Která matice má hodnost 1?","[1 0; 0 0]","[0 0; 0 0]","[1 1; 1 1]","[1 2; 2 4]","[1 0; 0 1]","D"
+B0B01LAG,"Kolik řešení má Ax = b, A je 3x3, det A ≠ 0?","Žádné","Jedno","Nekonečně mnoho","Záleží na b","Nelze určit","E"
+B0B01LAG,"Určete 3A, A = [1 0; 0 1]","[3 0; 0 3]","[1 0; 0 1]","[0 0; 0 0]","[3 3; 3 3]","[1 1; 1 1]","A"
+B0B01LAG,"Det [1 0; 2 0] je:","0","1","2","3","4","B"
+B0B01LAG,"Hodnost [1 0 0; 2 0 0; 3 0 0] je:","0","1","2","3","4","C"
+B0B01LAG,"Je T(x,y) = (2x+y, y) surjektivní v ℝ²?","Ne","Jen pokud x = 0","Jen pokud y = 0","Ano","Nelze určit","D"
+B0B01LAG,"Je {(1,1), (2,2)} báze ℝ²?","Ano","Ne","Pouze pokud je nezávislá","Pouze pokud generuje ℝ²","Nelze určit","B"
+B0B01LAG,"Určete T(1,0) pro T(x,y) = [2 1; 1 2][x; y]","(2,1)","(1,2)","(1,1)","(2,2)","(0,0)","A"
+B0B01LAG,"Det [4 0; 0 4] je:","0","16","4","8","12","B"
+B0B01LAG,"Dimenze prostoru symetrických matic 2x2 je:","0","1","2","3","4","C"
+B0B01LAG,"Které tvrzení platí pro span?","Je vždy celý prostor","Je podprostor generovaný vektory","Má vždy dimenzi 0","Je lineárně nezávislý","Je prázdný","B"
+B0B01LAG,"Kolik řešení má Ax = 0, A je 4x4, hodnost 4?","Žádné","Jedno","Nekonečně mnoho","Záleží na A","Nelze určit","E"
+B0B01LAG,"Určete A*B, A = [1 0; 0 1], B = [2 3; 4 5]","[2 3; 4 5]","[1 0; 0 1]","[2 3; 0 1]","[1 0; 4 5]","[0 0; 0 0]","A"
+B0B01LAG,"Det [1 2; 0 3] je:","0","3","1","2","6","B"
+B0B01LAG,"Hodnost [0 1 0; 0 0 0; 0 0 0] je:","0","1","2","3","4","C"
+B0B01LAG,"Je T(x,y) = (x, 2y) izomorfismus ℝ² → ℝ²?","Ne","Jen pokud x = y","Jen pokud x ≠ y","Ano","Nelze určit","D"
+B0B01LAG,"Je (0,0,1) v span{(1,0,0), (0,1,0)}?","Ano","Ne","Pouze pokud je báze","Pouze pokud není báze","Nelze určit","B"
+B0B01LAG,"Určete obraz (1,1) pod T(x,y) = (x+y, x)","(2,1)","(1,1)","(1,2)","(2,2)","(0,0)","A"
+B0B01LAG,"Det [0 0; 0 0] je:","0","1","2","3","4","B"
+B0B01LAG,"Dimenze podprostoru x₁ = x₂ v ℝ³ je:","0","1","2","3","4","C"
+B0B01LAG,"Která matice je regulární?","[1 0; 0 0]","[0 0; 0 1]","[1 1; 1 1]","[1 0; 2 2]","[1 0; 0 1]","D"
+B0B01LAG,"Kolik řešení má Ax = b, A je 2x3, hodnost 2, b ≠ 0?","Žádné","Jedno","Nekonečně mnoho","Záleží na b","Nelze určit","E"
+B0B01LAG,"Určete A + A, A = [1 1; 1 1]","[2 2; 2 2]","[1 1; 1 1]","[0 0; 0 0]","[2 1; 1 2]","[1 2; 2 1]","A"
+B0B01LAG,"Det [2 1; 0 2] je:","0","4","2","1","3","B"
+B0B01LAG,"Hodnost [1 0 1; 0 1 0; 1 0 1] je:","0","1","2","3","4","C"
+B0B01LAG,"Je T(x,y) = (y, x) lineární?","Ne","Jen pokud x = y","Jen pokud x ≠ y","Ano","Nelze určit","D"
+B0B01LAG,"Je {(1,0), (0,0)} báze ℝ²?","Ano","Ne","Pouze pokud je nezávislá","Pouze pokud generuje ℝ²","Nelze určit","B"
+B0B01LAG,"Určete T(0,1) pro T(x,y) = [0 1; 1 0][x; y]","(1,0)","(0,1)","(1,1)","(0,0)","(2,1)","A"
+B0B01LAG,"Det [3 0; 1 3] je:","0","9","3","6","12","B"
+B0B01LAG,"Dimenze prostoru matic 3x1 je:","0","1","2","3","4","C"
+B0B01LAG,"Které tvrzení platí pro lineární zobrazení?","Není vždy injektivní","Má vždy nenulový obraz","Je vždy surjektivní","Má vždy inverzi","Je vždy izomorfismus","A"
+B0B01LAG,"Kolik řešení má Ax = 0, A je 3x3, det A = 0?","Žádné","Jedno","Nekonečně mnoho","Záleží na A","Nelze určit","E"
+B0B01LAG,"Určete A*B, A = [1 1; 0 0], B = [0 0; 1 1]","[1 1; 0 0]","[0 0; 0 0]","[1 0; 0 0]","[0 1; 0 0]","[1 1; 1 1]","A"
+B0B01LAG,"Det [1 0 0; 0 2 0; 0 0 3] je:","0","6","1","2","3","B"
+B0B01LAG,"Hodnost [0 0 0; 0 0 0] je:","0","1","2","3","4","C"
+B0B01LAG,"Je T(x,y) = (x-y, x+y) injektivní?","Ne","Jen pokud x = y","Jen pokud x ≠ y","Ano","Nelze určit","D"
+B0B01LAG,"Je (1,1,0) v span{(1,0,0), (0,0,1)}?","Ano","Ne","Pouze pokud je báze","Pouze pokud není báze","Nelze určit","B"
+B0B01LAG,"Určete obraz (2,0) pod T(x,y) = (x, 0)","(2,0)","(0,2)","(0,0)","(2,2)","(1,0)","A"
+B0B01LAG,"Det [5 0; 0 5] je:","0","25","5","10","15","B"
+B0B01LAG,"Dimenze podprostoru x₁ + x₂ = 0 v ℝ² je:","0","1","2","3","4","C"
+B0B01LAG,"Která matice má det ≠ 0?","[0 0; 0 0]","[1 1; 1 1]","[1 0; 0 0]","[1 0; 2 1]","[0 1; 1 0]","D"
+B0B01LAG,"Kolik řešení má Ax = b, A je 3x2, hodnost 1?","Žádné","Jedno","Nekonečně mnoho","Záleží na b","Nelze určit","E"
+B0B01LAG,"Určete A - A, A = [2 2; 2 2]","[0 0; 0 0]","[2 2; 2 2]","[4 4; 4 4]","[1 1; 1 1]","[2 0; 0 2]","A"
+B0B01LAG,"Det [0 2; 2 0] je:","0","-4","4","2","8","B"
+B0B01LAG,"Hodnost [1 0; 0 1; 0 0] je:","0","1","2","3","4","C"
+B0B01LAG,"Je T(x,y) = (0, y) lineární?","Ne","Jen pokud y = 0","Jen pokud x = 0","Ano","Nelze určit","D"
+B0B01LAG,"Je {(1,0,0), (0,1,0)} báze ℝ³?","Ano","Ne","Pouze pokud je nezávislá","Pouze pokud generuje ℝ³","Nelze určit","B"
+"B0B01MA1, B0B01MA2","Jaký je výsledek neurčitého integrálu ∫(3x² + 2x) dx?","x³ + x² + C","3x³ + 2x² + C","x³ + x²","3x³ + 2x²","x³ + 2x + C",A
+"B0B01MA1, B0B01MA2","Určete limitu lim (x→0) (sin x)/x.","0","1","∞","-1","Neexistuje",B
+"B0B01MA1, B0B01MA2","Jaký je součet řady ∑(1/n²) pro n od 1 do ∞?","π²/6","1","2","∞","0",A
+"B0B01MA1, B0B01MA2","Určete derivaci funkce f(x) = e^(2x).","2e^(2x)","e^(2x)","2e^x","e^x","2x e^(2x)",A
+"B0B01MA1, B0B01MA2","Jaký je určitý integrál ∫[0,1] x dx?","1/2","1","0","2","1/3",A
+"B0B01MA1, B0B01MA2","Určete, zda je funkce f(x) = x³ rostoucí na intervalu (-∞, ∞).","Ano","Ne","Pouze pro x > 0","Pouze pro x < 0","Pouze pro x = 0",A
+"B0B01MA1, B0B01MA2","Jaký je výsledek integrálu ∫(1/x) dx?","ln|x| + C","1/x + C","x + C","-1/x² + C","0",A
+"B0B01MA1, B0B01MA2","Určete, zda řada ∑(1/n) konverguje.","Ano","Ne","Pouze pro n > 1","Pouze pro n < 1","Nelze určit",B
+"B0B01MA1, B0B01MA2","Jaký je výsledek derivace funkce f(x) = sin(2x)?","2 cos(2x)","cos(2x)","-2 sin(2x)","sin(2x)","2 sin(x)",A
+"B0B01MA1, B0B01MA2","Určete, zda je funkce f(x) = 1/x spojitá v bodě x = 0.","Ano","Ne","Pouze zleva","Pouze zprava","Nelze určit",B
+"B0B01MA1, B0B01MA2","Jaký je výsledek neurčitého integrálu ∫(cos x) dx?","sin x + C","-sin x + C","cos x + C","-cos x + C","0",A
+"B0B01MA1, B0B01MA2","Určete limitu lim (x→∞) (1 + 1/x)^x.","e","1","0","∞","Neexistuje",A
+"B0B01MA1, B0B01MA2","Jaký je součet řady ∑(1/2^n) pro n od 1 do ∞?","1","2","1/2","∞","0",A
+"B0B01MA1, B0B01MA2","Určete derivaci funkce f(x) = ln(x).","1/x","x","ln(x)","e^x","0",A
+"B0B01MA1, B0B01MA2","Jaký je určitý integrál ∫[0,π] sin x dx?","2","0","1","-2","π",A
+"B0B01MA1, B0B01MA2","Určete, zda je funkce f(x) = x^4 rostoucí na intervalu (0, ∞).","Ano","Ne","Pouze pro x > 1","Pouze pro x < 1","Pouze pro x = 0",A
+"B0B01MA1, B0B01MA2","Jaký je výsledek integrálu ∫(e^x) dx?","e^x + C","-e^x + C","e^x","1/e^x + C","0",A
+"B0B01MA1, B0B01MA2","Určete, zda řada ∑(n / 2^n) konverguje.","Ano","Ne","Pouze pro n > 1","Pouze pro n < 1","Nelze určit",A
+"B0B01MA1, B0B01MA2","Jaký je výsledek derivace funkce f(x) = tan x?","sec² x","-sec² x","tan x","cot x","1",A
+"B0B01MA1, B0B01MA2","Určete, zda je funkce f(x) = |x| spojitá v bodě x = 0.","Ano","Ne","Pouze zleva","Pouze zprava","Nelze určit",A
+B0B01MA2,"Určete poloměr konvergence mocninné řady ∑(x^n / n!).","0","1","∞","2","1/2",C
+B0B01MA2,"Jaký je výsledek dvojného integrálu ∫∫_D (x + y) dA, kde D je čtverec [0,1]×[0,1]?","1","2","0","1/2","3/2",A
+B0B01MA2,"Určete, zda je mocninná řada ∑(n x^n) konvergentní pro x = 1/2.","Ano","Ne","Pouze pro x < 1/2","Pouze pro x > 1/2","Nelze určit",A
+B0B01MA2,"Jaký je výsledek trojného integrálu ∫∫∫_V (x + y + z) dV, kde V je jednotkový krychle [0,1]×[0,1]×[0,1]?","3/2","1","0","2","1/2",A
+B0B01MA2,"Určete, zda je mocninná řada ∑(x^n / n²) konvergentní pro x = 1.","Ano","Ne","Pouze pro x < 1","Pouze pro x > 1","Nelze určit",A
+B0B01MA2,"Jaký je výsledek dvojného integrálu ∫∫_D (x² + y²) dA, kde D je kruh s poloměrem 1 a středem v počátku?","π/2","π","2π","0","1",A
+B0B01MA2,"Určete, zda je mocninná řada ∑(n! x^n) konvergentní pro x = 0.","Ano","Ne","Pouze pro x = 0","Pouze pro x ≠ 0","Nelze určit",A
+B0B01MA2,"Jaký je výsledek trojného integrálu ∫∫∫_V (x² + y² + z²) dV, kde V je koule s poloměrem 1 a středem v počátku?","4π/5","2π/3","π","0","1",A
+B0B01MA2,"Určete, zda je mocninná řada ∑(x^n / n) konvergentní pro x = -1.","Ano","Ne","Pouze pro x > -1","Pouze pro x < -1","Nelze určit",A
+B0B01MA2,"Jaký je výsledek dvojného integrálu ∫∫_D (x y) dA, kde D je trojúhelník s vrcholy (0,0), (1,0), (0,1)?","1/24","1/12","1/6","0","1/2",A
+B0B01MA2,"Určete poloměr konvergence mocninné řady ∑(n x^n).","1","0","∞","2","1/2",A
+B0B01MA2,"Jaký je výsledek dvojného integrálu ∫∫_D (x) dA, kde D je čtverec [0,1]×[0,1]?","1/2","1","0","2","1/3",A
+B0B01MA2,"Určete, zda je mocninná řada ∑(x^n / n) konvergentní pro x = 1.","Ano","Ne","Pouze pro x < 1","Pouze pro x > 1","Nelze určit",A
+B0B01MA2,"Jaký je výsledek trojného integrálu ∫∫∫_V (x) dV, kde V je jednotkový krychle [0,1]×[0,1]×[0,1]?","1/2","1","0","2","1/3",A
+B0B01MA2,"Určete, zda je mocninná řada ∑(n! x^n) konvergentní pro x = 1.","Ne","Ano","Pouze pro x < 1","Pouze pro x > 1","Nelze určit",A
+B0B01MA2,"Jaký je výsledek dvojného integrálu ∫∫_D (y) dA, kde D je kruh s poloměrem 1 a středem v počátku?","0","π","2π","1","1/2",A
+B0B01MA2,"Určete, zda je mocninná řada ∑(x^n / n³) konvergentní pro x = -1.","Ano","Ne","Pouze pro x > -1","Pouze pro x < -1","Nelze určit",A
+B0B01MA2,"Jaký je výsledek trojného integrálu ∫∫∫_V (y) dV, kde V je koule s poloměrem 1 a středem v počátku?","0","π","2π","1","1/2",A
+B0B01MA2,"Určete, zda je mocninná řada ∑(x^n / n) konvergentní pro x = -1.","Ano","Ne","Pouze pro x > -1","Pouze pro x < -1","Nelze určit",A
+B0B01MA2,"Jaký je výsledek dvojného integrálu ∫∫_D (x + y) dA, kde D je trojúhelník s vrcholy (0,0), (1,0), (0,1)?","1/6","1/3","1/2","0","1",A
+B0B01PST,"Jaký je střední hodnota binomického rozdělení s parametry n a p?","n p","n p (1 - p)","p","n","1 - p",A
+B0B01PST,"Určete, zda je stacionární rozdělení Markovského řetězce s maticí přechodu P = [0.5, 0.5; 0.5, 0.5].","[0.5, 0.5]","[0, 1]","[1, 0]","[0.25, 0.75]","Neexistuje",A
+B0B01PST,"Jaký je odhad parametru λ exponenciálního rozdělení metodou maximální věrohodnosti pro vzorek x₁, x₂, ..., xₙ?","1 / průměr(x)","průměr(x)","medián(x)","max(x)","min(x)",A
+B0B01PST,"Určete, zda je testování hypotézy H₀: μ = 0 proti H₁: μ ≠ 0 pro normální rozdělení s neznámým σ².","t-test","z-test","χ²-test","F-test","žádný z výše uvedených",A
+B0B01PST,"Jaký je výsledek pro pravděpodobnost P(X > 2) pro X ~ N(0,1)?","1 - Φ(2)","Φ(2)","1 - Φ(0)","Φ(0)","0.5",A
+B0B01PST,"Určete, zda je Markovský řetězec s maticí přechodu P = [0, 1; 1, 0] periodický.","Ano, perioda 2","Ne","Ano, perioda 1","Ano, perioda 3","Nelze určit",A
+B0B01PST,"Jaký je výsledek pro kovarianci dvou náhodných veličin X a Y, pokud jsou nezávislé?","0","1","E(X) E(Y)","E(X Y)","Var(X) Var(Y)",A
+B0B01PST,"Určete, zda je odhad parametru θ = (1/n) ∑ x_i nezkreslený pro θ v Poissonově rozdělení.","Ano","Ne","Pouze pro n > 1","Pouze pro n < 1","Nelze určit",A
+B0B01PST,"Jaký je výsledek pro P(X = k) pro X ~ Bin(n, p)?","C(n, k) p^k (1 - p)^(n - k)","p^k (1 - p)^(n - k)","C(n, k) p^(n - k) (1 - p)^k","p^(n - k) (1 - p)^k","C(n, k) p^k",A
+B0B01PST,"Určete, zda je Markovský řetězec s maticí přechodu P = [1, 0; 0, 1] ireducibilní.","Ano","Ne","Pouze pro stav 1","Pouze pro stav 2","Nelze určit",B
+B0B01PST,"Jaký je rozptyl binomického rozdělení s parametry n a p?","n p (1 - p)","n p","p","n","1 - p",A
+B0B01PST,"Určete, zda je stacionární rozdělení Markovského řetězce s maticí přechodu P = [0.2, 0.8; 0.6, 0.4].","[0.428, 0.572]","[0.5, 0.5]","[0, 1]","[1, 0]","Neexistuje",A
+B0B01PST,"Jaký je odhad parametru p binomického rozdělení metodou maximální věrohodnosti pro vzorek x₁, x₂, ..., xₙ?","průměr(x) / n","průměr(x)","medián(x)","max(x)","min(x)",A
+B0B01PST,"Určete, zda je testování hypotézy H₀: σ² = 1 proti H₁: σ² ≠ 1 pro normální rozdělení.","χ²-test","t-test","z-test","F-test","žádný z výše uvedených",A
+B0B01PST,"Jaký je výsledek pro pravděpodobnost P(X < 1) pro X ~ N(0,1)?","Φ(1)","1 - Φ(1)","Φ(0)","1 - Φ(0)","0.5",A
+B0B01PST,"Určete, zda je Markovský řetězec s maticí přechodu P = [0.5, 0.5; 0.5, 0.5] periodický.","Ne","Ano, perioda 1","Ano, perioda 2","Ano, perioda 3","Nelze určit",A
+B0B01PST,"Jaký je výsledek pro korelační koeficient dvou náhodných veličin X a Y, pokud jsou nezávislé?","0","1","-1","E(X) E(Y)","Var(X) Var(Y)",A
+B0B01PST,"Určete, zda je odhad parametru θ = (1/n) ∑ x_i nezkreslený pro θ v normálním rozdělení.","Ano","Ne","Pouze pro n > 1","Pouze pro n < 1","Nelze určit",A
+B0B01PST,"Jaký je výsledek pro P(X = k) pro X ~ Poisson(λ)?","(λ^k / k!) e^{-λ}","λ^k e^{-λ}","(λ^k / k!)","e^{-λ}","λ^k",A
+B0B01PST,"Určete, zda je Markovský řetězec s maticí přechodu P = [0.3, 0.7; 0.4, 0.6] ireducibilní.","Ano","Ne","Pouze pro stav 1","Pouze pro stav 2","Nelze určit",A
+B4B36PDV,"Jaký je hlavní rozdíl mezi paralelním a distribuovaným systémem?","Paralelní systém má sdílenou paměť, distribuovaný systém ne.","Distribuovaný systém má sdílenou paměť, paralelní systém ne.","Paralelní systém je vždy rychlejší.","Distribuovaný systém je vždy pomalejší.","Žádný z výše uvedených.",A
+B4B36PDV,"Určete, zda je algoritmus pro synchronizaci hodin v distribuovaném systému.","NTP","TCP","UDP","FTP","HTTP",A
+B4B36PDV,"Jaký je výsledek pro počet procesorů v systému s architekturou NUMA?","Více než jeden","Pouze jeden","Žádný","Nekonečno","Nelze určit",A
+B4B36PDV,"Určete, zda je algoritmus pro volbu koordinátora v distribuovaném systému.","Bully algoritmus","Dijkstraův algoritmus","Kruskalův algoritmus","Floyd-Warshallův algoritmus","Žádný z výše uvedených",A
+B4B36PDV,"Jaký je hlavní problém v paralelních systémech?","Synchronizace","Komunikace","Paměť","Procesory","Žádný z výše uvedených",A
+B4B36PDV,"Určete, zda je model pro paralelní programování.","MPI","HTTP","FTP","TCP","UDP",A
+B4B36PDV,"Jaký je výsledek pro počet uzlů v distribuovaném systému?","Více než jeden","Pouze jeden","Žádný","Nekonečno","Nelze určit",A
+B4B36PDV,"Určete, zda je algoritmus pro detekci deadlocku v distribuovaném systému.","Bankéřův algoritmus","Dijkstraův algoritmus","Kruskalův algoritmus","Floyd-Warshallův algoritmus","Žádný z výše uvedených",A
+B4B36PDV,"Jaký je hlavní cíl v paralelních systémech?","Zvýšení výkonu","Snížení výkonu","Zvýšení paměti","Snížení paměti","Žádný z výše uvedených",A
+B4B36PDV,"Určete, zda je prostředek pro implementaci paralelních systémů.","OpenMP","HTTP","FTP","TCP","UDP",A
+B4B36PDV,"Jaký je hlavní výhoda paralelních systémů?","Zvýšení výkonu","Snížení výkonu","Zvýšení paměti","Snížení paměti","Žádný z výše uvedených",A
+B4B36PDV,"Určete, zda je algoritmus pro distribuované vyhledávání.","MapReduce","Dijkstraův algoritmus","Kruskalův algoritmus","Floyd-Warshallův algoritmus","Žádný z výše uvedených",A
+B4B36PDV,"Jaký je výsledek pro počet procesorů v systému s architekturou UMA?","Více než jeden","Pouze jeden","Žádný","Nekonečno","Nelze určit",A
+B4B36PDV,"Určete, zda je algoritmus pro synchronizaci v distribuovaném systému.","Lamportův algoritmus","Dijkstraův algoritmus","Kruskalův algoritmus","Floyd-Warshallův algoritmus","Žádný z výše uvedených",A
+B4B36PDV,"Jaký je hlavní problém v distribuovaných systémech?","Komunikace","Synchronizace","Paměť","Procesory","Žádný z výše uvedených",A
+B4B36PDV,"Určete, zda je model pro distribuované programování.","RPC","HTTP","FTP","TCP","UDP",A
+B4B36PDV,"Jaký je výsledek pro počet uzlů v paralelním systému?","Více než jeden","Pouze jeden","Žádný","Nekonečno","Nelze určit",A
+B4B36PDV,"Určete, zda je algoritmus pro detekci terminace v distribuovaném systému.","Dijkstra-Scholten algoritmus","Dijkstraův algoritmus","Kruskalův algoritmus","Floyd-Warshallův algoritmus","Žádný z výše uvedených",A
+B4B36PDV,"Jaký je hlavní cíl v distribuovaných systémech?","Spolehlivost","Zvýšení výkonu","Snížení výkonu","Zvýšení paměti","Snížení paměti",A
+B4B36PDV,"Určete, zda je prostředek pro implementaci distribuovaných systémů.","CORBA","HTTP","FTP","TCP","UDP",A
+B0B33OPT,"Jaký je výsledek pro minimum funkce f(x) = x²?","0","1","∞","-∞","Neexistuje",A
+B0B33OPT,"Určete, zda je množina {x | x ≥ 0} konvexní.","Ano","Ne","Pouze pro x > 0","Pouze pro x < 0","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro dualitu v lineárním programování?","Max c^T x = min b^T y","Min c^T x = max b^T y","Max c^T x = max b^T y","Min c^T x = min b^T y","Žádný z výše uvedených",A
+B0B33OPT,"Určete, zda je funkce f(x) = x² konvexní.","Ano","Ne","Pouze pro x > 0","Pouze pro x < 0","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro iterační algoritmus pro nalezení lokálního extrému?","Gradientní metoda","Newtonova metoda","Simplexová metoda","Lagrangeova metoda","Žádný z výše uvedených",A
+B0B33OPT,"Určete, zda je množina {x | x = 0} konvexní.","Ano","Ne","Pouze pro x = 0","Pouze pro x ≠ 0","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro lineární programování s omezeními?","Simplexová metoda","Gradientní metoda","Newtonova metoda","Lagrangeova metoda","Žádný z výše uvedených",A
+B0B33OPT,"Určete, zda je funkce f(x) = |x| konvexní.","Ano","Ne","Pouze pro x > 0","Pouze pro x < 0","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro dualitu v konvexní optimalizaci?","Min f(x) = max g(y)","Max f(x) = min g(y)","Min f(x) = min g(y)","Max f(x) = max g(y)","Žádný z výše uvedených",A
+B0B33OPT,"Určete, zda je množina {x | x² ≤ 1} konvexní.","Ano","Ne","Pouze pro x > 0","Pouze pro x < 0","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro maximum funkce f(x) = -x²?","0","1","∞","-∞","Neexistuje",A
+B0B33OPT,"Určete, zda je množina {x | x ≤ 0} konvexní.","Ano","Ne","Pouze pro x < 0","Pouze pro x > 0","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro dualitu v lineárním programování s omezeními?","Max c^T x = min b^T y","Min c^T x = max b^T y","Max c^T x = max b^T y","Min c^T x = min b^T y","Žádný z výše uvedených",A
+B0B33OPT,"Určete, zda je funkce f(x) = x^4 konvexní.","Ano","Ne","Pouze pro x > 0","Pouze pro x < 0","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro iterační algoritmus pro nalezení globálního extrému?","Simplexová metoda","Gradientní metoda","Newtonova metoda","Lagrangeova metoda","Žádný z výše uvedených",A
+B0B33OPT,"Určete, zda je množina {x | x = 1} konvexní.","Ano","Ne","Pouze pro x = 1","Pouze pro x ≠ 1","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro lineární programování bez omezení?","Nelze vyřešit","Triviální řešení","Nekonečno řešení","Jedno řešení","Žádný z výše uvedených",A
+B0B33OPT,"Určete, zda je funkce f(x) = -|x| konvexní.","Ne","Ano","Pouze pro x > 0","Pouze pro x < 0","Nelze určit",A
+B0B33OPT,"Jaký je výsledek pro dualitu v nekonvexní optimalizaci?","Obecně neplatí","Vždy platí","Platí pouze pro konvexní funkce","Platí pouze pro lineární funkce","Žádný z výše uvedených",A
+B0B33OPT,"Určete, zda je množina {x | x² ≥ 1} konvexní.","Ne","Ano","Pouze pro x > 1","Pouze pro x < -1","Nelze určit",A
+
+
+
+
+
+
+
+
